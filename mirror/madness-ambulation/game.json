@@ -1,0 +1,48 @@
+{
+  "slug": "madness-ambulation",
+  "title": "Madness Ambulation",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/madnessambulation/madnessambulation.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/madnessambulation/",
+  "entry": "/madnessambulation.html",
+  "entryUrl": "https://truffled.lol/games/madnessambulation/madnessambulation.html",
+  "status": "partial",
+  "sizeBytes": 20740407,
+  "assetCount": 15,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T06:55:54.764Z",
+  "verifiedAt": "2026-11-18T06:56:06.562Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "really cool flash game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.4061,
+    "rendered": true
+  }
+}

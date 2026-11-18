@@ -1,0 +1,76 @@
+{
+  "slug": "madness-off-color",
+  "title": "Madness Off Color",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/madnessoffcolor.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/madnessoffcolor.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/madnessoffcolor.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/madnessoffcolor.html",
+  "entryUrl": "https://truffled.lol/gamefile/madnessoffcolor.html",
+  "status": "partial",
+  "sizeBytes": 29917073,
+  "assetCount": 102,
+  "known404": [
+    "https://cdn.jsdelivr.net/inlineDelivery/delivery.min.gz.js",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.wav",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.mp3",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.ttf",
+    "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/inlineDelivery/delivery.min.gz.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/inlineDelivery/delivery.min.gz.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/MISC/madnessoffcolor/html5game/.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:20:21.000Z",
+  "verifiedAt": "2026-11-17T13:20:32.806Z",
+  "verification": {
+    "external": 3,
+    "blocking": 1,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "PICO DAY",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 540
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.1099,
+    "rendered": true
+  }
+}

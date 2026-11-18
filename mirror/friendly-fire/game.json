@@ -1,0 +1,896 @@
+{
+  "slug": "friendly-fire",
+  "title": "Friendly Fire",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "2.4.1-pre",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/index.html",
+  "status": "partial",
+  "sizeBytes": 25484706,
+  "assetCount": 340,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/manifest.webmanifest",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Animator.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Camera.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/BitmapFont.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Aseprite.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Assets.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Campaign.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Conversation.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Dance.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/ColorGradient.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/ConversationProxy.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/DialoguePrompt.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/FireGfx.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Entity.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/FriendlyFire.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Face.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Game.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/MapInfo.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/GlobalState.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Menu.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/MountainRiddle.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Particles.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/PlayerConversation.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Quests.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Renderer.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Scene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Scenes.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Sound.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Signal.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/SoundEmitter.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/SpeechBubble.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/World.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Transition.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/constants.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Bird.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/easings.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Bone.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Caveman.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Campfire.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Chicken.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ExitPortal.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Cloud.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/FlameBoy.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Fire.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Mimic.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/NPC.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/PhysicsEntity.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Player.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/MovingPlatform.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Portal.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Radio.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ScriptableNPC.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/RiddleStone.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Seed.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Shiba.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ShadowPresence.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Sign.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Skull.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Snowball.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/StoneDisciple.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Stone.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Tree.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/SuperThrow.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wall.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Window.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wing.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wood.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/geom/Direction.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/AffineTransform.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Polygon2.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Line2.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Vector2.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerEvent.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerFamily.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerEventType.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerIntent.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerManager.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadStyle.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadInput.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/Keyboard.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadModel.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/AsepriteNode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ProgressBarNode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ControlTooltipNode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/RootNode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ImageNode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/SceneNode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/SceneNodeAnimation.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/CharacterSelectionScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/CreditsScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/TextNode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/ControlsScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/EndScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/GotItemScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/GameScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/LoadingScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/PauseScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/CurtainTransition.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/FadeTransition.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/TitleScene.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/SlideTransition.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/PowerShiba.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/util.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/events/events.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/html4-entities.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/ansi-html/index.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/index.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/html5-entities.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/xml-entities.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/loglevel/lib/loglevel.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/decode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/index.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/encode.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/sockjs-client/dist/sockjs.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/r.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/tslib/tslib.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/clients/BaseClient.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/clients/SockJSClient.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/url/util.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/url/url.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8000",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/overlay.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/socket.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/log.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/reloadApp.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/createSocketUrl.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/node_modules/ansi-regex/index.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/sendMessage.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/node_modules/strip-ansi/index.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/buildin/global.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/buildin/module.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/hot/emitter.js",
+    "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/hot/log.js"
+  ],
+  "failed": [
+    {
+      "url": "http://friendly-fire.localhost:8000/sockjs-node/info?t=1794843325448",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "http://friendly-fire.localhost:8000/sockjs-node/info?t=1794843324388",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "http://friendly-fire.localhost:8000/sockjs-node/info?t=1794843331522",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "http://friendly-fire.localhost:8000/sockjs-node/info?t=1794843327495",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "http://friendly-fire.localhost:8000/sockjs-node/info?t=1794843339565",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "http://friendly-fire.localhost:8000/sockjs-node/info?t=1794843355600",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/manifest.webmanifest",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/manifest.webmanifest",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Animator.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Animator.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Camera.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Camera.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/BitmapFont.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/BitmapFont.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Aseprite.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Aseprite.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Assets.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Assets.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Campaign.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Campaign.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Conversation.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Conversation.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Dance.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Dance.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/ColorGradient.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/ColorGradient.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/ConversationProxy.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/ConversationProxy.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/DialoguePrompt.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/DialoguePrompt.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/FireGfx.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/FireGfx.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Entity.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Entity.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/FriendlyFire.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/FriendlyFire.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Face.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Face.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Game.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Game.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/MapInfo.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/MapInfo.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/GlobalState.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/GlobalState.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Menu.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Menu.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/MountainRiddle.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/MountainRiddle.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Particles.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Particles.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/PlayerConversation.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/PlayerConversation.js",
+      "status": 404
+    },
+    {
+      "url": "http://friendly-fire.localhost:8000/sockjs-node/info?t=1794843387620",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Quests.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Quests.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Renderer.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Renderer.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Scene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Scene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Scenes.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Scenes.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Sound.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Sound.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Signal.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Signal.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/SoundEmitter.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/SoundEmitter.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/SpeechBubble.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/SpeechBubble.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/World.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/World.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Transition.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/Transition.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/constants.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Bird.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Bird.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/easings.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/easings.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Bone.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Bone.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Caveman.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Caveman.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Campfire.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Campfire.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Chicken.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Chicken.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ExitPortal.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ExitPortal.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Cloud.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Cloud.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/FlameBoy.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/FlameBoy.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Fire.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Fire.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Mimic.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Mimic.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/NPC.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/NPC.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/PhysicsEntity.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/PhysicsEntity.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Player.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Player.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/MovingPlatform.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/MovingPlatform.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Portal.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Portal.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Radio.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Radio.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ScriptableNPC.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ScriptableNPC.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/RiddleStone.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/RiddleStone.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Seed.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Seed.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Shiba.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Shiba.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ShadowPresence.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/ShadowPresence.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Sign.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Sign.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Skull.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Skull.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Snowball.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Snowball.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/StoneDisciple.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/StoneDisciple.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Stone.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Stone.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Tree.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Tree.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/SuperThrow.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/SuperThrow.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wall.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wall.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Window.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Window.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wing.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wing.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wood.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/entities/Wood.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/geom/Direction.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/geom/Direction.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/AffineTransform.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/AffineTransform.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Polygon2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Polygon2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Line2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Line2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Vector2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/graphics/Vector2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerEvent.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerEvent.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerFamily.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerFamily.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerEventType.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerEventType.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerIntent.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerIntent.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerManager.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/ControllerManager.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadStyle.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadStyle.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadInput.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadInput.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/Keyboard.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/Keyboard.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadModel.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/input/GamepadModel.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/AsepriteNode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/AsepriteNode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ProgressBarNode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ProgressBarNode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ControlTooltipNode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ControlTooltipNode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/RootNode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/RootNode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ImageNode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/ImageNode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/SceneNode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/SceneNode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/SceneNodeAnimation.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/SceneNodeAnimation.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/CharacterSelectionScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/CharacterSelectionScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/CreditsScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/CreditsScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/TextNode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scene/TextNode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/ControlsScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/ControlsScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/EndScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/EndScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/GotItemScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/GotItemScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/GameScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/GameScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/LoadingScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/LoadingScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/PauseScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/PauseScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/CurtainTransition.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/CurtainTransition.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/FadeTransition.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/FadeTransition.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/TitleScene.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/TitleScene.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/SlideTransition.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/transitions/SlideTransition.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/PowerShiba.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/scenes/PowerShiba.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/util.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/lib/util.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/events/events.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/events/events.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/html4-entities.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/html4-entities.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/ansi-html/index.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/ansi-html/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/index.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/html5-entities.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/html5-entities.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/xml-entities.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/html-entities/lib/xml-entities.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/loglevel/lib/loglevel.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/loglevel/lib/loglevel.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/decode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/index.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/encode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/querystring-es3/encode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/sockjs-client/dist/sockjs.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/sockjs-client/dist/sockjs.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/r.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/r.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/tslib/tslib.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/tslib/tslib.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/clients/BaseClient.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/clients/BaseClient.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/clients/SockJSClient.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/clients/SockJSClient.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/url/util.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/url/util.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/url/url.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/url/url.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8000",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8000",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/overlay.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/overlay.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/socket.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/socket.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/log.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/log.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/reloadApp.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/reloadApp.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/createSocketUrl.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/createSocketUrl.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/node_modules/ansi-regex/index.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/node_modules/ansi-regex/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/sendMessage.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/client/utils/sendMessage.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/node_modules/strip-ansi/index.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack-dev-server/node_modules/strip-ansi/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/buildin/global.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/buildin/global.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/buildin/module.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/buildin/module.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/hot/emitter.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/hot/emitter.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/hot/log.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/95b0ae44-0bbb-4242-9c9a-709a8f489d15/2.4.1-pre/node_modules/webpack/hot/log.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-16T15:37:00.569Z",
+  "verifiedAt": "2026-11-16T15:37:14.067Z",
+  "verification": {
+    "external": 4,
+    "blocking": 4,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Friendly Fire",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 480,
+      "height": 270
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0198,
+    "rendered": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "/games/learntoflyidle/index.html": "/index.html",
+  "/games/learntoflyidle/ltf-idle.swf": "/ltf-idle.swf",
+  "/js/all.min.js": "/__site__/js/all.min.js",
+  "http://server.cpmstar.com/adviewas3.swf?contentspotid=10650Q13AEDDE1": "/__external__/server.cpmstar.com/adviewas3.__q148191a0.swf",
+  "http://server.cpmstar.com/cached/flashadv11.js": "/__external__/server.cpmstar.com/cached/flashadv11.js",
+  "http://server.cpmstar.com/trueup.aspx?poolid=10650&b=2": "/__external__/server.cpmstar.com/trueup.__q5f446765.aspx",
+  "http://server.cpmstar.com/viewcontent.aspx?xml=1&b=0&contentspotid=10650Q13AEDDE1&maxwidth=720&maxheight=480&srcurl=http%3A%2F%2Flearn-to-fly-idle.localhost%3A8124%2Fltf-idle.swf&fv=17&allowscript=0&noadtypeid=3,24&interstitial=0&overlaytime=0&trapserrors=1": "/__external__/server.cpmstar.com/viewcontent.__q9b741d0d.aspx",
+  "https://truffled.lol/games/learntoflyidle/index.html": "/index.html",
+  "https://truffled.lol/games/learntoflyidle/ltf-idle.swf": "/ltf-idle.swf",
+  "https://truffled.lol/js/all.min.js": "/__site__/js/all.min.js",
+  "https://unpkg.com/@ruffle-rs/ruffle": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js"
+}

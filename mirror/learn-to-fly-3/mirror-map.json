@@ -1,0 +1,19 @@
+{
+  "/games/ltf3/index.html": "/index.html",
+  "/games/ltf3/ltf3.swf": "/ltf3.swf",
+  "http://lbgserver.com/amfphp/amfphp-2.2/Amfphp/": "/__external__/lbgserver.com/amfphp/amfphp-2.2/Amfphp.html",
+  "http://server.cpmstar.com/adviewas3.swf?contentspotid=13628Q38CF2FE4": "/__external__/server.cpmstar.com/adviewas3.__q51fea4b9.swf",
+  "http://server.cpmstar.com/cached/flashadv11.js": "/__external__/server.cpmstar.com/cached/flashadv11.js",
+  "http://server.cpmstar.com/trueup.aspx?poolid=13628&b=2": "/__external__/server.cpmstar.com/trueup.__qc5e46367.aspx",
+  "http://server.cpmstar.com/viewcontent.aspx?xml=1&b=0&contentspotid=13628Q38CF2FE4&maxwidth=720&maxheight=480&srcurl=http%3A%2F%2Flearn-to-fly-3.localhost%3A8124%2Fltf3.swf&fv=28&allowscript=1&noadtypeid=3,24&interstitial=0&overlaytime=0&trapserrors=1": "/__external__/server.cpmstar.com/viewcontent.__q7c81afcd.aspx",
+  "https://truffled.lol/games/ltf3/index.html": "/index.html",
+  "https://truffled.lol/games/ltf3/ltf3.swf": "/ltf3.swf",
+  "https://unpkg.com/@ruffle-rs/ruffle": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js"
+}

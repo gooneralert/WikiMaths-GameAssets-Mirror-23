@@ -1,0 +1,96 @@
+{
+  "slug": "dreadhead-parkour",
+  "title": "Dreadhead Parkour",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/dread.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/dread.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/dread.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/dread.html",
+  "entryUrl": "https://truffled.lol/gamefile/dread.html",
+  "status": "partial",
+  "sizeBytes": 420572,
+  "assetCount": 24,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/Box2D_v2.3.1_min.wasm.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/Box2D_v2.3.1_min.wasm.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/Box2D_v2.3.1_min.wasm.js.mem",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/Box2D_v2.3.1_min.wasm.js.mem",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/workermain.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/workermain.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/Box2D_v2.3.1_min.wasm.temp.asm.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/Box2D_v2.3.1_min.wasm.temp.asm.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/sw.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/sw.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/workermain.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/workermain.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/scriptsInEvents.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/scriptsInEvents.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/previewworker.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/previewworker.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/scriptsInEvents.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/scriptsInEvents.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/scripts/c3runtime.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/310/scripts/scripts/c3runtime.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T08:41:43.517Z",
+  "verifiedAt": "2026-11-18T14:22:29.066Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Dreadhead Parkour",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": false
+  },
+  "onlineOnly": true
+}

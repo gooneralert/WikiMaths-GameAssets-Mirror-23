@@ -1,0 +1,77 @@
+{
+  "slug": "nubbys-number-factory",
+  "title": "Nubbys Number Factory",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/nubby.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/nubby.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/nubby.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/nubby.html",
+  "entryUrl": "https://truffled.lol/gamefile/nubby.html",
+  "status": "partial",
+  "sizeBytes": 77087403,
+  "assetCount": 28,
+  "known404": [
+    "https://cdn.jsdelivr.net/images/AvatarPlaceholder.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/audiogroup1.dat",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/audiogroup1.dat",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/datafile_runner.data",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/datafile_runner.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/images/AvatarPlaceholder.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/images/AvatarPlaceholder.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/biologyexams@main/nubbys-number-factory/.mp3",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:55:50.830Z",
+  "verifiedAt": "2026-11-17T14:56:57.548Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Nubby's Number Factory",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8193,
+    "rendered": true
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "slug": "dead-plate",
+  "title": "DEAD PLATE",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/dead.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/dead.html",
+  "entryUrl": "https://truffled.lol/gamefile/dead.html",
+  "status": "partial",
+  "sizeBytes": 22641090,
+  "assetCount": 73,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/undefined/pages/home.html",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/undefined/pages/home.html",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image.png?user=me&password=secret",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image.png?user=me&password=secret",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image.png?v=1&user=me&password=secret",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image.png?v=1&user=me&password=secret",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/iamge.png?v=1",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/iamge.png?v=1",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/something.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/something.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/assets/image.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/assets/image.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/spinObj_01.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/spinObj_01.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/video.mp4",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/video.mp4",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/video.webm",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/video.webm",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image_sequence_02.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image_sequence_02.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/assets/image.svg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/assets/image.svg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image_sequence_01.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image_sequence_01.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image_sequence_03.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image_sequence_03.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image_sequence_04.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/image_sequence_04.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/assets/spritesheet.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/assets/spritesheet.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/desyrel.fnt",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/desyrel.fnt",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/data/bunny.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/data/bunny.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/assets/score.fnt",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/assets/score.fnt",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/myImage.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/myImage.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/BoxWithRoundedCorners.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/BoxWithRoundedCorners.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Event.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Event.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/snake.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/libs/snake.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Map%1.json",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Map%1.json",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Items.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Items.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Weapons.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Weapons.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Enemies.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/Enemies.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.m4a",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.m4a",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.webm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.webm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/dead-plate/js/.mp4",
+      "status": 403
+    },
+    {
+      "url": "http://mydomain.com/video.mp4",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T06:38:55.977Z",
+  "verifiedAt": "2026-11-17T06:40:17.480Z",
+  "verification": {
+    "external": 2,
+    "blocking": 1,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 3,
+    "title": "DEAD PLATE",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 816,
+      "height": 624
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0529,
+    "rendered": true
+  }
+}

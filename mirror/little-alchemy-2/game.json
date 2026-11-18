@@ -1,0 +1,103 @@
+{
+  "slug": "little-alchemy-2",
+  "title": "Little Alchemy 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/little2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/little2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/little2.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/little2.html",
+  "entryUrl": "https://truffled.lol/gamefile/little2.html",
+  "status": "partial",
+  "sizeBytes": 3577518,
+  "assetCount": 60,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/chunk-vendors-legacy.216eae81.js",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/loading-screen-legacy.82e61d54.js",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/app-legacy.f47d109e.js",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/sw.js",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.js",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/img/popup-close.d2a03f3b.svg",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/img/logo.2b0c661a.svg",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/static/img/logo.svg",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.css",
+    "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.m4a"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/chunk-vendors-legacy.216eae81.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/chunk-vendors-legacy.216eae81.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/loading-screen-legacy.82e61d54.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/loading-screen-legacy.82e61d54.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/app-legacy.f47d109e.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/app-legacy.f47d109e.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/sw.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/sw.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/img/popup-close.d2a03f3b.svg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/img/popup-close.d2a03f3b.svg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/img/logo.2b0c661a.svg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/img/logo.2b0c661a.svg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/static/img/logo.svg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/static/img/logo.svg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.css",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/MultiverseG/littlealchemy2@main/js/.m4a",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T12:54:24.483Z",
+  "verifiedAt": "2026-11-17T12:55:30.930Z",
+  "verification": {
+    "external": 8,
+    "blocking": 1,
+    "ignoredExternal": 7,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Little Alchemy 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9998,
+    "rendered": true
+  }
+}

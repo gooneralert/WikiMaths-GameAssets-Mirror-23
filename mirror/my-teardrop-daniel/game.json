@@ -1,0 +1,203 @@
+{
+  "slug": "my-teardrop-daniel",
+  "title": "My teardrop, daniel",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/mytear.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/mytear.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/mytear.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/mytear.html",
+  "entryUrl": "https://truffled.lol/gamefile/mytear.html",
+  "status": "partial",
+  "sizeBytes": 38586629,
+  "assetCount": 85,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/manifest.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/Sprites/bg1024x1024.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.otf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ttf",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.woff2",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.jpeg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.jpg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.woff",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.webp",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.mp4",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.svg",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.avif",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.webm",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ogv",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.dds",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/myTeardrop.txt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.fnt",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.xml",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/Sprites/anchor.png",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/.json",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ktx",
+    "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/latest.json?nocache="
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/discount.json?nocache=1794925625499",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/discount.json?nocache=1794925625499",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/manifest.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/manifest.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/Sprites/bg1024x1024.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/Sprites/bg1024x1024.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.otf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.otf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.woff2",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.jpeg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.jpeg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.woff",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.woff",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.webp",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.webp",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.svg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.svg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.avif",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.avif",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ogv",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ogv",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.dds",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.dds",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/myTeardrop.txt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/myTeardrop.txt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/discount.json?nocache=",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/discount.json?nocache=",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.fnt",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/Sprites/anchor.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/Sprites/anchor.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ktx",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/.ktx",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/latest.json?nocache=",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/waycrosspublicmedia/teardrop/play/bfdi/latest.json?nocache=",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:28:14.357Z",
+  "verifiedAt": "2026-11-17T14:29:20.840Z",
+  "verification": {
+    "external": 3,
+    "blocking": 3,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 58,
+    "title": "myTeardrop",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.0131,
+    "rendered": true
+  }
+}

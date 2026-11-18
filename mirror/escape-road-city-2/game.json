@@ -1,0 +1,84 @@
+{
+  "slug": "escape-road-city-2",
+  "title": "Escape Road City 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/roadcity2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/roadcity2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/roadcity.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/roadcity2.html",
+  "entryUrl": "https://truffled.lol/gamefile/roadcity2.html",
+  "status": "partial",
+  "sizeBytes": 32720877,
+  "assetCount": 32,
+  "known404": [
+    "https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/escape-road-city-2-v25022604.data.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/escape-road-city-2-v25022604.data.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/escape-road-city-2-v25022604.framework.js.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/escape-road-city-2-v25022604.framework.js.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/escape-road-city-2-v25022604.wasm.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/escape-road-city-2-v25022604.wasm.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/escape-road-city-2-v25022604.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/escape-road-city-2-v25022604.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+      "error": "HTTP 404 for https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/.br",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:38:04.987Z",
+  "verifiedAt": "2026-11-17T09:39:12.711Z",
+  "verification": {
+    "external": 3,
+    "blocking": 3,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Tung Sahur Horror",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1112,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9789,
+    "rendered": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "madness-gemini",
+  "title": "Madness Gemini",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/madnessgemini.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/madnessgemini.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/madnessgemini.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/madnessgemini.html",
+  "entryUrl": "https://truffled.lol/gamefile/madnessgemini.html",
+  "status": "partial",
+  "sizeBytes": 41385437,
+  "assetCount": 8,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:09:36.159Z",
+  "verifiedAt": "2026-11-17T13:10:42.779Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Madness Gemini",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.8557,
+    "rendered": true
+  }
+}

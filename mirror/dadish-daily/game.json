@@ -1,0 +1,219 @@
+{
+  "slug": "dadish-daily",
+  "title": "Dadish Daily",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/daily.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/daily.html",
+  "entryUrl": "https://truffled.lol/gamefile/daily.html",
+  "status": "partial",
+  "sizeBytes": 9745490,
+  "assetCount": 105,
+  "known404": [
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/js/LoadData.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/gamebridge.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/config/game-config.json",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/com.stencyl.Data",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/com.stencyl.models.Atlas",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/graphics/default-font.png",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.png",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@1.5x.png",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@2x.png",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.fnt",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/graphics/default-font.fnt",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.txt",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/haxe.io.Bytes",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.JPEG",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.BMP",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.PNG",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@4x.png",
+    "https://rawcdn.githack.com/library.json",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/library.json",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime.utils.AssetBundle",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime.utils.Assets",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/openfl.utils.Assets",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/polygonal.ds.Map",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/FileSaver.js",
+    "https://www.googletagservices.com/pubads_impl.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js"
+  ],
+  "failed": [
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/js/LoadData.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/js/LoadData.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/gamebridge.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/gamebridge.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/config/game-config.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/config/game-config.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/com.stencyl.Data",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/com.stencyl.Data",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/com.stencyl.models.Atlas",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/com.stencyl.models.Atlas",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/graphics/default-font.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/graphics/default-font.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@1.5x.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@1.5x.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@2x.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@2x.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.fnt",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/graphics/default-font.fnt",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/assets/graphics/default-font.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.txt",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/haxe.io.Bytes",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/haxe.io.Bytes",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.JPEG",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.JPEG",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.BMP",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.BMP",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.PNG",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime._internal.format.PNG",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@4x.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/@4x.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/library.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/library.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime.utils.AssetBundle",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime.utils.AssetBundle",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime.utils.Assets",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/lime.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/openfl.utils.Assets",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/openfl.utils.Assets",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/polygonal.ds.Map",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/polygonal.ds.Map",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/FileSaver.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/daily-dadish/FileSaver.js",
+      "status": 404
+    },
+    {
+      "url": "https://www.googletagservices.com/pubads_impl.js",
+      "error": "HTTP 404 for https://www.googletagservices.com/pubads_impl.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-16T15:07:56.139Z",
+  "verifiedAt": "2026-11-16T15:09:17.271Z",
+  "verification": {
+    "external": 99,
+    "blocking": 2,
+    "ignoredExternal": 97,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 768,
+      "height": 432
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

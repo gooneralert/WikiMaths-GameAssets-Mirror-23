@@ -1,0 +1,49 @@
+{
+  "slug": "madness-project-nexus",
+  "title": "Madness Project Nexus",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/madnesscombatnexus.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/madnesscombatnexus.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/madnesscombatnexus.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/madnesscombatnexus.html",
+  "entryUrl": "https://truffled.lol/gamefile/madnesscombatnexus.html",
+  "status": "partial",
+  "sizeBytes": 29332684,
+  "assetCount": 8,
+  "known404": [
+    "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:22:44.754Z",
+  "verifiedAt": "2026-11-17T13:22:55.208Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "really cool flash game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.4696,
+    "rendered": true
+  }
+}

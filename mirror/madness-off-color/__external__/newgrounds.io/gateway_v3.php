@@ -1,0 +1,1 @@
+{"success":false,"error":{"message":"Missing required request","code":100},"api_version":"3.0.0","help_url":"http:\/\/www.newgrounds.io\/help"}

@@ -1,0 +1,123 @@
+{
+  "slug": "dadish-3d",
+  "title": "Dadish 3d",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/dadish3d.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/dadish3d.html",
+  "entryUrl": "https://truffled.lol/gamefile/dadish3d.html",
+  "status": "partial",
+  "sizeBytes": 111679825,
+  "assetCount": 77,
+  "known404": [
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/assets/js/LoadData.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/95c35c14f99c257b8362061616967b38.wasm",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/73bfcd05b4c6eae6045dbd2c65d047ba.loader.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/94456554906d4faa25c8323b67abe9b2.framework.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/1e1205ddd913941ee03ba9e2184e5318.data",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.2019.1.js",
+    "https://rawcdn.githack.com/unity-2020/dist/unity-2020.js",
+    "https://rawcdn.githack.com/unity/dist/unity.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/aeee076b08e9151a7a7bc956a6796b1d.jpg",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.2019.2.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/scripts/v2/poki-sdk.js",
+    "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/.png"
+  ],
+  "failed": [
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/assets/js/LoadData.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/assets/js/LoadData.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/95c35c14f99c257b8362061616967b38.wasm",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/95c35c14f99c257b8362061616967b38.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/73bfcd05b4c6eae6045dbd2c65d047ba.loader.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/73bfcd05b4c6eae6045dbd2c65d047ba.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/94456554906d4faa25c8323b67abe9b2.framework.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/94456554906d4faa25c8323b67abe9b2.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/1e1205ddd913941ee03ba9e2184e5318.data",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/1e1205ddd913941ee03ba9e2184e5318.data",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.2019.1.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.2019.1.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/unity-2020/dist/unity-2020.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/unity-2020/dist/unity-2020.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/unity/dist/unity.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/unity/dist/unity.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/aeee076b08e9151a7a7bc956a6796b1d.jpg",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/aeee076b08e9151a7a7bc956a6796b1d.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.2019.2.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.2019.2.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/loaders/v2/unity/static/UnityLoader.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/scripts/v2/poki-sdk.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/scripts/v2/poki-sdk.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/fork-so-the-site-i-take-wont-be-deleted/bulbasaurchat.github.io/de2858a9fa7b7176cee2788842d4278686969811/games/dadish3d/loaders/v3/.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-16T15:05:56.175Z",
+  "verifiedAt": "2026-11-16T15:06:08.457Z",
+  "verification": {
+    "external": 11,
+    "blocking": 2,
+    "ignoredExternal": 9,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 3,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1250,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.5638,
+    "rendered": true
+  }
+}

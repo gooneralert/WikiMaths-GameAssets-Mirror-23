@@ -1,0 +1,87 @@
+{
+  "slug": "escape-road-3",
+  "title": "Escape Road 3",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/escape3.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/escape3.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/escape3.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/escape3.html",
+  "entryUrl": "https://truffled.lol/gamefile/escape3.html",
+  "status": "partial",
+  "sizeBytes": 174546856,
+  "assetCount": 49,
+  "known404": [
+    "https://player-auth.services.api.unity.com/v1/authentication/anonymous"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/escape-road-3-v26041006.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/escape-road-3-v26041006.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/escape-road-3-v26041006.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/escape-road-3-v26041006.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+      "error": "HTTP 404 for https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/escape-road-3@main/Build/escape-road-3-v26041006.data",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/escape-road-3@main/Build/escape-road-3-v26041006.data",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/escape-road-3@main/Build/escape-road-3-v26041006.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/escape-road-3@main/Build/escape-road-3-v26041006.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/escape-road-3@main/fonts/Fredoka-Bold.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/escape-road-3@main/fonts/Fredoka-Bold.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/escape-road-3@main/fonts/Fredoka-Bold.woff",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/escape-road-3@main/fonts/Fredoka-Bold.woff",
+      "status": 403
+    },
+    {
+      "url": "https://api.cdndom.com/sdkdom/gamesdk?params=eyJkb21haW4iOiJodHRwczovL2dhbWVzLm9mcmVlLmlvL2VzY2FwZS1yb2FkLTMvZ2FtZS5odG1sIiwiZ2FtZWlkIjoiZXNjYXBlLXJvYWQtMyIsInRpbWVzcGFuIjoiMTc5NDkwNzk1In0=",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:33:01.964Z",
+  "verifiedAt": "2026-11-17T09:33:20.315Z",
+  "verification": {
+    "external": 2,
+    "blocking": 2,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Escape Road 3",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9904,
+    "rendered": true
+  }
+}

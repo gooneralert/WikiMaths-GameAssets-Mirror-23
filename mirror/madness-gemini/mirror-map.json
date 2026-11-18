@@ -1,0 +1,10 @@
+{
+  "/gamefile/madnessgemini.html": "/madnessgemini.html",
+  "http://www.ngads.com/gateway_v2.php": "/__external__/www.ngads.com/gateway_v2.php",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/core.ruffle.ae1054522f49580946c0.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/f7f28eb60b84863611ca.wasm",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.js",
+  "https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js": "/__external__/cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2025.10.2/ruffle.min.js",
+  "https://raw.githubusercontent.com/Stinkalistic/UGS/main/SWFs/madnessgemini.swf": "/__external__/raw.githubusercontent.com/Stinkalistic/UGS/main/SWFs/madnessgemini.swf",
+  "https://truffled.lol/gamefile/madnessgemini.html": "/madnessgemini.html"
+}

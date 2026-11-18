@@ -1,0 +1,138 @@
+{
+  "slug": "escape-road-2",
+  "title": "Escape Road 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/road2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/road2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/escape2.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/road2.html",
+  "entryUrl": "https://truffled.lol/gamefile/road2.html",
+  "status": "partial",
+  "sizeBytes": 24886294,
+  "assetCount": 9,
+  "known404": [
+    "https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+    "https://truffled.lol/gamefile/fullscreen-button.png"
+  ],
+  "failed": [
+    {
+      "url": "https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+      "error": "HTTP 404 for https://player-auth.services.api.unity.com/v1/authentication/anonymous",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/utils/common.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/utils/common.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/gamefile/fullscreen-button.png",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/fullscreen-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/constants.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/constants.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/utils/strings.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/utils/strings.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/zstream.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/zstream.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/messages.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/messages.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/inffast.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/inffast.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/gzheader.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/gzheader.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/adler32.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/adler32.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/crc32.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/crc32.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/inftrees.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/escaperoad2/zlib/inftrees.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@3b96af8847aa44f44774e663a9e99b9ca235da7f/escaperoad2/build.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@3b96af8847aa44f44774e663a9e99b9ca235da7f/escaperoad2/build.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@3b96af8847aa44f44774e663a9e99b9ca235da7f/escaperoad2/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@3b96af8847aa44f44774e663a9e99b9ca235da7f/escaperoad2/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@3b96af8847aa44f44774e663a9e99b9ca235da7f/escaperoad2/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@3b96af8847aa44f44774e663a9e99b9ca235da7f/escaperoad2/.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@3b96af8847aa44f44774e663a9e99b9ca235da7f/escaperoad2/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@3b96af8847aa44f44774e663a9e99b9ca235da7f/escaperoad2/.wav",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:29:43.636Z",
+  "verifiedAt": "2026-11-17T09:30:50.338Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Unity Web Player | Escape Road 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.974,
+    "rendered": true
+  }
+}

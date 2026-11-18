@@ -1,0 +1,115 @@
+{
+  "slug": "duck-life-8",
+  "title": "Duck Life 8",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/ducklifeadv/",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/ducklifeadv/",
+  "entry": "/",
+  "entryUrl": "https://truffled.lol/games/ducklifeadv/",
+  "status": "partial",
+  "sizeBytes": 7281,
+  "assetCount": 2,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/UnityLoader.js",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part3",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part1",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part4",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part2",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part5",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part6",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part7",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part8",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.code.unityweb.part2",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.code.unityweb.part1",
+    "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.framework.unityweb"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/UnityLoader.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/UnityLoader.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part1",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part1",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part2",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part5",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part5",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part6",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part6",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part7",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part7",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part8",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.data.unityweb.part8",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.code.unityweb.part2",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.code.unityweb.part2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.code.unityweb.part1",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.code.unityweb.part1",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.framework.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/duck-life-adventure/Build/ducklife8bog.wasm.framework.unityweb",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T06:49:49.662Z",
+  "verifiedAt": "2026-11-18T14:26:30.203Z",
+  "verification": {
+    "external": 12,
+    "blocking": 0,
+    "ignoredExternal": 12,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Unity WebGL Player | Adventure",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0,
+    "rendered": false
+  },
+  "onlineOnly": true
+}

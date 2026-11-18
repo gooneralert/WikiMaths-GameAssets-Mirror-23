@@ -1,0 +1,94 @@
+{
+  "slug": "melon-playground",
+  "title": "Melon Playground",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/melon-playground/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/melon-playground/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/melon.webp",
+  "baseUrl": "https://truffled.lol/games/melon-playground/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/melon-playground/index.html",
+  "status": "partial",
+  "sizeBytes": 16890724,
+  "assetCount": 28,
+  "known404": [
+    "https://eggy-car.github.io/site-scripts/frame.js",
+    "https://truffled.lol/Builds.loader.js",
+    "https://truffled.lol/games/melon-playground/main/dec/decode.js",
+    "https://truffled.lol/games/melon-playground/main/dec/dictionary.bin.js",
+    "https://truffled.lol/games/melon-playground/main/dec/dictionary.js",
+    "https://truffled.lol/games/melon-playground/main/dec/prefix.js",
+    "https://truffled.lol/games/melon-playground/main/dec/streams.js",
+    "https://truffled.lol/games/melon-playground/main/dec/transform.js"
+  ],
+  "failed": [
+    {
+      "url": "https://eggy-car.github.io/site-scripts/frame.js",
+      "error": "HTTP 404 for https://eggy-car.github.io/site-scripts/frame.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/Builds.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/Builds.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/melon-playground/main/dec/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/melon-playground/main/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/melon-playground/main/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/melon-playground/main/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/melon-playground/main/dec/dictionary.js",
+      "error": "HTTP 404 for https://truffled.lol/games/melon-playground/main/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/melon-playground/main/dec/prefix.js",
+      "error": "HTTP 404 for https://truffled.lol/games/melon-playground/main/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/melon-playground/main/dec/streams.js",
+      "error": "HTTP 404 for https://truffled.lol/games/melon-playground/main/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/melon-playground/main/dec/transform.js",
+      "error": "HTTP 404 for https://truffled.lol/games/melon-playground/main/dec/transform.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:44:44.393Z",
+  "verifiedAt": "2026-11-17T13:45:50.824Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Melon Playground Game Files",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.965,
+    "rendered": true
+  }
+}

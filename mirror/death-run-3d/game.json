@@ -1,0 +1,202 @@
+{
+  "slug": "death-run-3d",
+  "title": "Death Run 3D",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/death-run-3d/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/death-run-3d/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/death-run-3d/index.html",
+  "status": "partial",
+  "sizeBytes": 6335837,
+  "assetCount": 34,
+  "known404": [
+    "https://truffled.lol/games/death-run-3d/TemplateData56/logo.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/progressEmpty.Light.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/progressFull.Light.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/webgl-logo.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/fullscreen.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/unity-enable.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/unity-disable.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/webgl-enable.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/webgl-disable.png",
+    "https://truffled.lol/games/death-run-3d/TemplateData56/maximize-icon.png",
+    "https://truffled.lol/games/death-run-3d/Build/zlib/inflate.js",
+    "https://truffled.lol/games/death-run-3d/Build/zlib/constants.js",
+    "https://truffled.lol/games/death-run-3d/Build/utils/strings.js",
+    "https://truffled.lol/games/death-run-3d/Build/zlib/messages.js",
+    "https://truffled.lol/games/death-run-3d/Build/zlib/zstream.js",
+    "https://truffled.lol/games/death-run-3d/Build/dec/dictionary.js",
+    "https://truffled.lol/games/death-run-3d/Build/dec/dictionary.bin.js",
+    "https://truffled.lol/games/death-run-3d/Build/dec/decode.js",
+    "https://truffled.lol/games/death-run-3d/Build/zlib/inftrees.js",
+    "https://truffled.lol/games/death-run-3d/Build/dec/prefix.js",
+    "https://truffled.lol/games/death-run-3d/Build/dec/streams.js",
+    "https://truffled.lol/games/death-run-3d/Build/dec/transform.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/progressEmpty.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/progressEmpty.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/progressFull.Light.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/progressFull.Light.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/webgl-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/fullscreen.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/fullscreen.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/unity-enable.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/unity-enable.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/unity-disable.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/unity-disable.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/webgl-enable.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/webgl-enable.png",
+      "status": 404
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://config.uca.cloud.unity3d.com",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://playtomic.id.net/v1?hash=1",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://www.id.net/api/v1/json/protection-lists",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://cdp.cloud.unity3d.com/v1/events",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://t.id.net/log",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/webgl-disable.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/webgl-disable.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/TemplateData56/maximize-icon.png",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/TemplateData56/maximize-icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/utils/strings.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/dec/decode.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/dec/streams.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/death-run-3d/Build/dec/transform.js",
+      "error": "HTTP 404 for https://truffled.lol/games/death-run-3d/Build/dec/transform.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-16T15:20:32.608Z",
+  "verifiedAt": "2026-11-16T15:21:54.065Z",
+  "verification": {
+    "external": 5,
+    "blocking": 5,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Death Run 3D",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.7359,
+    "rendered": true
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "slug": "om-nom-run",
+  "title": "Om Nom Run",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/omnomrun.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/omnomrun.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/omnomrun.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/omnomrun.html",
+  "entryUrl": "https://truffled.lol/gamefile/omnomrun.html",
+  "status": "partial",
+  "sizeBytes": 18003366,
+  "assetCount": 156,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130284324/1/texture-sword_kid.basis?t=6df565bc5bb8258bcc2b4b7054346e0e",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130283249/1/texture-weapon-sword_kid.basis?t=80bc778134868dff37d3649d76f6751d",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/undefined/pages/home.html",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130283427/1/texture_om_nom_x_skin.basis?t=cf782416c98f65fdf4e48718605c04a5",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.wav",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.xml",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.aac",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.dds",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.basis",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/precompile-shaders.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mapping.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/draco.wasm.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/image/vnd-ms.dds",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/draco.wasm.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/filename.glb",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/famobi_analytics_v1.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/v1/play.css",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/detection.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/testPreloadImage.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/splash/splash.css",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/icon.svg",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/famobi.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/RotateToLandscape.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/RotateToPortrait.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130285159/1/draco_decoder.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130284324/1/texture-sword_kid.basis?t=6df565bc5bb8258bcc2b4b7054346e0e",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130284324/1/texture-sword_kid.basis?t=6df565bc5bb8258bcc2b4b7054346e0e",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130283249/1/texture-weapon-sword_kid.basis?t=80bc778134868dff37d3649d76f6751d",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130283249/1/texture-weapon-sword_kid.basis?t=80bc778134868dff37d3649d76f6751d",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/undefined/pages/home.html",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/undefined/pages/home.html",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130283427/1/texture_om_nom_x_skin.basis?t=cf782416c98f65fdf4e48718605c04a5",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130283427/1/texture_om_nom_x_skin.basis?t=cf782416c98f65fdf4e48718605c04a5",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.xml",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.aac",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.aac",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.dds",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.dds",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.basis",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.basis",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/precompile-shaders.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/precompile-shaders.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mapping.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mapping.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/draco.wasm.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/draco.wasm.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.glb",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/.glb",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/image/vnd-ms.dds",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/image/vnd-ms.dds",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/draco.wasm.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/draco.wasm.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/filename.glb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/filename.glb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/famobi_analytics_v1.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/famobi_analytics_v1.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/v1/play.css",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/v1/play.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/detection.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/detection.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/testPreloadImage.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/testPreloadImage.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/splash/splash.css",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/splash/splash.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/icon.svg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/icon.svg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/famobi.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/famobi.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/RotateToLandscape.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/RotateToLandscape.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/RotateToPortrait.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/RotateToPortrait.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/leaderboard2.svg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/images/leaderboard2.svg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130285159/1/draco_decoder.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/files/assets/130285159/1/draco_decoder.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/zepto.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/html5games/gameapi/zepto.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/sdk_interface.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/om-nom-run/html5games/gameapi/sdk_interface.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T15:01:17.971Z",
+  "verifiedAt": "2026-11-17T15:02:25.125Z",
+  "verification": {
+    "external": 6,
+    "blocking": 5,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Om Nom Run",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.993,
+    "rendered": true
+  }
+}

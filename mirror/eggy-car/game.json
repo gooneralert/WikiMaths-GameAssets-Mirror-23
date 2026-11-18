@@ -1,0 +1,289 @@
+{
+  "slug": "eggy-car",
+  "title": "Eggy Car",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/eggycar.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/eggycar.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/eggycar.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/eggycar.html",
+  "entryUrl": "https://truffled.lol/gamefile/eggycar.html",
+  "status": "partial",
+  "sizeBytes": 6519382,
+  "assetCount": 86,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/event?page_url=https%3A%2F%2Fgamedistribution.com%2F&game_id=59a98bf799ef499d9d7b9285bccaa196&eventtype=1",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/appmanifest.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/data.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_add.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/not_ready.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_hit.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_broken.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/not_ready.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_0.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_0.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/click_0.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_1.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_2.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_3.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_2.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ice.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ice.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_3.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_add.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/unlock.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/game_over.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/game_over.ogg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/unlock.m4a",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/package.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ima3_debug.js",
+    "https://game.gamemonkey.org/static/main.min.js",
+    "https://www.googletagservices.com/pubads_impl.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/59a98bf799ef499d9d7b9285bccaa196/?domain=eggy-car.localhost:8124",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/59a98bf799ef499d9d7b9285bccaa196/?domain=eggy-car.localhost:8124",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/event?page_url=https%3A%2F%2Fgamedistribution.com%2F&game_id=59a98bf799ef499d9d7b9285bccaa196&eventtype=1",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/event?page_url=https%3A%2F%2Fgamedistribution.com%2F&game_id=59a98bf799ef499d9d7b9285bccaa196&eventtype=1",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/appmanifest.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/appmanifest.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/data.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/data.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/chat_msg.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/chat_msg.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/chat_msg.m4a",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/chat_msg.m4a",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_add.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_add.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_hit.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_hit.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/not_ready.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/not_ready.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_hit.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_hit.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_broken.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_broken.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/not_ready.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/not_ready.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_broken.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_broken.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/click_0.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/click_0.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_0.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_0.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_0.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_0.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/click_0.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/click_0.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_1.m4a",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_1.m4a",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_1.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_2.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_3.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_3.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_2.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_2.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ice.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ice.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ice.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ice.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_3.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/egg_hit_3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/lib/main.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/lib/main.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_add.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/coin_add.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/unlock.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/unlock.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/game_over.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/game_over.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/game_over.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/game_over.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/unlock.m4a",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/unlock.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/package.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ima3_debug.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/eggy%20car/ima3_debug.js",
+      "status": 404
+    },
+    {
+      "url": "https://game.gamemonkey.org/static/main.min.js",
+      "error": "HTTP 404 for https://game.gamemonkey.org/static/main.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://www.googletagservices.com/pubads_impl.js",
+      "error": "HTTP 404 for https://www.googletagservices.com/pubads_impl.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:02:48.528Z",
+  "verifiedAt": "2026-11-17T09:03:54.820Z",
+  "verification": {
+    "external": 4,
+    "blocking": 3,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Eggy Car",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

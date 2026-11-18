@@ -1,0 +1,742 @@
+{
+  "slug": "doge-miner-2",
+  "title": "Doge Miner 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/dm2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/dm2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/dogeminer2.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/dm2.html",
+  "entryUrl": "https://truffled.lol/gamefile/dm2.html",
+  "status": "partial",
+  "sizeBytes": 12568721,
+  "assetCount": 33,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/manifest.json",
+    "https://gnhustgames.github.io/assets/imageLogo/logo.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogesans-regular-webfont.svg#doge_sansregular",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.eot#iefix",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.eot",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogesans-regular-webfont.ttf",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/cutscenethumb.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.svg#dogeawesome",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.woff2",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg7.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg4.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/srcimg/bg/bg1.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg3.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg-new.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg5.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg9.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg6.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg003.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgmoon01.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg101.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg102.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg103.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg104.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg105.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup01.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup02.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup03.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan02.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/dogewow.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan04.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter2.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/wintermoon.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg001.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan05.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter3.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter4.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter5.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg3.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg2.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_002.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_003.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_004.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_005.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_006.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_007.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_008.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_009.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/xmas.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level1.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_001.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/missions.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level1.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/ParticleUtils.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/Particle.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/PathParticle.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/Emitter.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/pixi.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/AnimatedParticle.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/dogeminersave.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_main.c121e699a02d07db442cac4a1abdff7b.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.4171819b87da22540ed958df01ad16ee.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.8aa12a4aff4af40e223cbcd5f5e1a85d.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_main.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_main.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.db45aa6ce0c32e03a1015028adf5efe7.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.beea84167c6d244554a1130af1d59c11.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.eeec12013a69af09cc3946e345657727.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.320f0ba789291102f8a80615983a32e7.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.e0fcb4ec4cba1a65a03d86351c2afb95.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.ea4d9ccd4b0759abd1ab29078b8ac249.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.62e10cc051b0435cda004756cd28f4cc.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.a69d89c7caa8edd961e159d1735bcb25.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.42f5e02e9538dda18f7ed7abd9a5b3ef.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.4205726d4618313c8386809d9f2b7236.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.760405e0c3743f3cb1396414a8ccc682.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.b89b20bfd1f9a0c9018e1cc756566550.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.72f92f01ce5856dcc8628e95b7a97d02.mp3",
+    "https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.9489d07696b4196923d19dabd0beece8.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_missions.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_missions.c5049585e191b34816bc2dbff75c3b71.mp3",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_missions.67664f560e4d09dbf5e465a3800aa7d8.webm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/js/NULL.JS",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_missions.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/manifest.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/manifest.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/safari-pinned-tab.svg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/safari-pinned-tab.svg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/img/dogeminer2.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/img/dogeminer2.png",
+      "status": 403
+    },
+    {
+      "url": "https://gnhustgames.github.io/assets/imageLogo/logo.jpg",
+      "error": "HTTP 404 for https://gnhustgames.github.io/assets/imageLogo/logo.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogesans-regular-webfont.woff2",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogesans-regular-webfont.woff2",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogesans-regular-webfont.svg#doge_sansregular",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogesans-regular-webfont.svg#doge_sansregular",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.eot#iefix",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.eot#iefix",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.eot",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.eot",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogesans-regular-webfont.ttf",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogesans-regular-webfont.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.ttf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/cutscenethumb.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/cutscenethumb.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.svg#dogeawesome",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.svg#dogeawesome",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.woff2",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/dogeawesome.woff2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg7.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg7.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg4.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg4.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/srcimg/bg/bg1.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/srcimg/bg/bg1.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg3.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg3.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg-new.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg-new.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg5.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg5.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg9.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg9.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg6.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg6.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg003.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg003.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgmoon01.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgmoon01.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg101.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg101.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg102.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg102.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg103.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg103.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg104.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg104.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg105.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg105.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup01.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup01.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan03.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan03.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup02.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup02.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup03.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bgjup03.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan02.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan02.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/dogewow.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/dogewow.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan04.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan04.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter2.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter2.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/wintermoon.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/wintermoon.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg001.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/bg001.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan05.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/titan05.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter3.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter3.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter4.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter4.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter5.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/winter5.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg3.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg3.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg2.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg2.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_002.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_002.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_003.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_003.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_004.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_004.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_005.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_005.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_006.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_006.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_007.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_007.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/easter.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/easter.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_008.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_008.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_009.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_009.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/xmas.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/xmas.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/easterbg.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level1.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level1.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_001.jpg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/bg/halloween_001.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/missions.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/missions.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/halloween.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/img/sprites/halloween.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level1.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.webm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.webm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/ParticleUtils.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/ParticleUtils.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/Particle.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/Particle.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/PathParticle.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/PathParticle.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/Emitter.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/Emitter.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/pixi.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/pixi.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/AnimatedParticle.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/AnimatedParticle.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/dogeminersave.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/dogeminersave.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_main.c121e699a02d07db442cac4a1abdff7b.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_main.c121e699a02d07db442cac4a1abdff7b.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.4171819b87da22540ed958df01ad16ee.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.4171819b87da22540ed958df01ad16ee.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.8aa12a4aff4af40e223cbcd5f5e1a85d.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.8aa12a4aff4af40e223cbcd5f5e1a85d.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_main.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_main.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_main.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_main.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.db45aa6ce0c32e03a1015028adf5efe7.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.db45aa6ce0c32e03a1015028adf5efe7.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.beea84167c6d244554a1130af1d59c11.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.beea84167c6d244554a1130af1d59c11.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.17d3aec05db4486bde244e370a48611f.webm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.17d3aec05db4486bde244e370a48611f.webm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level1.86f5a7998b274464f6c5e936c65b1eb2.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level1.86f5a7998b274464f6c5e936c65b1eb2.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.eeec12013a69af09cc3946e345657727.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.eeec12013a69af09cc3946e345657727.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.320f0ba789291102f8a80615983a32e7.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.320f0ba789291102f8a80615983a32e7.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/deprecation.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/deprecation.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.e0fcb4ec4cba1a65a03d86351c2afb95.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level2.e0fcb4ec4cba1a65a03d86351c2afb95.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.ea4d9ccd4b0759abd1ab29078b8ac249.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.ea4d9ccd4b0759abd1ab29078b8ac249.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.62e10cc051b0435cda004756cd28f4cc.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.62e10cc051b0435cda004756cd28f4cc.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.a942b85ef64458dcb094201142c8427c.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas3.a942b85ef64458dcb094201142c8427c.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.a69d89c7caa8edd961e159d1735bcb25.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level3.a69d89c7caa8edd961e159d1735bcb25.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.42f5e02e9538dda18f7ed7abd9a5b3ef.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level5.42f5e02e9538dda18f7ed7abd9a5b3ef.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.4205726d4618313c8386809d9f2b7236.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas5.4205726d4618313c8386809d9f2b7236.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.760405e0c3743f3cb1396414a8ccc682.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas1.760405e0c3743f3cb1396414a8ccc682.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.b89b20bfd1f9a0c9018e1cc756566550.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas2.b89b20bfd1f9a0c9018e1cc756566550.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.72f92f01ce5856dcc8628e95b7a97d02.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_levelxmas4.72f92f01ce5856dcc8628e95b7a97d02.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js",
+      "error": "HTTP 404 for https://rawgit.com/mrdoob/stats.js/master/build/stats.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.9489d07696b4196923d19dabd0beece8.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_level4.9489d07696b4196923d19dabd0beece8.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_missions.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_missions.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_missions.c5049585e191b34816bc2dbff75c3b71.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_missions.c5049585e191b34816bc2dbff75c3b71.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_missions.67664f560e4d09dbf5e465a3800aa7d8.webm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/audiosprite_missions.67664f560e4d09dbf5e465a3800aa7d8.webm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/js/NULL.JS",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/js/NULL.JS",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_missions.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@bba3c3c4e71662c9d41dea31e564fa9952c123af/doge%20miner%202/snd////audiosprite_missions.mp3",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T08:26:35.843Z",
+  "verifiedAt": "2026-11-17T08:26:48.467Z",
+  "verification": {
+    "external": 9,
+    "blocking": 1,
+    "ignoredExternal": 8,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 3,
+    "title": "Dogeminer 2 Unblocked - GNHUSTGames",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1400,
+      "height": 756
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}
