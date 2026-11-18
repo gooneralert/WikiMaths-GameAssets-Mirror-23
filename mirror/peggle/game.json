@@ -1,0 +1,54 @@
+{
+  "slug": "peggle",
+  "title": "Peggle",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/Peggle.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/Peggle.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/peggle.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/Peggle.html",
+  "entryUrl": "https://truffled.lol/gamefile/Peggle.html",
+  "status": "partial",
+  "sizeBytes": 17576103,
+  "assetCount": 60,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T16:24:53.658Z",
+  "verifiedAt": "2026-11-17T16:25:10.669Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.9955,
+    "rendered": true
+  }
+}

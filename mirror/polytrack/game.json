@@ -1,0 +1,57 @@
+{
+  "slug": "polytrack",
+  "title": "Polytrack",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/polytrack/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/polytrack/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/poly.webp",
+  "baseUrl": "https://truffled.lol/games/polytrack/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/polytrack/index.html",
+  "status": "partial",
+  "sizeBytes": 12930492,
+  "assetCount": 154,
+  "known404": [
+    "https://truffled.lol/games/polytrack/,n.map?"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/polytrack/,n.map?",
+      "error": "HTTP 404 for https://truffled.lol/games/polytrack/,n.map?",
+      "status": 404
+    },
+    {
+      "url": "https://vps.kodub.com:43273/user?version=0.4.1&userToken=965fac9ed94685010bc115eafab32933b0e2cce3ac4668e28a37d266a1c29e81",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T18:21:05.461Z",
+  "verifiedAt": "2026-11-17T18:21:17.237Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

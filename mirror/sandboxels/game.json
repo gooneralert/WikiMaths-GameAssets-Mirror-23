@@ -1,0 +1,115 @@
+{
+  "slug": "sandboxels",
+  "title": "Sandboxels",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/Sandboxels.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/Sandboxels.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sand.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/Sandboxels.html",
+  "entryUrl": "https://truffled.lol/gamefile/Sandboxels.html",
+  "status": "partial",
+  "sizeBytes": 1492469,
+  "assetCount": 12,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/manifest.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/manifest.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/favicon-16x16.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/favicon-16x16.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/safari-pinned-tab.svg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/safari-pinned-tab.svg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/favicon-32x32.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/favicon-32x32.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/favicon.ico",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/favicon.ico",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/apple-touch-icon.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/icons/apple-touch-icon.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/service-worker.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/service-worker.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/mods/fools.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/mods/fools.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/mods/glow.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/mods/glow.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/mods/fools25.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/mods/fools25.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/mods/souls.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/mods/souls.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/fonts/VT323-Regular.ttf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets@main/309/fonts/VT323-Regular.ttf",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:38:29.583Z",
+  "verifiedAt": "2026-11-17T20:38:39.275Z",
+  "verification": {
+    "external": 4,
+    "blocking": 1,
+    "ignoredExternal": 3,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Sandboxels - Experiment with Pixels",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1002,
+      "height": 426
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0175,
+    "rendered": true
+  }
+}

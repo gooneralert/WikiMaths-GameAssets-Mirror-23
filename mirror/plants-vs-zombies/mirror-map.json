@@ -1,0 +1,21 @@
+{
+  "/gamefile/pvs.html": "/pvs.html",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/data.xml": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/data.xml",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/cerebrawl.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/cerebrawl.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/chooseyourseeds.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/chooseyourseeds.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/conveyor.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/conveyor.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/crazydave.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/crazydave.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/grasswalk.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/grasswalk.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/loonboon.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/loonboon.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/losemusic.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/losemusic.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/moongrains.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/moongrains.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/winmusic.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/winmusic.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/zengarden.mp3": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/music/zengarden.mp3",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/resources.swf": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@675f681e73bd2226a28e5df10cdf58f6e45df221/data/modules/pvz/resources.swf",
+  "https://cdn.jsdelivr.net/gh/jackilyna/nakamalab@a5decdbbb6f924242e5bfe6c27f029e5da6e59ec/data/modules/pvz/properties/externalStrings.txt": "/__external__/cdn.jsdelivr.net/gh/jackilyna/nakamalab@a5decdbbb6f924242e5bfe6c27f029e5da6e59ec/data/modules/pvz/properties/externalStrings.txt",
+  "https://cdn.jsdelivr.net/gh/sasa24s/Sphere-compile@95d1d98dc38a920d02e6bbcf61620501b2bacfcb/tables/pvz_9_15.swf": "/__external__/cdn.jsdelivr.net/gh/sasa24s/Sphere-compile@95d1d98dc38a920d02e6bbcf61620501b2bacfcb/tables/pvz_9_15.swf",
+  "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/core.ruffle.e1ab5671fe9d69a41e55.js": "/__external__/cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/core.ruffle.e1ab5671fe9d69a41e55.js",
+  "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/f9db7455c2c80fac021b.wasm": "/__external__/cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/f9db7455c2c80fac021b.wasm",
+  "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js": "/__external__/cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js",
+  "https://truffled.lol/gamefile/pvs.html": "/pvs.html"
+}

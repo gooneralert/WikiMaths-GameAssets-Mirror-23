@@ -1,0 +1,87 @@
+{
+  "slug": "sonic-3",
+  "title": "Sonic 3",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/sonic3/sonic3.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/sonic3/sonic3.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sonic3.webp",
+  "baseUrl": "https://truffled.lol/games/sonic3/",
+  "entry": "/sonic3.html",
+  "entryUrl": "https://truffled.lol/games/sonic3/sonic3.html",
+  "status": "partial",
+  "sizeBytes": 983558,
+  "assetCount": 30,
+  "known404": [
+    "https://truffled.lol/games/sonic3/data/emu-main.js",
+    "https://truffled.lol/games/sonic3/data/emu-css.css",
+    "https://truffled.lol/games/sonic3/data/extractzip.js",
+    "https://truffled.lol/games/sonic3/data/emulator.js",
+    "https://truffled.lol/games/sonic3/data/%22+e+%22.mem",
+    "https://truffled.lol/games/sonic3/data/libunrar.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/sonic3/data/emu-main.js",
+      "error": "HTTP 404 for https://truffled.lol/games/sonic3/data/emu-main.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/sonic3/data/emu-css.css",
+      "error": "HTTP 404 for https://truffled.lol/games/sonic3/data/emu-css.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/sonic3/data/extractzip.js",
+      "error": "HTTP 404 for https://truffled.lol/games/sonic3/data/extractzip.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/sonic3/data/emulator.js",
+      "error": "HTTP 404 for https://truffled.lol/games/sonic3/data/emulator.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/sonic3/data/%22+e+%22.mem",
+      "error": "HTTP 404 for https://truffled.lol/games/sonic3/data/%22+e+%22.mem",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/sonic3/data/libunrar.js",
+      "error": "HTTP 404 for https://truffled.lol/games/sonic3/data/libunrar.js",
+      "status": 404
+    },
+    {
+      "url": "https://netplay.emulatorjs.org/logs",
+      "error": "HTTP 525 for https://netplay.emulatorjs.org/logs",
+      "status": 525
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:11:03.916Z",
+  "verifiedAt": "2026-11-17T22:12:10.126Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "DS Online",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

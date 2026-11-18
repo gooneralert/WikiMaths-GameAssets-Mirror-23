@@ -1,0 +1,80 @@
+{
+  "slug": "shrimp-io",
+  "title": "Shrimp.io",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/shrimpio/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/shrimpio/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/shrimpio.webp",
+  "baseUrl": "https://truffled.lol/games/shrimpio/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/shrimpio/index.html",
+  "status": "partial",
+  "sizeBytes": 60285286,
+  "assetCount": 24,
+  "known404": [
+    "https://truffled.lol/shrimpiobog.loader.js",
+    "https://truffled.lol/shrimpiobog.data",
+    "https://truffled.lol/shrimpiobog.wasm",
+    "https://truffled.lol/shrimpiobog.framework.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/shrimpiobog.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/shrimpiobog.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/shrimpiobog.data",
+      "error": "HTTP 404 for https://truffled.lol/shrimpiobog.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/shrimpiobog.wasm",
+      "error": "HTTP 404 for https://truffled.lol/shrimpiobog.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/shrimpiobog.framework.js",
+      "error": "HTTP 404 for https://truffled.lol/shrimpiobog.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://events.backtrace.io/api/unique-events/submit?token=04eaebf6596396caa468f36cb62b6a4c1ddcbe147b79a70dfef58040c770b0f1&universe=vuvuu",
+      "error": "HTTP 405 for https://events.backtrace.io/api/unique-events/submit?token=04eaebf6596396caa468f36cb62b6a4c1ddcbe147b79a70dfef58040c770b0f1&universe=vuvuu",
+      "status": 405
+    },
+    {
+      "url": "https://events.backtrace.io/api/summed-events/submit?token=04eaebf6596396caa468f36cb62b6a4c1ddcbe147b79a70dfef58040c770b0f1&universe=vuvuu",
+      "error": "HTTP 405 for https://events.backtrace.io/api/summed-events/submit?token=04eaebf6596396caa468f36cb62b6a4c1ddcbe147b79a70dfef58040c770b0f1&universe=vuvuu",
+      "status": 405
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:08:31.370Z",
+  "verifiedAt": "2026-11-17T21:09:37.872Z",
+  "verification": {
+    "external": 4,
+    "blocking": 2,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | Shrimp.io",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

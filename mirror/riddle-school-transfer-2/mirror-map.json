@@ -1,0 +1,17 @@
+{
+  "/games/riddleschooltransfer2/index.html": "/index.html",
+  "/games/riddleschooltransfer2/riddleschoolt2.swf": "/riddleschoolt2.swf",
+  "/js/all.min.js": "/__site__/js/all.min.js",
+  "http://www.ngads.com/gateway_v2.php": "/__external__/www.ngads.com/gateway_v2.php",
+  "https://truffled.lol/games/riddleschooltransfer2/index.html": "/index.html",
+  "https://truffled.lol/games/riddleschooltransfer2/riddleschoolt2.swf": "/riddleschoolt2.swf",
+  "https://truffled.lol/js/all.min.js": "/__site__/js/all.min.js",
+  "https://unpkg.com/@ruffle-rs/ruffle": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js"
+}

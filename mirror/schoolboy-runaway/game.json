@@ -1,0 +1,160 @@
+{
+  "slug": "schoolboy-runaway",
+  "title": "Schoolboy Runaway",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/runaway.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/runaway.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/runaway.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/runaway.html",
+  "entryUrl": "https://truffled.lol/gamefile/runaway.html",
+  "status": "partial",
+  "sizeBytes": 14046,
+  "assetCount": 2,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/TemplateData/style.css",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/TemplateData/style.css",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part1",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part1",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part2",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part2",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part5",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part5",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part7",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part7",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part10",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part10",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part6",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part6",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part9",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part9",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part8",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part8",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.wasm.part2",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.wasm.part2",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.wasm.part1",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.wasm.part1",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part13",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part13",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part11",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part11",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part14",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part14",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part12",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data.part12",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/schoolboy-runaway.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/schoolboy-runaway.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/schoolboy-runaway.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/schoolboy-runaway.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.loader.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.loader.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/TemplateData/favicon.ico",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/TemplateData/favicon.ico",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/schoolboy-runaway/Build/schoolboy-runaway.data",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:58:49.250Z",
+  "verifiedAt": "2026-11-17T20:58:58.681Z",
+  "verification": {
+    "external": 19,
+    "blocking": 18,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | SchoolBoy Runaway",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 600
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

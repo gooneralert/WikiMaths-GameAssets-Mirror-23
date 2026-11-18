@@ -1,0 +1,18 @@
+{
+  "/games/papasburgeria/index.html": "/index.html",
+  "/games/papasburgeria/papasburgeria.swf": "/papasburgeria.swf",
+  "/js/all.min.js": "/__site__/js/all.min.js",
+  "http://www.fliplineads.com/serve/data/papasburgeria.xml?t=1794929927976&w=640&d=papas%2Dburgeria%2Elocalhost%3A8124&h=480&p=WIN%2032%2C0%2C0%2C0&v=2%2E0": "/__external__/www.fliplineads.com/serve/data/papasburgeria.__q5a62e5fd.xml",
+  "http://www.fliplineads.com/serve/data/papasburgeria.xml?t=1794929995104&w=640&d=papas%2Dburgeria%2Elocalhost%3A8124&h=480&p=WIN%2032%2C0%2C0%2C0&v=2%2E0": "/__external__/www.fliplineads.com/serve/data/papasburgeria.__q1aa71d2c.xml",
+  "https://truffled.lol/games/papasburgeria/index.html": "/index.html",
+  "https://truffled.lol/games/papasburgeria/papasburgeria.swf": "/papasburgeria.swf",
+  "https://truffled.lol/js/all.min.js": "/__site__/js/all.min.js",
+  "https://unpkg.com/@ruffle-rs/ruffle": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js"
+}

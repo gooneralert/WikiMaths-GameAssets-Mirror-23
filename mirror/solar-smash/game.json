@@ -1,0 +1,114 @@
+{
+  "slug": "solar-smash",
+  "title": "Solar Smash",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/solar.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/solar.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/solar.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/solar.html",
+  "entryUrl": "https://truffled.lol/gamefile/solar.html",
+  "status": "partial",
+  "sizeBytes": 69942055,
+  "assetCount": 23,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/undefined/pages/home.html",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/lib/libunrar.js.mem",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.data",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.zip",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/TemplateData/fullscreen-button.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/undefined/pages/home.html",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/undefined/pages/home.html",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Build.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Build.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/lib/libunrar.js.mem",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/lib/libunrar.js.mem",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Build.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Build.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Build.wasm",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Build.wasm",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/Build.data",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/Build.data",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/TemplateData/fullscreen-button.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@c5eefc5c13316b94c58e63cb5270b99a13c88fea/solar-smash/TemplateData/fullscreen-button.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:07:48.658Z",
+  "verifiedAt": "2026-11-17T22:07:58.075Z",
+  "verification": {
+    "external": 2,
+    "blocking": 2,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "YT Game Wrapper WebGL Template",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 100,
+      "height": 100
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

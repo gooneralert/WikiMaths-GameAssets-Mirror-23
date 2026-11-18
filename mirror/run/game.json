@@ -1,0 +1,59 @@
+{
+  "slug": "run",
+  "title": "Run",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/run.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/run.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/run1.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/run.html",
+  "entryUrl": "https://truffled.lol/gamefile/run.html",
+  "status": "partial",
+  "sizeBytes": 13506048,
+  "assetCount": 5,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gn-math/assets/175/Run.swf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/gn-math/assets/175/Run.swf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:24:40.791Z",
+  "verifiedAt": "2026-11-17T20:25:47.104Z",
+  "verification": {
+    "external": 2,
+    "blocking": 2,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

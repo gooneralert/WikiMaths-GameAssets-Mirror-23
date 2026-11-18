@@ -1,0 +1,20 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/games/papascheeseria/index.html": "/index.html",
+  "/games/papascheeseria/papascheeseria.swf": "/papascheeseria.swf",
+  "/js/all.min.js": "/__site__/js/all.min.js",
+  "http://www.fliplineads.com/serve/data/papascheeseria.xml?t=1794930206897&w=640&d=papas%2Dcheeseria%2Elocalhost%3A8124&h=480&p=WIN%2032%2C0%2C0%2C0&v=1%2E0%2E2": "/__external__/www.fliplineads.com/serve/data/papascheeseria.__qfb12278c.xml",
+  "http://www.fliplineads.com/serve/data/papascheeseria.xml?t=1794930234852&w=640&d=papas%2Dcheeseria%2Elocalhost%3A8124&h=480&p=WIN%2032%2C0%2C0%2C0&v=1%2E0%2E2": "/__external__/www.fliplineads.com/serve/data/papascheeseria.__q52e630d3.xml",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/games/papascheeseria/index.html": "/index.html",
+  "https://truffled.lol/games/papascheeseria/papascheeseria.swf": "/papascheeseria.swf",
+  "https://truffled.lol/js/all.min.js": "/__site__/js/all.min.js",
+  "https://unpkg.com/@ruffle-rs/ruffle": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js"
+}

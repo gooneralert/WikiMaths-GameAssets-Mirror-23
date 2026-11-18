@@ -1,0 +1,87 @@
+{
+  "slug": "sanic-ball",
+  "title": "Sanic Ball",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/ball/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/ball/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sanicball.webp",
+  "baseUrl": "https://truffled.lol/games/ball/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/ball/index.html",
+  "status": "partial",
+  "sizeBytes": 170150632,
+  "assetCount": 19,
+  "known404": [
+    "https://truffled.lol/WebGL.loader.js",
+    "https://truffled.lol/8c6b39efba71729de57583b3cf8c1214.data",
+    "https://truffled.lol/7faf56499f28bf6c7996977200942458.js",
+    "https://truffled.lol/231ddc22e90918b4ff43e5a494d71466.wasm",
+    "https://truffled.lol/games/ball/TemplateData/webgl-logo.png",
+    "https://truffled.lol/games/ball/TemplateData/fullscreen-button.png"
+  ],
+  "failed": [
+    {
+      "url": "https://stats.wamwoowam.co.uk/api/send",
+      "error": "HTTP 405 for https://stats.wamwoowam.co.uk/api/send",
+      "status": 405
+    },
+    {
+      "url": "https://truffled.lol/WebGL.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/WebGL.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/8c6b39efba71729de57583b3cf8c1214.data",
+      "error": "HTTP 404 for https://truffled.lol/8c6b39efba71729de57583b3cf8c1214.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/7faf56499f28bf6c7996977200942458.js",
+      "error": "HTTP 404 for https://truffled.lol/7faf56499f28bf6c7996977200942458.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/231ddc22e90918b4ff43e5a494d71466.wasm",
+      "error": "HTTP 404 for https://truffled.lol/231ddc22e90918b4ff43e5a494d71466.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ball/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/ball/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ball/TemplateData/fullscreen-button.png",
+      "error": "HTTP 404 for https://truffled.lol/games/ball/TemplateData/fullscreen-button.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:49:46.469Z",
+  "verifiedAt": "2026-11-17T20:50:52.888Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Sanicball",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 720
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

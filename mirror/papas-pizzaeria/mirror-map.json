@@ -1,0 +1,18 @@
+{
+  "/games/papaspizza/index.html": "/index.html",
+  "/games/papaspizza/papaspizzeria.swf": "/papaspizzeria.swf",
+  "/js/all.min.js": "/__site__/js/all.min.js",
+  "http://www.fliplineads.com/serve/pdata/papaspizzeria.xml?t=1794930625422&d=papas-pizzaeria.localhost:8124": "/__external__/www.fliplineads.com/serve/pdata/papaspizzeria.__qaddc9ca5.xml",
+  "http://www.fliplineads.com/serve/pdata/papaspizzeria.xml?t=1794930692453&d=papas-pizzaeria.localhost:8124": "/__external__/www.fliplineads.com/serve/pdata/papaspizzeria.__q1452e42a.xml",
+  "https://truffled.lol/games/papaspizza/index.html": "/index.html",
+  "https://truffled.lol/games/papaspizza/papaspizzeria.swf": "/papaspizzeria.swf",
+  "https://truffled.lol/js/all.min.js": "/__site__/js/all.min.js",
+  "https://unpkg.com/@ruffle-rs/ruffle": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/172de42e6619eac8f371.wasm",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/core.ruffle.16d61072ac7fdc4d5013.js",
+  "https://unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js": "/__external__/unpkg.com/@ruffle-rs/ruffle@0.7.1/ruffle.js"
+}

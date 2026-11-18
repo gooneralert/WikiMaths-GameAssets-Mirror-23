@@ -1,0 +1,213 @@
+{
+  "slug": "snow-battle",
+  "title": "Snow Battle",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/snow.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/snow.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/snowio.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/snow.html",
+  "entryUrl": "https://truffled.lol/gamefile/snow.html",
+  "status": "partial",
+  "sizeBytes": 18652865,
+  "assetCount": 27,
+  "known404": [
+    "https://cdn.jsdelivr.net/js/main.js",
+    "https://cdn.jsdelivr.net/js/lib.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/js/main.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/js/main.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/js/lib.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/js/lib.js",
+      "status": 404
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://perf-events.cloud.unity3d.com/api/v2/projects/eb96c394-440c-44d6-a140-953f8c1e4bed/reports",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://config.uca.cloud.unity3d.com/",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://config.uca.cloud.unity3d.com",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://t.y8.com/log",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://playtomic.y8.com/v1?hash=1",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://account.y8.com/api/v1/json/time/server/unix",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/progressEmpty.Light.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/progressEmpty.Light.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/logo.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/logo.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/progressFull.Light.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/progressFull.Light.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/webgl-logo.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/webgl-logo.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/unity-enable.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/unity-enable.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/fullscreen.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/fullscreen.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/unity-disable.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/unity-disable.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/webgl-enable.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/webgl-enable.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/utils/strings.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/utils/strings.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/webgl-disable.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/webgl-disable.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/constants.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/constants.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/maximize-icon.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/TemplateData56/maximize-icon.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/messages.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/messages.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/decode.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/decode.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/inftrees.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/inftrees.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/zstream.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/zlib/zstream.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/dictionary.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/dictionary.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/prefix.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/prefix.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/dictionary.bin.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/dictionary.bin.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/streams.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/streams.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/transform.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/snowbattle/Build/dec/transform.js",
+      "status": 403
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://cdp.cloud.unity3d.com/v1/events",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://onebigstatic-tmm.tbt.mx/static/https://account.y8.com/api/v1/json/protection-lists",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:58:44.592Z",
+  "verifiedAt": "2026-11-17T21:59:52.310Z",
+  "verification": {
+    "external": 13,
+    "blocking": 10,
+    "ignoredExternal": 3,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "SnowBattle.io",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9643,
+    "rendered": true
+  }
+}

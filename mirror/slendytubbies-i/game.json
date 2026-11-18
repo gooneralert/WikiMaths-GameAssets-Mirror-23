@@ -1,0 +1,79 @@
+{
+  "slug": "slendytubbies-i",
+  "title": "Slendytubbies I",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/slendy1.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/slendy1.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/slendy1.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/slendy1.html",
+  "entryUrl": "https://truffled.lol/gamefile/slendy1.html",
+  "status": "partial",
+  "sizeBytes": 336929,
+  "assetCount": 4,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.asm.code.unityweb",
+    "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.json",
+    "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/ST1.asm.code.unityweb",
+    "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/UnityLoader.js",
+    "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.data.unityweb",
+    "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/ST1.data.unityweb"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.asm.code.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.asm.code.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/ST1.asm.code.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/ST1.asm.code.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/UnityLoader.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/UnityLoader.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.data.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/Build/ST1.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/ST1.data.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/SLENDYTUBBIES/1/ST1.data.unityweb",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:32:49.024Z",
+  "verifiedAt": "2026-11-17T21:32:58.502Z",
+  "verification": {
+    "external": 2,
+    "blocking": 1,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "SLENDYTUBBIES 1",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.0051,
+    "rendered": true
+  }
+}

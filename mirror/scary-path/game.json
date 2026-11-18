@@ -1,0 +1,1728 @@
+{
+  "slug": "scary-path",
+  "title": "Scary Path",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/scary-path/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/scary-path/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/path.webp",
+  "baseUrl": "https://truffled.lol/games/scary-path/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/scary-path/index.html",
+  "status": "partial",
+  "sizeBytes": 6813069,
+  "assetCount": 98,
+  "known404": [
+    "https://truffled.lol/games/scary-path/images/icon.png",
+    "https://truffled.lol/p2l_abcya.png",
+    "https://truffled.lol/p2l.jpg",
+    "https://truffled.lol/games/scary-path/elements/bush_1.png",
+    "https://truffled.lol/games/scary-path/elements/bush_2.png",
+    "https://truffled.lol/games/scary-path/elements/bush_3.png",
+    "https://truffled.lol/games/scary-path/elements/bush_4.png",
+    "https://truffled.lol/games/scary-path/elements/bush_evil.png",
+    "https://truffled.lol/games/scary-path/elements/bush_good.png",
+    "https://truffled.lol/games/scary-path/elements/flower_2.png",
+    "https://truffled.lol/games/scary-path/elements/flower_1.png",
+    "https://truffled.lol/games/scary-path/elements/flower_3.png",
+    "https://truffled.lol/games/scary-path/elements/flower_5.png",
+    "https://truffled.lol/games/scary-path/elements/flower_4.png",
+    "https://truffled.lol/games/scary-path/elements/flower_6.png",
+    "https://truffled.lol/games/scary-path/elements/flower_7.png",
+    "https://truffled.lol/games/scary-path/elements/grass_1.png",
+    "https://truffled.lol/games/scary-path/elements/rock.png",
+    "https://truffled.lol/games/scary-path/elements/tree.png",
+    "https://truffled.lol/games/scary-path/elements/grass_2.png",
+    "https://truffled.lol/games/scary-path/levels/grass.png",
+    "https://truffled.lol/games/scary-path/levels/level_10/part_01.png",
+    "https://truffled.lol/games/scary-path/levels/level_10/central_object.png",
+    "https://truffled.lol/games/scary-path/levels/level_10/part_03.png",
+    "https://truffled.lol/games/scary-path/levels/level_10/part_02.png",
+    "https://truffled.lol/games/scary-path/levels/level_10/part_04.png",
+    "https://truffled.lol/games/scary-path/pers/hero.png",
+    "https://truffled.lol/games/scary-path/main_menu/btn_lab.png",
+    "https://truffled.lol/games/scary-path/main_menu/btn_credits.png",
+    "https://truffled.lol/games/scary-path/main_menu/btn_start.png",
+    "https://truffled.lol/games/scary-path/main_menu/logo.png",
+    "https://truffled.lol/games/scary-path/main_menu/btn_sound.png",
+    "https://truffled.lol/games/scary-path/main_menu/credits.png",
+    "https://truffled.lol/games/scary-path/monsters/cat_1.png",
+    "https://truffled.lol/games/scary-path/monsters/ball.png",
+    "https://truffled.lol/games/scary-path/monsters/cat_3.png",
+    "https://truffled.lol/games/scary-path/monsters/cat_2.png",
+    "https://truffled.lol/games/scary-path/monsters/snake.png",
+    "https://truffled.lol/games/scary-path/monsters/snail.png",
+    "https://truffled.lol/games/scary-path/pers/char_cower.png",
+    "https://truffled.lol/games/scary-path/pers/char_dead.png",
+    "https://truffled.lol/games/scary-path/pers/footstep_1.png",
+    "https://truffled.lol/games/scary-path/pers/char_oh.png",
+    "https://truffled.lol/games/scary-path/pers/footstep_2.png",
+    "https://truffled.lol/games/scary-path/pers/char_run.png",
+    "https://truffled.lol/games/scary-path/popup_1/board_best.png",
+    "https://truffled.lol/games/scary-path/popup_1/board_played.png",
+    "https://truffled.lol/games/scary-path/popup_1/btn_back.png",
+    "https://truffled.lol/games/scary-path/popup_1/btn_left.png",
+    "https://truffled.lol/games/scary-path/popup_1/btn_info.png",
+    "https://truffled.lol/games/scary-path/popup_1/btn_right.png",
+    "https://truffled.lol/games/scary-path/popup_1/text_unlock.png",
+    "https://truffled.lol/games/scary-path/popup_1/btn_unlocked.png",
+    "https://truffled.lol/games/scary-path/popup_1/fragments.png",
+    "https://truffled.lol/games/scary-path/popup_1/font_played_best.png",
+    "https://truffled.lol/games/scary-path/popup_1/popup_window.png",
+    "https://truffled.lol/games/scary-path/popup_2/board_text.png",
+    "https://truffled.lol/games/scary-path/popup_2/best.png",
+    "https://truffled.lol/games/scary-path/popup_2/font_text_big.png",
+    "https://truffled.lol/games/scary-path/popup_2/btn_more_games.png",
+    "https://truffled.lol/games/scary-path/popup_2/font_text.png",
+    "https://truffled.lol/games/scary-path/popup_2/btn_replay.png",
+    "https://truffled.lol/games/scary-path/popup_2/text_new_best.png",
+    "https://truffled.lol/games/scary-path/popup_3/btn_restart.png",
+    "https://truffled.lol/games/scary-path/popup_3/btn_more_games.png",
+    "https://truffled.lol/games/scary-path/roads/road_01.png",
+    "https://truffled.lol/games/scary-path/roads/road_02.png",
+    "https://truffled.lol/games/scary-path/popup_3/btn_sound.png",
+    "https://truffled.lol/games/scary-path/roads/road_03.png",
+    "https://truffled.lol/games/scary-path/roads/road_04.png",
+    "https://truffled.lol/games/scary-path/roads/road_05.png",
+    "https://truffled.lol/games/scary-path/roads/road_07.png",
+    "https://truffled.lol/games/scary-path/roads/road_06.png",
+    "https://truffled.lol/games/scary-path/roads/road_08.png",
+    "https://truffled.lol/games/scary-path/roads/road_09.png",
+    "https://truffled.lol/games/scary-path/roads/road_10.png",
+    "https://truffled.lol/games/scary-path/roads/road_11.png",
+    "https://truffled.lol/games/scary-path/fonts/en/font1.png",
+    "https://truffled.lol/games/scary-path/roads/road_14.png",
+    "https://truffled.lol/games/scary-path/roads/road_13.png",
+    "https://truffled.lol/games/scary-path/roads/road_12.png",
+    "https://truffled.lol/games/scary-path/fonts/en/font3.png",
+    "https://truffled.lol/games/scary-path/fonts/en/font2.png",
+    "https://truffled.lol/games/scary-path/fonts/en/font6.png",
+    "https://truffled.lol/games/scary-path/fonts/en/font5.png",
+    "https://truffled.lol/games/scary-path/fonts/en/font7.png",
+    "https://truffled.lol/games/scary-path/fonts/en/font4.png",
+    "https://truffled.lol/games/scary-path/fonts/zh/font2.png",
+    "https://truffled.lol/games/scary-path/fonts/zh/font1.png",
+    "https://truffled.lol/games/scary-path/fonts/zh/font4.png",
+    "https://truffled.lol/games/scary-path/fonts/zh/font6.png",
+    "https://assets.msn.com/bundles/v1/homePage/latest/edge.mem",
+    "https://assets.msn.com/bundles/v1/homePage/latest/microsoft.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/experience.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/common.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/vendors.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/consumption-page.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/consumption-feed-wc.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/:e.iconName%7D.svg",
+    "https://assets.msn.com/bundles/v1/homePage/latest/.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/%7D.svg",
+    "https://assets.msn.com/ads-prebid.js",
+    "https://assets.msn.com/istripper.js",
+    "https://assets.msn.com/javascript/fropo.js",
+    "https://assets.msn.com/prebid-add.js",
+    "https://assets.msn.com/nb/f_ls.js",
+    "https://assets.msn.com/prebid-ads/adsensebase.js",
+    "https://assets.msn.com/prebid-article-ad-ad-300x250.js",
+    "https://assets.msn.com/reclama/ads.js",
+    "https://assets.msn.com/safu/safu.js",
+    "https://assets.msn.com/adex.js",
+    "https://assets.msn.com/wp-content/plugins/wp-banners/js/wp-banners.js",
+    "https://assets.msn.com/zlk/zlk.js",
+    "https://assets.msn.com/adgpt.js",
+    "https://assets.msn.com/ados.js",
+    "https://assets.msn.com/ads/stickyLb.js",
+    "https://assets.msn.com/ane-popup-banner/ane-popup-banner.js",
+    "https://assets.msn.com/arcads.js",
+    "https://assets.msn.com/ane-preroll/preroll.js",
+    "https://assets.msn.com/awe2.js",
+    "https://assets.msn.com/cnads.js",
+    "https://assets.msn.com/clever_ads.js",
+    "https://assets.msn.com/dfp/dc.js",
+    "https://assets.msn.com/doublepimp2.js",
+    "https://assets.msn.com/eureka/eureka.js",
+    "https://assets.msn.com/exopopunderdesktop.js",
+    "https://assets.msn.com/fload.js",
+    "https://assets.msn.com/expop.js",
+    "https://assets.msn.com/fro_lo.js",
+    "https://assets.msn.com/gpt.min.js",
+    "https://assets.msn.com/frontend_loader.js",
+    "https://assets.msn.com/invoke-2.js",
+    "https://assets.msn.com/js/youmuffpu.js",
+    "https://assets.msn.com/js/m/i-def.js",
+    "https://assets.msn.com/js3caf.js",
+    "https://assets.msn.com/keyade.js",
+    "https://assets.msn.com/kampyle.js",
+    "https://assets.msn.com/lib/ad.js",
+    "https://assets.msn.com/markpop.js",
+    "https://assets.msn.com/moatsdk.min.js",
+    "https://assets.msn.com/nugg.min.js",
+    "https://assets.msn.com/nwm-pw2.min.js",
+    "https://assets.msn.com/nwm-fcn.min.js",
+    "https://assets.msn.com/p8network.js",
+    "https://assets.msn.com/popu.js",
+    "https://assets.msn.com/popup3.js",
+    "https://assets.msn.com/popup2.js",
+    "https://assets.msn.com/pustrck.js",
+    "https://assets.msn.com/punder.js",
+    "https://assets.msn.com/scripts/chatur.js",
+    "https://assets.msn.com/soralink.js",
+    "https://assets.msn.com/taboola_ads.js",
+    "https://assets.msn.com/suv4.js",
+    "https://assets.msn.com/utep_ad.js",
+    "https://assets.msn.com/tardisrocinante/austin.js",
+    "https://assets.msn.com/weborama.js",
+    "https://assets.msn.com/wp-content/plugins/bhcb/lock.js",
+    "https://assets.msn.com/xpopup.js",
+    "https://assets.msn.com/_adverts.js",
+    "https://assets.msn.com/cmbdv2.js",
+    "https://assets.msn.com/_rebid.js",
+    "https://assets.msn.com/push-skin/skin.min.js",
+    "https://assets.msn.com/banger.js",
+    "https://assets.msn.com/pop2.js",
+    "https://assets.msn.com/detroitchicago/anaheim.js",
+    "https://assets.msn.com/detroitchicago/boise.js",
+    "https://assets.msn.com/detroitchicago/houston.js",
+    "https://assets.msn.com/detroitchicago/memphis.js",
+    "https://assets.msn.com/detroitchicago/minneapolis.js",
+    "https://assets.msn.com/detroitchicago/raleigh.js",
+    "https://assets.msn.com/detroitchicago/rochester.js",
+    "https://assets.msn.com/_js/prbd_6.19.0.js",
+    "https://assets.msn.com/detroitchicago/tampa.js",
+    "https://assets.msn.com/prebid14.js",
+    "https://assets.msn.com/pubfig.min.js",
+    "https://assets.msn.com/prebid_ver.js",
+    "https://assets.msn.com/pubfig.js",
+    "https://assets.msn.com/~Prebid.js",
+    "https://assets.msn.com/_prebid.js",
+    "https://assets.msn.com/datomata.widget.js",
+    "https://assets.msn.com/abtest_ab.js",
+    "https://assets.msn.com/adblock-relief.js",
+    "https://assets.msn.com/adb.min.js",
+    "https://assets.msn.com/fuckadb.js",
+    "https://assets.msn.com/blockblock/blockblock.jquery.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/auth/msal-browser-5.6.2.min.js",
+    "https://assets.msn.com/bundles/v1/homePage/latest/,privacy:1,assets:t.assets?.[0]??[]}),ver:",
+    "https://assets.msn.com/general.js?",
+    "https://assets.msn.com/bundles/v1/homePage/latest/===t&&(e.data?this.raw1sAdRegionTupleMap.get(",
+    "https://assets.msn.com/trk.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/accountLinkingNotice.0199c47a7e893b75.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/articleRelatedStories.1ede0ffbb0cb1677.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/ai-mode-context.071a4495d5ee9a45.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/articleTopComment.ce5bf1f1c8c381f6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/background-gallery.1b1152bb9c129b49.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/bingHealthCard.177773cdbaa60fa7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/card-action-service.e08df45c741a450f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/boost-ad-card.bc0a320ed8dad151.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/card-actions-wc.bfd66a9a462162a0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cardTypeToCardInterfaceMapForUmf.2c46628aa0d801b6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/casual-games-carousel-card.465671e4d9390a11.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/casual-games-card.d36aa7e4070e8caa.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/casual-games-pill.691028ac18ff6907.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/channel-store.2d6e47d759aec136.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/ChinaLanguageMismatchCoachMark.8eec47bed232405e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/ChannelStoreMarketSelector.34a8263218e6ad25.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/clarity.b4b40a0a5fb8af5c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/CnexEndBanner.a50cb0da0c476a55.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/codex-bing-chat.24b25e3cc2cdd767.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cold-start-gif.9d780783db9d550d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/common-auto-suggest.b8926be8ea76e87f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cold-start-wc.b7be56400f58b74a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/common-settings-edgenext.0e6c4eff3e52b474.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/common-feed-libs.fd4982c393e55a62.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/common.76aa82ebd4a78e02.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/community-active-discussions.2391ef088da2d146.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/community-creation-ideas.a70f7476070dd33d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/community-card.8f3b69de33945021.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/components_weather-popup_dist_index_js.e418efedc3fe938f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/contextual-feedback-wc.27f8ac08d4b0bc94.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/content-group-card.422c8b224a5ea891.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/creator-spotlight-card.2a39c3ebd2ccdb9e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_card-components_dist_card-flipper_index_js-cs-core-desktop_desktop-feed-card--bcdfbd.26cf4c5b8e1e97a7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_card-components_dist_card-flipper_index_js-cs-core-desktop_info-pane_dist_ind-b7d417.86e1df4ded631bf2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_card-shared_dist_debugger_index_js.c82a89002b16ad62.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_desktop-feed-card-shared_dist_subcomponents_ad-choice_AdChoice_template_js-cs-43ae19.faf0d8fe8d887ca7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_desktop-feed-card-shared_dist_subcomponents_ad-choice_AdChoice_template_js-cs-1d3e0e.c1ee49f764bdbcde.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_responsive-list_dist_index_js.af43a24ab460c574.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_responsive-card_dist_index_js-libs_core_dist_utilities_SlideImageUrl_js-libs_-a02280.0751b61e4d452cce.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_desktop-feed-card-shared_dist_subcomponents_ad-choice_AdChoice_template_js-li-a29caf.e50267310b69244d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_ruby-widget-card_dist_index_js.30d8d4ae4687c86d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_responsive-sd-card_dist_sd-card_register_js-libs_wpo_dist_promotions_FeedCFHe-5c3e68.81c04cecb83cc95f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/cs-core-desktop_ruby-content-card_dist_index_js-libs_fundamentals_dist_utilities_UrlUtility_js.49db024b53a6294d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/daily-moments-card.04dfa0e62a33b2cf.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/daily-wonder-card.5b12f0b25c6b788c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/daily-brief-card.f641d775585a7bb4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/daily-wonder-copilot-card.0e6b353904204c0e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/dense-card.75fbdbdf8b26339d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/dev-tools.f8f042a40e21f109.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/digest-card.6503481625f1bca2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/diagnostic-web-vitals.b3a28232fce0f4dd.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/donation-npo-card.0a48a3fc5053c579.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/election-card.3a818b384c26c533.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/EsportsDataService.1368869bfb2bd90a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experience.37796d3c47b354e8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_breaking-news-wc_dist_index_js.18ba43ae58640b0a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/entertainment-premier-card.3fafee298fc8b2fe.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_card-action-wc_dist_CardActionShared_constants_js-libs_feed-layout_dist_MobileFee-731d3a.918f8a9f230972e4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_casual-games-stripe-carousel-card_dist_index_js.da2c86eb47ae800a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_conditional-banner-hp-wc_dist_index_js.9a3a248c6a4d5bb6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_creator-spotlight-card_dist_components_navPillHover_js-libs_core_dist_utilities_S-c57c05.95fff2102c5c662e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_content-group-card_dist_carousel-utils_CarouselInit_js.cd6a4023ff9c111d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_entry-point-hp-wc_dist_lazy-loadings_widgetLayoutTemplateMaps_js.2ca1e684aacf54b8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_display-ads-wc_dist_index_js.448427f261a9bd03.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_feedback-dialog-wc_dist_index_js.539cc53613307df4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_homepage-footer_dist_index_js.0d058b3ca99fe13b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_me-stripe-wc_dist_index_js.5d06ed174c153f70.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_mail-signout-banner_dist_index_js.f75138ffac93de78.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_msn-feed_dist_components_continuous-right-rail_ContinuousRightRail_js.cbf3ab83dfb69fe6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_money-info-card-wc_dist_index_js-node_modules_lodash-es_camelCase_js.4b2f48cbe783698e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_page-refresh-wc_dist_index_js.76a448dfbf78f5d1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_recipes-sd-card_src_index_ts.099f2c6de9c1a921.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_recommended-sites-wc_dist_index_js-node_modules_cs-core_design-system_dist_esm_de-96405d.faa70abfe7dc584a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_search-history-edgenext-wc_dist_index_js.fd66433e1260919a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_shopping-entry-base-experience_dist_ShoppingEntryBaseExperience_js.350537b64ae7ac0a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_shopping-carousel-wc_dist_index_js-libs_shopping-utils_dist_Decoration_generateDe-82c064.697123e4c78c99d7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_shopping-entry-base-experience_dist_utils_formatter_utils_js-libs_channel-page-ut-9a50c6.b267dc8b6fd9f0d0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_CopilotCard_CopilotCard_styles_js.930470055dd8c9cd.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_DailyQuiz_DailyQuizCard_styles_js.75f79b4e136f3604.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_CopilotCard_CopilotCard_template_js.137a779fe389203a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_FollowedPublishers_FollowedPublishersCard-146167.a34d92725194eba4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_DailyQuiz_DailyQuizCard_template_js.a7b1c8bb7400c477.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_FollowedPublishers_FollowedPublishersCard-a83ffc.92f4c125d11ecff6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_LocalEvents_LocalEventsCard_styles_js.02bcacb90643bf2a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_OnThisDay_OnThisDayCard_styles_js.bca2a144e89f59c8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_LocalEvents_LocalEventsCard_template_js.e301eaea5c187f34.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_OnThisDay_OnThisDayCard_template_js.87f1713627935284.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_PublisherSpotlight_PublisherSpotlightCard-613f5f.2a4fe12ec7f6451d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_PublisherSpotlight_PublisherSpotlightCard-a2f35d.dccd83870fc67665.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_RealEstate_RealEstate_styles_js.c67c204de72f570e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_ContentTemplates_RealEstate_RealEstate_template_js.fa996fed3c31859c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_Mappers_CopilotCard_CopilotCardMapper_js.71769aa8d9ac3c98.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_Mappers_DailyQuiz_DailyQuizCardMapper_js.c70acfb8dd60de22.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_Mappers_FollowedPublishers_FollowedPublishersCardMapper_js.13f7f451a32d1d09.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_Mappers_OnThisDay_OnThisDayCardMapper_js.1993de8ac4c48b71.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_Mappers_LocalEvents_LocalEventsCardMapper_js.83d5d060a91d7888.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_Mappers_PublisherSpotlight_PublisherSpotlightCardMapper_js.e3d021f2addefa27.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_spotlight-card-wc_dist_Mappers_RealEstate_RealEstateCardMapper_js.93396677d0b3f388.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_top-sites-edgenext-wc_dist_TopSitesEdgeNextWC_actionMenu_js.26e62369f1ce8c2e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_traffic-hero_dist_components_transit_index_js.97e4e5baedf2f899.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_top-sites-edgenext-wc_dist_TopSitesEdgeNextWC_editDialog_js.9addcac1096d8b74.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_travel-sd-carrentals-card_dist_index_js.63d27997b823de6b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_travel-sd-flights-card_dist_index_js.c89ca18e73d93620.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_video-card-wc_dist_components_carded-container_index_js.88b5acdb9304ff92.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_video-card-wc_dist_components_gamepad-youtube-player-controls_index_js.92e2a410fa7c94ec.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_views-native-ad_dist_components_AdFeedbackHideStoryCard_index_js.0580d627868b24a6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_video-card-wc_dist_index_js-libs_ads-utils_dist_GDPRHelper_js-libs_fundamentals_d-de5b41.9b975da0c580958f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_video-card-wc_dist_components_PlutoTvPlayerElement_js.e50dfe1a69faa605.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_waterfall-view-feed_dist_Utils_ContentPrefetcher_js.31c6ce72cd95030a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_top-sites-edgenext-wc_dist_TopSitesEdgeNextWC_addDialog_js.4ccc94b4df6e1a39.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_welcome-greeting-wc_dist_components_finance-greeting_index_js.d1a3abb6e4a7cf27.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/exploration-banner.b6f849510b42bb84.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/feed-navigation-hp.fdfe008459dc281d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/experiences_welcome-greeting-wc_dist_components_weather-popup_index_js.054157f6bbcad82f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/feedback.133ca25211c74eda.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/feeds-notification-toast.12b5d1b564f6d81f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/feedDependencies.4289879df85b6637.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/float-button-group-wc.e59fd34bace56c59.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/following-fre-confirmation.d7a31e123cf05b79.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/following-fre-full-width.858eba3e76a62959.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/general-elections.d258fad6bab4b28a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/getFeedManager.c784898d3ed2f7dc.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/grid-view-feed.fbeee083a66c7d12.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/health-augment-card.3fc01228f6e5a24b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/health-tip-wc.609c75733ac0f99b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/homepageDisplayRail.95b9e2f4254ffbe1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/healthFitnessCarousel.c17ccf3cf9acded0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/hot-list-card.85626c0f2ea7735b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/horoscope-answer-card-wc.bd6dab343417df1e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/finance-quote-pill.23257528e83288f1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/hp-feed-switch.b1c0c1524f604d72.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/inline-curation-chips.6a778d037871e7e5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/inline-head.5b8a05c57b85404c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/interest-fre-card.394fa64160bf88be.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/interest-management-card.3f5e34dcd55466d2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/interests-wc.422144d904deeb4a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/issue-reporting-wc.5a4878bfa4d8d6b0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/lazy.dfd1f0b0d922d0a1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ad-service_dist_CookieSyncService_js-libs_diagnostics_dist_AppError_HealthAppErrors_js-l-a15341.faeed5ab9d786f3a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ad-service_dist_index_js.f9aa0cffd69c7e7b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ad-service_dist_utils_MockVaAuctionResponse_js.bb51bd8e04fde3f4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-manager_dist_index_js.a2a4d324a09817c2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_GDPRHelper_js-web-components_native-ad-video_dist_index_js.25753083ef92df59.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageLoadError_js-libs_ads-utils_dist_logging_sendAdImageSi-2028f9.6ec77bd39d507691.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-1855fc.5f177a2f8871eff9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-1a1ee0.91793d6f6154ec52.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-1c0bac.77c0001df17723b7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-3b8f08.f724cef69717021e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-33243a.ed434f852aa300cc.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-4b9706.21b9bfc54c49a391.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-481e81.4515271ec39b07b0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-612bf6.99e8f9a723dde26c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-6fd802.bd92b880fe953945.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_shouldUseNewFeedbackUrlTreatment_js-libs_core_dist_widgets_SharedWidgetUt-c9ee77.6188e76375fd6c96.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-74ab18.503dfec6c7718582.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_card-overlap-monitor_dist_Ca-ce4314.242db38ce6b4a637.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-libs_core_dist_interaction-tracke-bb9148.933feff37d9106a4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_ads-utils_dist_shouldUseNewFeedbackUrlTreatment_js-libs_core_dist_widgets_SharedWidgetUt-e546ac.fa792515e7295211.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_auth_dist_index_js.b475d40dce133994.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_card-overlap-monitor_dist_CardOverlapMonitor_js-libs_channel-page-utils_dist_UrlUtilitie-32d4b5.6e5f8780a4f1f1d2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_casual-games-core_dist_index_js.7619eefdf0db5140.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_card-overlap-monitor_dist_CardOverlapMonitor_js-libs_channel-page-utils_dist_UrlUtilitie-5a8ba3.40369bd1cdd01add.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_casual-games-data-service_dist_CasualGamesDataService_js.44f419fbcb332ce0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_casual-games-data-service_dist_index_js.812a63bd89ddec71.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_category-data-connector_dist_index_js.513d1aabe0f76a27.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_channel-page-utils_dist_UrlUtilities_js-libs_core_dist_widgets_SharedWidgetUtils_js-libs-971ecf.48877ef15c650630.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_display-ad-service_dist_AdsCommon_js.5ac4272a4faae4c6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_copilot-bridge_dist_index_js.8194fd29ed522f13.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_cookie-utils_dist_index_js.e7adb22f355fed69.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_display-ads-manager_dist_index_js.18bbfba247f759b6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_edgechromium-util_dist_index_js.924c02d312e61a1a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_experiences-page-base-wc_dist_index_js.7bb8b328b371455d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_entry-point-shared-utils_dist_index_js.1eb0c078e28f76a5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_feed-api-contracts_dist_index_js.3c342564dd30ac8a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_feed-layout_dist_card-templates_hide-story-card_templates_HideStoryAdFeedbackConfirmatio-f9a062.56f4b8293ca5ba94.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_feed-layout_dist_card-templates_content-card_ContentCardDataMapper_js.502106523734d68e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_feed-layout_dist_card-templates_responsive-ad-card_ResponsiveAdCardDataMapper_js-libs_fe-b23283.8680fa6e05067b19.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_finance-service-library_dist_FinanceServices_js.c8236d9ea3e31268.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_finance-service-library_dist_common_FinanceRoute_js.884dd96627eeb62c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_feedback-data-connector_dist_index_js.1545887b677bce28.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_finance-service-library_dist_index_js.4beaa4e2fd2e6952.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_following-experience-manager_dist_index_js.a6ada42b027ab0b2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_fundamentals_dist_utilities_InViewportUtility_js-libs_video-card-plugin-factory_dist_Vid-286842.5a3576ef05a537d6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_gamepad-utils_dist_index_js.bfa7df513bef2982.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_icons-wc_icons_Edit_svg-libs_traffic_dist_index_js-node_modules_fluentui_svg-icons_icons-cbe83b.5f7e5740229a7f68.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_icons-wc_icons_MoreV2_svg-libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-li-f9ab58.7dca6e7536ce8fbe.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_icons-wc_icons_MoreV2_svg-libs_ads-utils_dist_logging_sendAdImageSizeMismatchError_js-li-ff9c2e.9a39bf49138965ef.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-10b6ee.3fb3e02cd71b58d9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-44b34f.eece4580bac22ec9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-57e0f5.321abbb48fa3425e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_iris-data-connector_dist_index_js.3de6ccbc48951a61.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_icons-wc_icons_ThumbDown_svg-libs_icons-wc_icons_ThumbDownFilled_svg-libs_icons-wc_icons-f1aa5f.5c6081b546da6a3d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_location-data-connector_dist_index_js.6b3fda1707a0f887.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_money-data-transformers_src_MoneyDataTransformers_utils_ts.5c13f9dd454a6624.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_navigation-data-connector_dist_index_js.9e9d7bf5aa9829e0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_niche-interest-service_dist_index_js.6afeaae4eba40aee.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_oneservice-card-provider_dist_default_FollowingDefaultProng1FRE_json.6030e19f03e9c241.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_oneservice-card-provider_dist_default_FollowingGridViewProng2FRE_json.c210227ca63137c0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_placement-manager_dist_index_js.47f0cda5863c6f36.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_recommended-interest-service_dist_index_js.73d3bb3074b62e8d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_rewards-data-connector_dist_index_js.2787fe9cb2f27dfc.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_shopping-service-clients_dist_shopping-carousel-service-client_ShoppingCarouselServiceCl-4e11ea.b092d11583a92428.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_social-data-service_dist_index_js.746f68c9aace7ae1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_smartlist-shared-data_dist_index_js.346443571b4caa89.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_social-data-service_dist_service_SocialService_js.d88f8289cb638787.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_social-post-utils_dist_index_js.f1fea6cce729cbda.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_sports-data-service_dist_SportsMatchDataMapper_js.7ce2f7c310e7d11b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_sports-data-transformers_src_SportsMatchTransformer_ts-web-components_sports-info-match_-e8b077.78cbdb737417f604.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_sports-service-connector_dist_segments_index_js.aeeb86ab63fd8509.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_topics-shared-state_dist_CustomChannelIds_js.98958e8ac315f47e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_topics-shared-state_dist_TopicData_connector_js-libs_topics-shared-state_dist_TopicData_-530013.570926f392d358ce.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_telemetry-data-connector_dist_index_js.f38acb3b721b4fa2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_travel_dist_index_js.7a5993a49a9d42b3.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-card-plugin-factory_dist_VideoAdManager_js-web-components_content-video-player_dis-8d2c5a.3f7b5c49ecccc7d6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_CorriereTVPlayer_js.0256802fbc96aab5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_ExpressenPlayer_js.f1df15009d1b8ba1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_GenericIframePlayer_js.0477336f6f2afa27.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_DailymotionPlayer_js.4138eaf6212c61ff.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_GlomexPlayer_js.507dd5a0e78d328e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_HuyaPlayer_js.f38d6cae871c5d37.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_MediasetPlayer_js.bf9f711ab59ffbf3.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_MTVKatsomoPlayer_js.cfb81d34de5d685a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_NBCSportsPlayer_js.b1f177bd803a39ab.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_OathPlayer_js.3b239365e2b7fca2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_PlutoTvPlayer_js.81735c282e2f4470.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_RAIPlayer_js.3e7fa8185b581686.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_RenminPlayer_js.8323a20010a128fa.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_StadiumPlayer_js.e8bd654201b180d5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_TencentNewsPlayer_js.ffb901cb8fb014ca.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_ShortTvPlayer_js.d5f94746fc023c3e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_TencentVideoPlayer_js.c0ff935550a019a7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_TimesOfIndiaPlayer_js.18cd670c3ff40437.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_YiDianPlayer_js.47d654695ad29b8f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_views-helpers_dist_data-models_video_PreviewEvents_js-node_modules_microsoft_fast-jss-ut-2cf869.bf1becbbe87ce127.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_VideoCardManager_js.9214cc2eb1562656.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_views-helpers_dist_data-models_video_PreviewEvents_js-node_modules_microsoft_fast-jss-ut-cd203b0.c55f09bb9fe165c7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_views-helpers_dist_data-models_video_PreviewEvents_js-node_modules_microsoft_fast-jss-ut-cd203b1.81cfce75d154e116.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_views-helpers_dist_views-coachmark-helper_ViewsFRECoachmarkPromises_js.1fdffe726d966914.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_watch-utils_dist_components_AsyncViewer_js.7937a47141e4b4f2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_weather-card-data-connector_dist_index_js.5a07afc8ce3fdb5d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_weather-common-utils_dist_data_FeedWeatherDataUtils_js-libs_weather-shared_dist_weatherO-325cd5.5bfa4c2f4f1d443e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_weather-data-connector_dist_index_js.f49ac54913edef10.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_weather-shared-wc_dist_index_js-_a0c80.f4c12397ded8f967.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_weather-shared-wc_dist_index_js-_a0c81.aa8f8c48b2d52868.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_weather-shared-wc_dist_utilities_entry_cardSelector_BackgroundMappingHelper_js-libs_weat-fa872a.a568425eac56cffd.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_weather-shared-wc_dist_weather-card_weather-card_template_js-libs_weather-skycode-mappin-a84f79.f03ae703a1c37845.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_video-manager_dist_players_YouTubePlayer_js.ccb0ffb5c288bcd5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_windows-widget-shared_dist_compliance_setupMockFeedRegistration_js.c714462d87721a5c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/libs_windows-widget-shared_dist_WidgetHelper_js.89632b2e829539b6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/market-language-toggle-wc.fce39392c708b964.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/lottie-web.193630b1fa2023c9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/MarketChangedCoachMark.012a237848712db9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/marketComplianceException.132301becddb93cf.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/MarketMismatchCoachMark.8ffdf17477e613a2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/marketplace-card-wc.e1012a1b44e41d14.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/MarketRoamingCoachMark.e022e60c86e9d580.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/microsoft.6e0977020ff05585.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/moment-in-time-hero.c4d116876a385db6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-augment-card.53451b8307311a6e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-card-default.6235ab5008d48271.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-ai-insights.5b53368e23f241e1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-card-dynamic-tabs.bc176073f486f753.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-earnings-quote-list.1b49d8dd63d6799c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-edu-add-panel.ae2a8be58b81dc2d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-event-brief.0bb5f2bcc518ef0e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-edu-add-pill.fcdaef75e52663a2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-greetings-service.d401d694a18870a9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-horizontal-quote-list.be25f1fad9d710ec.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-larger-pill.698d6dba0e4fb47d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-market-movers.c030dc778b775f51.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-market-summary.db6aa27897ca8069.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-price-spotlight-v2.43b479f57ad77aa4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-price-spotlight.f1ded1fd2fd6bc32.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-radar-graph.a030992a288956ac.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-service.7f16ff96774e7ce0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-spotlight-currency-v2.f701f05f20e6f208.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-spotlight-earnings.f9982c98b6cbe627.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-spotlight-currency.68952256c8658242.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-spotlight-news-content-card.11c56ce1985c1d9a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-spotlight-news-group-card.9c50a6246e30e612.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-watchlist-ideas.3c57dd7534b9b46c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info-spotlight-pre-earnings.58a0f5902f006b4e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-quote-vertical-quote-list.f447186f0c85b99e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-info.17d5b63848a9c1ac.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-quote-vertical-watchlist.5c585faafc1a2700.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-quote-vertical-watchlist-v2.dfc4067b561b97d1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/money-watchlist-summary.f3844757c328eb36.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/ms-rewards-wc.eeaaabbd28673e4e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/msn-consent-sharing.58441a3da9af03fa.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/msn-feed.7ca4dedda43a86e8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/msnews/publishers-service-client.00944a94977fae74.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/na-call-to-action.72183083a69b163e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/na-decoration-combo.6be3556201b25918.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/na-like-button.babfa57bc97e6bf9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/nas-highlight-v1.6709786d5cd6b4a1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/na-trending.b69aa8e899c88b2f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/nativeadsdecorations.3bd4af2c0ff32a5e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/nas-highlight-v3v4.2e4b0bc2054de350.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/nativeadstemplates.0ae79f671746ceec.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/node_modules_d3-transition_src_index_js-_30230.1096bb1758d7a83c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/node_modules_cs-core_sd-card_dist_esm_sd-card_styles_js.3d05080ed17f8304.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/navigation-page-experience.0726eb76ca932b29.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/node_modules_d3-transition_src_index_js-_30231.64b17e9503f229ce.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/node_modules_intersection-observer_intersection-observer_js.c92a00c7c618b058.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/node_modules_lodash-es_camelCase_js.932a2d73adb580cf.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/node_modules_xmlbuilder2_lib_xmlbuilder2_min_js.df37596d48d54af1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/node_modules_video_js_dist_video_es_js.eb81666520f881c5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/node_modules_sortablejs_modular_sortable_esm_js.d6ad0b523812c059.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/notification-bell-wc.f8c3cfbdd9290835.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/notification-mini-card.e5c86f3b406bbc92.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/nurturing-banner.1d0b374bb9f36f0e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/on-this-day-card-wc.8e92da2f70323812.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/nurturing-coach-mark.d0860e02366433ec.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/nurturing-placement-manager.81d1e25f7c6ef1b4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/partial-call-debug.4497b526be7c6a88.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/personalize-nav-button.35ba0cfa2e147b42.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/picks-card-brief-mock.b86e704f7e602eac.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/polls-card-wc.9d4fa633da0315e4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/polls-service.cd6ea9792af463c9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/pill-wc.2af0785225dad72b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/poweredby-legend-wc.08e3e8ad143c8895.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/premium-profile-promo-card.6897115f634f5e3e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/prism-carousel-card.1bd08a3c3d6e5364.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/publisher-subscribe-follow-button.eaf1784854f9e42a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/prism-sd-card.6f8236275e8589aa.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/qna-card.0560ac11c30932d1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/real-estate-card.a1b097af9fa00a37.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/quiz-card.ed656658bd8dab36.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/recipes-sd-card.2c0bf4768ad274fa.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/rewards-card-wc.681f54e6ef32c784.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/rich-calendar-component-spotlight.e2da92ce4a748281.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/rich-calendar-card.3d8c0c46b3ec2678.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/ruby-comment-preview.248aefd8c6f1c817.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/rich-calendar-component.201be477e5440bf3.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/rubyFeed.c439f51c8ce76f04.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sbi-dialog.53774b88d1b71fa0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/RubyFeedbackCoachMark.4e0ffd8e2d3a99de.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/RubySwitchErrorCoachmark.01f4b686795a1fc1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/scrollPerfMetricTrackers.79792b517c344829.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sd-card-mask-wc.e143178abee1c20d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/select-carousel.b3e7ee7132e4ecde.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shared-links.60cedfebb2880e11.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shared-hero-news-card.72419cfa065ab5e5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sharepoint-news-card.dd17ac83c8d608ef.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shopping-augment-card.230b6c72f6485f64.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shopping-banner-sd-card.1c2113d9e9c98d85.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shopping-buying-guides-card.82c0131abf367e06.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shopping-grouped-carousel.c67183cdb5f8f210.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shopping-card-wce.78922f290bd89fa9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shopping-sd-card.91686f5c25a8ce09.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shopping-river-card.c27963290f78771d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sign-in-coachmark.8dd8ab0a35c43914.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/signal-overlay.c207e48892d9d62c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sign-in-flyout-wc.43c367e808599ab2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/social-bar-tooltip-positioning.40e815fb33fc82e7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/social-avatar.4f2204ebd28a3cda.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/social-bar-wc.a63012a72afdb23d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/social-data-service.327c97e1b0f9329c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/social-report-button.ceda041eda8baf4f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/shopping-events-deal-card.5f15af2c5d15a8b2.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/social-utils.cf8968e431190ba4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/social-report-menu.5203f7bdd4c54df9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-augment-card.51053cf1dd4769e1.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-countdown.277eb63ec2806767.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-cricket-v2.a6de676387778dea.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-cricket.47d4a4539b764d90.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-event-country.06aa9bd7ce393f99.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-data-service.5e5bcaaf21d576b9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-event-results.0b8e23fbf4e0985d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-event-schedule.94f35603f1e9676c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-fre.b75aa42f7fdb4cf5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-edu-add-pill.bc2157cf31df5572.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-event-brief.a392ce92d97906b8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-edu-add-panel.37ef8fa8dcd0779c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-hide-popup.32f4e66af1171eb8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-large-ruby-pill.e029815012174946.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-match-confetti.17edef5f2472cf24.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-medal-v2.bb60b72f5df41804.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-medal.553997f76dff0a00.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-ruby-pill.ee7c013e7315d976.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-span.58e87a30717a4753.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-spotlight-2c.e9c51b5411c307e4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-spotlight-cricket-v2.c4dc5ff05ba82b32.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-spotlight-race.1d53923894a7c21c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-spotlight-golf.2314690f9d637d83.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-spotlight-cricket.68f8f28f6772590d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-spotlight-tennis.73b402d72fe2087d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-standings-rankings.3d9a563d104a9ae7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info.b804b8d9409d22cf.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-marchmadness.53a5528a7b19003a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-leaderboard.5487ce83a49ea424.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-info-utils.22d72997c2183da4.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-recent-medal.e756706529b41060.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-match-list.26687adae4d6b811.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-tennis.2db6612fa75a847b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-spotlight.af8dee32c0483f7e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-tournament-status-row.1eac3baeaf3c687e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/sports-tournaments-list.c327119d320b2d22.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/SSR-extension.8206fbc79939688d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/spotlight-card-wc.96cd670bf05ac9c0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/stripe-wc.2b72801f6f22ef65.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/stack-card.0f1e6ab6b7209160.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/streaks-badge-wc.6257ebde64381b99.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/super-nav-icons.dfa58d549489c4ac.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/super-nav.5a2bce57fbc4dbc5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/superBreakingNews.7d6ba2b1a01ce4f9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/tcfConsentBanner.7f08f4b0c6db88cc.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/telemetry-validation.1b5605eeb9b5ea1c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/toast-wc.336ab38f46373d9b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/top-comments-card.8bb0a6053d390f84.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/topic-data-connector.6be074c6fe7b9e4b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/traffic-card-wc.db762daf4f96d72a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/traffic-hero.e37087191fd0cc12.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/travel-carousel.ebd4145b2e6ef932.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/travel-flight-carousel.8c28bb0b34ba063a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/travel-destination.cd717578ed312801.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/travel-hotel-carousel.c11e73bef1e8bf12.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/travel-sd-destinations-card.f6ec9d2ab18fb1e7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/travel-sd-flights-card.8ca750e28bf01e8e.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/travel-sd-themes-card.476b5244ee383d91.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/travel-sd-hotels-card.c97f423e4982346f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/vertical-nav-icons-legacy.1a226ae10c2a5b6f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/vendors.d7d4b0f9df793c36.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/trending-search-card.3242a1b247be082b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/views-native-mon.0cf298421eaeac76.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/VpReadyHelper.5b60d11a8f316847.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/viewsPromoCard.402eb5a6154824a5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/waffle-wc.25aeab6d6fa9d5aa.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/watch-continue-watching-card.0ae9f77494ec1576.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/waterfallCardTypeToCardInterfaceMapForUmf.01609a58dbffa4b7.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/waterfall-view-feed.fe37bd29e53fbfb8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-card-backup-mapper.517e4597c64e0944.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-card-wc-deferred.e0dff6eb4f2afa3b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-card-wc-ntp.880d8e35f8c56afa.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-card-wc-init-account-type.a155958442457e24.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-card-wc-ssr-preload.a9899f308c9157db.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-card-wc.c4b7aab0b2ba96b8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-data-lazy-services.f80212e052a2ece3.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-hero-experience.9d4537ab76bf6289.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-lazy-utils.a20c0ef4987c5483.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-legacy-card-deferred.23068fdf9a17ff20.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-legacy-card.8acdb59b393109f9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-minimap-wc.5292f56d82537b25.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-shared-wc-deferred-content.332d3fbd5a587b7d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-one-liner.1f5eaf7b55731392.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-shared-wc-deferred-dailysummary-chart.57c3a1a327c2cc68.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-shared-wc-deferred-dev.b6ca6d657571cb3f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-shared-wc-deferred-svgchart-content.1706deeadae5e3c5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-shared-wc-deferred-tide-chart.0a98102d625854cf.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-shared-wc-deferred-trend-chart.a91d6ba9d70e2c24.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-svg-chart.4875f1f9843cc0bc.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-topsection-card-deferred.c3deaebf124adc89.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-top-section-card.801c36db65ef4ae0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/weather-video-entry-wc.bb39835fee8710b9.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_common-settings-dialog_dist_index_js.3a5338e85fc21197.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_content-video-player_dist_sub-components_AboveControlBarHost_js.2cdd6af56c34427c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_content-video-player_dist_index_js.002ea03f17817c20.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_content-video-player_dist_sub-components_VideoJsCCToggleButton_js.be765a71e7690a27.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_content-video-player_dist_sub-components_VideoAdLabel_js.36de93d62191a99c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_content-video-player_dist_Utils_AdControlBarStyles_js.f71b5c7f1f586894.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_copilot-daily-card_dist_utils_ImageRotator_js.9e7f010af0091151.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_greeting-banner_dist_index_js.ec04a1a95273022c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_fast-msft-web-components_dist_index_js.2b74d011d82f4850.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_info-pane_dist_info-pane-panel_index_js-web-components_info-pane_dist_info-pan-2dcb29.fc88a75eb1c8a089.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_info-pane_dist_info-pane-panel_index_js-web-components_info-pane_dist_info-pan-aa6c9f.19403a402573bcbd.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_money-info-content-component_dist_MoneyInfoContentComponent_js-web-components_-29e290.c750c7b1b01dd5be.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_native-ad-video_dist_index_js.852197dc792fffd8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_native-ad-report-ad_dist_index_js.a9230753557de38b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_render-mode-indicator_dist_index_js.9446f055d38580e8.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_ruby-pivot-manager_dist_index_js.23d014eb309b0b1a.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_share-view_dist_index_js.e413fe792dd32896.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_shopping-super-carousel_dist_ShoppingProductCard_ShoppingProductCard_js-web-co-f4f3aa.b2163901d5fa8a95.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_stock-chart_dist_index_js.60177f22aba5fa98.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-cards_dist_cards_super-infopane_CardActionTemplates_js.d8b579afa2dad0b6.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-cards_dist_cards_super-native-ad-card_native-ad-card-intra-article_register_js.222e3428f2f64e8f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-container_dist_register_CsFeedInfopane24Module_js.2415874eb2eac25d.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-cards_dist_cards_super-native-ad-card_native-ad-card-intra-article-left--f3bc9f.0674599b2f8c15c0.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-container_dist_register_CsFeedInfopane28Module_js.e643d93561da7880.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-container_dist_register_CsFeedInfopaneModule_js.c29c8be17757c41b.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-container_dist_register_CsFeedInfopane28Slim1Module_js.25a15390d0df8df5.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-container_dist_register_CsFeedNoHoverChannelModule_js.82dc1725d19981a3.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_super-container_dist_register_CsFeedNoHoverModule_js.7ea8d7f76804e37f.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_traffic-card_dist_index_js.6f1d4910d1abc904.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_traffic-card-settings_dist_index_js-_eec20.af8ff41dd23d836c.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_traffic-card-settings_dist_index_js-_eec21.85492b1df8db4007.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_traffic-location-settings_dist_index_js.9a5b6dff2044f6ef.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-worker.887e2d494deccc53.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/welcome-greeting-wc.0dfc49b7520d4dab.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/web-components_views-news-letter_dist_index_js.5b60554b43fa2d6e.js",
+    "https://cdn.adnxs.com/v/s/252/://acdn.adnxs-simple.com/ib/mraid.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/welcomeGreetingLight.d12f4bbf184ecb18.js",
+    "https://assets.msn.com/bundles/v1/homePage/buildNumber/widgets-region.5fa651bd62a1fb10.js"
+  ],
+  "failed": [
+    {
+      "url": "http://static.getclicky.com/js",
+      "error": "HTTP 403 for http://static.getclicky.com/js",
+      "status": 403
+    },
+    {
+      "url": "https://in.getclicky.com/101299539ns.gif",
+      "error": "HTTP 403 for https://in.getclicky.com/101299539ns.gif",
+      "status": 403
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=187004814&Ver=2&mid=9a99c4ef-b5c2-427e-9ac4-0780ba1c48d9&bo=1&sid=dfe1c370e2c811f1ada77b0ed5c818e2&vid=dfe1cfe0e2c811f1bb555dd0dac8c7d4&vids=0&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&tl=Play%20Scary%20Path%20Game%3A%20Free%20Online%20Obstacle%20Avoiding%20Halloween%20Vertical%20Running%20Video%20Game%20for%20Kids%20%26%20Adults&p=http%3A%2F%2Fscary-path.localhost%3A8124%2Findex.html%3F__boot%3D1&r=http%3A%2F%2Fscary-path.localhost%3A8124%2F&lt=23&evt=pageLoad&sv=2&cdb=AQAQ&rn=876281",
+      "error": "No response body for https://bat.bing.com/action/0?ti=187004814&Ver=2&mid=9a99c4ef-b5c2-427e-9ac4-0780ba1c48d9&bo=1&sid=dfe1c370e2c811f1ada77b0ed5c818e2&vid=dfe1cfe0e2c811f1bb555dd0dac8c7d4&vids=0&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&tl=Play%20Scary%20Path%20Game%3A%20Free%20Online%20Obstacle%20Avoiding%20Halloween%20Vertical%20Running%20Video%20Game%20for%20Kids%20%26%20Adults&p=http%3A%2F%2Fscary-path.localhost%3A8124%2Findex.html%3F__boot%3D1&r=http%3A%2F%2Fscary-path.localhost%3A8124%2F&lt=23&evt=pageLoad&sv=2&cdb=AQAQ&rn=876281",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/images/icon.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/images/icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/p2l_abcya.png",
+      "error": "HTTP 404 for https://truffled.lol/p2l_abcya.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/p2l.jpg",
+      "error": "HTTP 404 for https://truffled.lol/p2l.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/bush_1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/bush_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://j.clarity.ms/collect",
+      "error": "No response body for https://j.clarity.ms/collect",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/bush_2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/bush_2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/bush_3.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/bush_3.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/bush_4.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/bush_4.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/bush_evil.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/bush_evil.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/bush_good.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/bush_good.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/flower_2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/flower_2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/flower_1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/flower_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/flower_3.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/flower_3.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/flower_5.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/flower_5.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/flower_4.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/flower_4.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/flower_6.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/flower_6.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/flower_7.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/flower_7.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/grass_1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/grass_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/rock.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/rock.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/tree.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/tree.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/elements/grass_2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/elements/grass_2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/levels/grass.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/levels/grass.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/levels/level_10/part_01.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/levels/level_10/part_01.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/levels/level_10/central_object.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/levels/level_10/central_object.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/levels/level_10/part_03.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/levels/level_10/part_03.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/levels/level_10/part_02.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/levels/level_10/part_02.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/levels/level_10/part_04.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/levels/level_10/part_04.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/pers/hero.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/pers/hero.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/main_menu/btn_lab.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/main_menu/btn_lab.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/main_menu/btn_credits.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/main_menu/btn_credits.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/main_menu/btn_start.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/main_menu/btn_start.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/main_menu/logo.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/main_menu/logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/main_menu/btn_sound.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/main_menu/btn_sound.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/main_menu/credits.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/main_menu/credits.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/monsters/cat_1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/monsters/cat_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/monsters/ball.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/monsters/ball.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/monsters/cat_3.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/monsters/cat_3.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/monsters/cat_2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/monsters/cat_2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/monsters/snake.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/monsters/snake.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/monsters/snail.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/monsters/snail.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/pers/char_cower.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/pers/char_cower.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/pers/char_dead.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/pers/char_dead.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/pers/footstep_1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/pers/footstep_1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/pers/char_oh.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/pers/char_oh.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/pers/footstep_2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/pers/footstep_2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/pers/char_run.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/pers/char_run.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/board_best.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/board_best.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/board_played.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/board_played.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/btn_back.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/btn_back.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/btn_left.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/btn_left.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/btn_info.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/btn_info.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/btn_right.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/btn_right.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/text_unlock.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/text_unlock.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/btn_unlocked.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/btn_unlocked.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/fragments.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/fragments.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/font_played_best.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/font_played_best.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_1/popup_window.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_1/popup_window.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_2/board_text.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_2/board_text.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_2/best.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_2/best.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_2/font_text_big.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_2/font_text_big.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_2/btn_more_games.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_2/btn_more_games.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_2/font_text.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_2/font_text.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_2/btn_replay.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_2/btn_replay.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_2/text_new_best.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_2/text_new_best.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_3/btn_restart.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_3/btn_restart.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_3/btn_more_games.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_3/btn_more_games.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_01.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_01.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_02.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_02.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/popup_3/btn_sound.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/popup_3/btn_sound.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_03.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_03.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_04.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_04.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_05.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_05.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_07.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_07.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_06.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_06.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_08.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_08.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_09.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_09.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_10.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_10.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_11.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_11.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/en/font1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/en/font1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_14.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_14.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_13.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_13.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/roads/road_12.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/roads/road_12.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/en/font3.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/en/font3.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/en/font2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/en/font2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/en/font6.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/en/font6.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/en/font5.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/en/font5.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/en/font7.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/en/font7.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/en/font4.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/en/font4.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/zh/font2.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/zh/font2.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/zh/font1.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/zh/font1.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/zh/font4.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/zh/font4.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/scary-path/fonts/zh/font6.png",
+      "error": "HTTP 404 for https://truffled.lol/games/scary-path/fonts/zh/font6.png",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/edge.mem",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/edge.mem",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/microsoft.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/microsoft.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/experience.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/experience.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/common.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/common.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/vendors.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/vendors.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/consumption-page.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/consumption-page.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/consumption-feed-wc.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/consumption-feed-wc.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/:e.iconName%7D.svg",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/:e.iconName%7D.svg",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/%7D.svg",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/%7D.svg",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/ads-prebid.js",
+      "error": "HTTP 404 for https://assets.msn.com/ads-prebid.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/istripper.js",
+      "error": "HTTP 404 for https://assets.msn.com/istripper.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/javascript/fropo.js",
+      "error": "HTTP 404 for https://assets.msn.com/javascript/fropo.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/prebid-add.js",
+      "error": "HTTP 404 for https://assets.msn.com/prebid-add.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/nb/f_ls.js",
+      "error": "HTTP 404 for https://assets.msn.com/nb/f_ls.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/prebid-ads/adsensebase.js",
+      "error": "HTTP 404 for https://assets.msn.com/prebid-ads/adsensebase.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/prebid-article-ad-ad-300x250.js",
+      "error": "HTTP 404 for https://assets.msn.com/prebid-article-ad-ad-300x250.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/reclama/ads.js",
+      "error": "HTTP 404 for https://assets.msn.com/reclama/ads.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/safu/safu.js",
+      "error": "HTTP 404 for https://assets.msn.com/safu/safu.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/adex.js",
+      "error": "HTTP 404 for https://assets.msn.com/adex.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/wp-content/plugins/wp-banners/js/wp-banners.js",
+      "error": "HTTP 404 for https://assets.msn.com/wp-content/plugins/wp-banners/js/wp-banners.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/zlk/zlk.js",
+      "error": "HTTP 404 for https://assets.msn.com/zlk/zlk.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/adgpt.js",
+      "error": "HTTP 404 for https://assets.msn.com/adgpt.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/ados.js",
+      "error": "HTTP 404 for https://assets.msn.com/ados.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/ads/stickyLb.js",
+      "error": "HTTP 404 for https://assets.msn.com/ads/stickyLb.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/ane-popup-banner/ane-popup-banner.js",
+      "error": "HTTP 404 for https://assets.msn.com/ane-popup-banner/ane-popup-banner.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/arcads.js",
+      "error": "HTTP 404 for https://assets.msn.com/arcads.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/ane-preroll/preroll.js",
+      "error": "HTTP 404 for https://assets.msn.com/ane-preroll/preroll.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/awe2.js",
+      "error": "HTTP 404 for https://assets.msn.com/awe2.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/cnads.js",
+      "error": "HTTP 404 for https://assets.msn.com/cnads.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/clever_ads.js",
+      "error": "HTTP 404 for https://assets.msn.com/clever_ads.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/dfp/dc.js",
+      "error": "HTTP 404 for https://assets.msn.com/dfp/dc.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/doublepimp2.js",
+      "error": "HTTP 404 for https://assets.msn.com/doublepimp2.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/eureka/eureka.js",
+      "error": "HTTP 404 for https://assets.msn.com/eureka/eureka.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/exopopunderdesktop.js",
+      "error": "HTTP 404 for https://assets.msn.com/exopopunderdesktop.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/fload.js",
+      "error": "HTTP 404 for https://assets.msn.com/fload.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/expop.js",
+      "error": "HTTP 404 for https://assets.msn.com/expop.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/fro_lo.js",
+      "error": "HTTP 404 for https://assets.msn.com/fro_lo.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/gpt.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/gpt.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/frontend_loader.js",
+      "error": "HTTP 404 for https://assets.msn.com/frontend_loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/invoke-2.js",
+      "error": "HTTP 404 for https://assets.msn.com/invoke-2.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/js/youmuffpu.js",
+      "error": "HTTP 404 for https://assets.msn.com/js/youmuffpu.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/js/m/i-def.js",
+      "error": "HTTP 404 for https://assets.msn.com/js/m/i-def.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/js3caf.js",
+      "error": "HTTP 404 for https://assets.msn.com/js3caf.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/keyade.js",
+      "error": "HTTP 404 for https://assets.msn.com/keyade.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/kampyle.js",
+      "error": "HTTP 404 for https://assets.msn.com/kampyle.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/lib/ad.js",
+      "error": "HTTP 404 for https://assets.msn.com/lib/ad.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/markpop.js",
+      "error": "HTTP 404 for https://assets.msn.com/markpop.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/moatsdk.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/moatsdk.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/nugg.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/nugg.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/nwm-pw2.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/nwm-pw2.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/nwm-fcn.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/nwm-fcn.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/p8network.js",
+      "error": "HTTP 404 for https://assets.msn.com/p8network.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/popu.js",
+      "error": "HTTP 404 for https://assets.msn.com/popu.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/popup3.js",
+      "error": "HTTP 404 for https://assets.msn.com/popup3.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/popup2.js",
+      "error": "HTTP 404 for https://assets.msn.com/popup2.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/pustrck.js",
+      "error": "HTTP 404 for https://assets.msn.com/pustrck.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/punder.js",
+      "error": "HTTP 404 for https://assets.msn.com/punder.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/scripts/chatur.js",
+      "error": "HTTP 404 for https://assets.msn.com/scripts/chatur.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/soralink.js",
+      "error": "HTTP 404 for https://assets.msn.com/soralink.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/taboola_ads.js",
+      "error": "HTTP 404 for https://assets.msn.com/taboola_ads.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/suv4.js",
+      "error": "HTTP 404 for https://assets.msn.com/suv4.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/utep_ad.js",
+      "error": "HTTP 404 for https://assets.msn.com/utep_ad.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/tardisrocinante/austin.js",
+      "error": "HTTP 404 for https://assets.msn.com/tardisrocinante/austin.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/weborama.js",
+      "error": "HTTP 404 for https://assets.msn.com/weborama.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/wp-content/plugins/bhcb/lock.js",
+      "error": "HTTP 404 for https://assets.msn.com/wp-content/plugins/bhcb/lock.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/xpopup.js",
+      "error": "HTTP 404 for https://assets.msn.com/xpopup.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/_adverts.js",
+      "error": "HTTP 404 for https://assets.msn.com/_adverts.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/cmbdv2.js",
+      "error": "HTTP 404 for https://assets.msn.com/cmbdv2.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/_rebid.js",
+      "error": "HTTP 404 for https://assets.msn.com/_rebid.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/push-skin/skin.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/push-skin/skin.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/banger.js",
+      "error": "HTTP 404 for https://assets.msn.com/banger.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/pop2.js",
+      "error": "HTTP 404 for https://assets.msn.com/pop2.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/detroitchicago/anaheim.js",
+      "error": "HTTP 404 for https://assets.msn.com/detroitchicago/anaheim.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/detroitchicago/boise.js",
+      "error": "HTTP 404 for https://assets.msn.com/detroitchicago/boise.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/detroitchicago/houston.js",
+      "error": "HTTP 404 for https://assets.msn.com/detroitchicago/houston.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/detroitchicago/memphis.js",
+      "error": "HTTP 404 for https://assets.msn.com/detroitchicago/memphis.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/detroitchicago/minneapolis.js",
+      "error": "HTTP 404 for https://assets.msn.com/detroitchicago/minneapolis.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/detroitchicago/raleigh.js",
+      "error": "HTTP 404 for https://assets.msn.com/detroitchicago/raleigh.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/detroitchicago/rochester.js",
+      "error": "HTTP 404 for https://assets.msn.com/detroitchicago/rochester.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/_js/prbd_6.19.0.js",
+      "error": "HTTP 404 for https://assets.msn.com/_js/prbd_6.19.0.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/detroitchicago/tampa.js",
+      "error": "HTTP 404 for https://assets.msn.com/detroitchicago/tampa.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/prebid14.js",
+      "error": "HTTP 404 for https://assets.msn.com/prebid14.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/pubfig.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/pubfig.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/prebid_ver.js",
+      "error": "HTTP 404 for https://assets.msn.com/prebid_ver.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/pubfig.js",
+      "error": "HTTP 404 for https://assets.msn.com/pubfig.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/~Prebid.js",
+      "error": "HTTP 404 for https://assets.msn.com/~Prebid.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/_prebid.js",
+      "error": "HTTP 404 for https://assets.msn.com/_prebid.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/datomata.widget.js",
+      "error": "HTTP 404 for https://assets.msn.com/datomata.widget.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/abtest_ab.js",
+      "error": "HTTP 404 for https://assets.msn.com/abtest_ab.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/adblock-relief.js",
+      "error": "HTTP 404 for https://assets.msn.com/adblock-relief.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/adb.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/adb.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/fuckadb.js",
+      "error": "HTTP 404 for https://assets.msn.com/fuckadb.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/blockblock/blockblock.jquery.js",
+      "error": "HTTP 404 for https://assets.msn.com/blockblock/blockblock.jquery.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/auth/msal-browser-5.6.2.min.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/auth/msal-browser-5.6.2.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/,privacy:1,assets:t.assets?.[0]??[]}),ver:",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/,privacy:1,assets:t.assets?.[0]??[]}),ver:",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/general.js?",
+      "error": "HTTP 404 for https://assets.msn.com/general.js?",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/latest/===t&&(e.data?this.raw1sAdRegionTupleMap.get(",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/latest/===t&&(e.data?this.raw1sAdRegionTupleMap.get(",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/trk.js",
+      "error": "HTTP 404 for https://assets.msn.com/trk.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/buildNumber/accountLinkingNotice.0199c47a7e893b75.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/buildNumber/accountLinkingNotice.0199c47a7e893b75.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/buildNumber/articleRelatedStories.1ede0ffbb0cb1677.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/buildNumber/articleRelatedStories.1ede0ffbb0cb1677.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/buildNumber/ai-mode-context.071a4495d5ee9a45.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/buildNumber/ai-mode-context.071a4495d5ee9a45.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/buildNumber/articleTopComment.ce5bf1f1c8c381f6.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/buildNumber/articleTopComment.ce5bf1f1c8c381f6.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/buildNumber/background-gallery.1b1152bb9c129b49.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/buildNumber/background-gallery.1b1152bb9c129b49.js",
+      "status": 404
+    },
+    {
+      "url": "https://assets.msn.com/bundles/v1/homePage/buildNumber/bingHealthCard.177773cdbaa60fa7.js",
+      "error": "HTTP 404 for https://assets.msn.com/bundles/v1/homePage/buildNumber/bingHealthCard.177773cdbaa60fa7.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:54:40.343Z",
+  "verifiedAt": "2026-11-17T20:54:50.798Z",
+  "verification": {
+    "external": 3,
+    "blocking": 3,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Play Scary Path Game: Free Online Obstacle Avoiding Halloween Vertical Running Video Game for Kids & Adults",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 480,
+      "height": 720
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

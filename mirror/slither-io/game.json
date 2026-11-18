@@ -1,0 +1,210 @@
+{
+  "slug": "slither-io",
+  "title": "Slither.io",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/sfge.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/sfge.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sli.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/sfge.html",
+  "entryUrl": "https://truffled.lol/gamefile/sfge.html",
+  "status": "partial",
+  "sizeBytes": 2892794,
+  "assetCount": 53,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/social-box/",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/social-box/",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/votetxt2.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/votetxt2.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/fbthumb5.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/fbthumb5.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/trumpbtn.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/trumpbtn.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/kamalabtn.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/kamalabtn.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/bg_usastar6.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/bg_usastar6.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/down.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/down.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/gbg.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/gbg.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/bg54.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/bg54.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/up.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/up.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s2/sest5.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s2/sest5.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/kwk6.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/kwk6.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/play.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/play.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/jmou3.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/jmou3.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/pewd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/pewd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/bonkers2.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/bonkers2.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/mov2.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/mov2.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/moldova.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/moldova.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/swiss.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/swiss.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/leaf.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/leaf.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/vietnam.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/vietnam.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/argentina.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/argentina.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/highquality.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/highquality.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/trump4.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/trump4.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/codedel.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/codedel.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/lowquality.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/lowquality.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/ayy.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/ayy.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/kamala4.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/kamala4.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/a_none.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/a_none.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/n2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/n2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/i80124.txt",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/i80124.txt",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/spinner.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/slither@main/s/s/spinner.png",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:51:43.228Z",
+  "verifiedAt": "2026-11-17T21:51:53.426Z",
+  "verification": {
+    "external": 17,
+    "blocking": 1,
+    "ignoredExternal": 16,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "slither.io",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 900,
+      "height": 270
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9987,
+    "rendered": true
+  }
+}
