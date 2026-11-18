@@ -1,0 +1,57 @@
+{
+  "slug": "sonic-4",
+  "title": "Sonic 4",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/sonic4/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/sonic4/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sonic4.webp",
+  "baseUrl": "https://truffled.lol/games/sonic4/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/sonic4/index.html",
+  "status": "partial",
+  "sizeBytes": 249231006,
+  "assetCount": 96,
+  "known404": [
+    "https://truffled.lol/games/sonic4/service-worker.js"
+  ],
+  "failed": [
+    {
+      "url": "https://stats.wamwoowam.co.uk/api/send",
+      "error": "HTTP 405 for https://stats.wamwoowam.co.uk/api/send",
+      "status": 405
+    },
+    {
+      "url": "https://truffled.lol/games/sonic4/service-worker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/sonic4/service-worker.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:26:07.033Z",
+  "verifiedAt": "2026-11-17T22:27:13.260Z",
+  "verification": {
+    "external": 3,
+    "blocking": 3,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Sonic the Hedgehog 4 - Episode I",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 800,
+      "height": 480
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

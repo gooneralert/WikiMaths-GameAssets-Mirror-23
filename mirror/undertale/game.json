@@ -1,0 +1,70 @@
+{
+  "slug": "undertale",
+  "title": "Undertale",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/undertale.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/undertale.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/uertale.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/undertale.html",
+  "entryUrl": "https://truffled.lol/gamefile/undertale.html",
+  "status": "partial",
+  "sizeBytes": 14128,
+  "assetCount": 2,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/game.unx.part1",
+    "https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/runner.js",
+    "https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/index.js",
+    "https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/favicon.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/game.unx.part1",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/game.unx.part1",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/runner.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/runner.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/index.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/index.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/favicon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/aukak/fyinx@main/g/undertale/favicon.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T03:01:53.227Z",
+  "verifiedAt": "2026-11-18T03:02:02.924Z",
+  "verification": {
+    "external": 2,
+    "blocking": 1,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "UNDERTALE",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0057,
+    "rendered": true
+  }
+}

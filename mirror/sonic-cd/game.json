@@ -1,0 +1,87 @@
+{
+  "slug": "sonic-cd",
+  "title": "Sonic CD",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/soniccd/soniccd.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/soniccd/soniccd.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/soniccd.webp",
+  "baseUrl": "https://truffled.lol/games/soniccd/",
+  "entry": "/soniccd.html",
+  "entryUrl": "https://truffled.lol/games/soniccd/soniccd.html",
+  "status": "partial",
+  "sizeBytes": 63546287,
+  "assetCount": 34,
+  "known404": [
+    "https://truffled.lol/games/soniccd/data/emu-css.css",
+    "https://truffled.lol/games/soniccd/data/emu-main.js",
+    "https://truffled.lol/games/soniccd/data/emulator.js",
+    "https://truffled.lol/games/soniccd/data/extractzip.js",
+    "https://truffled.lol/games/soniccd/data/libunrar.js",
+    "https://truffled.lol/games/soniccd/data/%22+e+%22.mem"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/soniccd/data/emu-css.css",
+      "error": "HTTP 404 for https://truffled.lol/games/soniccd/data/emu-css.css",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soniccd/data/emu-main.js",
+      "error": "HTTP 404 for https://truffled.lol/games/soniccd/data/emu-main.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soniccd/data/emulator.js",
+      "error": "HTTP 404 for https://truffled.lol/games/soniccd/data/emulator.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soniccd/data/extractzip.js",
+      "error": "HTTP 404 for https://truffled.lol/games/soniccd/data/extractzip.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soniccd/data/libunrar.js",
+      "error": "HTTP 404 for https://truffled.lol/games/soniccd/data/libunrar.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/soniccd/data/%22+e+%22.mem",
+      "error": "HTTP 404 for https://truffled.lol/games/soniccd/data/%22+e+%22.mem",
+      "status": 404
+    },
+    {
+      "url": "https://netplay.emulatorjs.org/logs",
+      "error": "HTTP 525 for https://netplay.emulatorjs.org/logs",
+      "status": 525
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:31:32.343Z",
+  "verifiedAt": "2026-11-17T22:31:42.028Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "DS Online",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

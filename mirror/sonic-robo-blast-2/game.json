@@ -1,0 +1,190 @@
+{
+  "slug": "sonic-robo-blast-2",
+  "title": "Sonic Robo Blast 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/srb2/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/srb2/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/robo.webp",
+  "baseUrl": "https://truffled.lol/games/srb2/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/srb2/index.html",
+  "status": "partial",
+  "sizeBytes": 54241205,
+  "assetCount": 55,
+  "known404": [
+    "https://raw.githubusercontent.com/mazmazz/SRB2-emscripten/emscripten-new/emscripten/author-update.txt",
+    "https://truffled.lol/games/srb2/assets/apple-splash-2732-2048.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-2388-1668.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1668-2388.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-2224-1668.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1668-2224.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-2048-2732.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1536-2048.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1242-2688.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-2436-1125.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1125-2436.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-2048-1536.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-828-1792.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-2688-1242.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-750-1334.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1792-828.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1334-750.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-640-1136.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1242-2208.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-2208-1242.jpg",
+    "https://truffled.lol/games/srb2/assets/apple-splash-1136-640.jpg",
+    "https://truffled.lol/games/srb2/srb2-data.zip",
+    "https://truffled.lol/games/srb2/srb2.wasm",
+    "https://truffled.lol/games/srb2/srb2.js"
+  ],
+  "failed": [
+    {
+      "url": "https://raw.githubusercontent.com/mazmazz/SRB2-emscripten/emscripten-new/emscripten/author-update.txt",
+      "error": "HTTP 404 for https://raw.githubusercontent.com/mazmazz/SRB2-emscripten/emscripten-new/emscripten/author-update.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-2732-2048.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-2732-2048.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-2388-1668.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-2388-1668.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1668-2388.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1668-2388.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-2224-1668.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-2224-1668.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1668-2224.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1668-2224.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-2048-2732.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-2048-2732.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1536-2048.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1536-2048.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1242-2688.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1242-2688.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-2436-1125.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-2436-1125.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1125-2436.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1125-2436.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-2048-1536.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-2048-1536.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-828-1792.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-828-1792.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-2688-1242.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-2688-1242.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-750-1334.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-750-1334.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1792-828.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1792-828.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1334-750.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1334-750.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-640-1136.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-640-1136.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1242-2208.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1242-2208.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-2208-1242.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-2208-1242.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/assets/apple-splash-1136-640.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/assets/apple-splash-1136-640.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/srb2-data.zip",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/srb2-data.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/srb2.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/srb2.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/srb2/srb2.js",
+      "error": "HTTP 404 for https://truffled.lol/games/srb2/srb2.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:43:08.668Z",
+  "verifiedAt": "2026-11-17T22:43:18.306Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Sonic Robo Blast 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.5326,
+    "rendered": true
+  }
+}

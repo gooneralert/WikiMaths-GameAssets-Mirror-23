@@ -1,0 +1,75 @@
+{
+  "slug": "sonic-exe",
+  "title": "Sonic EXE",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/sonicexe.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/sonicexe.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/sonicexe.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/sonicexe.html",
+  "entryUrl": "https://truffled.lol/gamefile/sonicexe.html",
+  "status": "partial",
+  "sizeBytes": 17575,
+  "assetCount": 2,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/runner.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/runner.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/game.unx.part1",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/game.unx.part1",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/index.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/index.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/game.unx.part2",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/game.unx.part2",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/runnerLocal.svg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/runnerLocal.svg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/runner.svg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@latest/sonic.exe/runner.svg",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:33:21.953Z",
+  "verifiedAt": "2026-11-17T22:33:31.525Z",
+  "verification": {
+    "external": 6,
+    "blocking": 4,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "GXC Game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9833,
+    "rendered": true
+  }
+}

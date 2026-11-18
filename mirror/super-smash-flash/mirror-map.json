@@ -1,0 +1,9 @@
+{
+  "/gamefile/ssf.html": "/ssf.html",
+  "https://cdn.jsdelivr.net/gh/genizy/super-smash-flash@main/ssf1.swf": "/__external__/cdn.jsdelivr.net/gh/genizy/super-smash-flash@main/ssf1.swf",
+  "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/core.ruffle.e1ab5671fe9d69a41e55.js": "/__external__/cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/core.ruffle.e1ab5671fe9d69a41e55.js",
+  "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/f9db7455c2c80fac021b.wasm": "/__external__/cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/f9db7455c2c80fac021b.wasm",
+  "https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js": "/__external__/cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js",
+  "https://raw.githubusercontent.com/genizy/super-smash-flash/main/ssf1.swf": "/__external__/cdn.jsdelivr.net/gh/genizy/super-smash-flash@main/ssf1.swf",
+  "https://truffled.lol/gamefile/ssf.html": "/ssf.html"
+}

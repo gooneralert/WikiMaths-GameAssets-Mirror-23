@@ -1,0 +1,119 @@
+{
+  "slug": "stick-war-legacy",
+  "title": "Stick War: Legacy",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/stickwar.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/stickwar.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/stickwar.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/stickwar.html",
+  "entryUrl": "https://truffled.lol/gamefile/stickwar.html",
+  "status": "partial",
+  "sizeBytes": 16654988,
+  "assetCount": 13,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/undefined/pages/home.html",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.zip",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.data",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/lib/libunrar.js.mem",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/fullscreen-button.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/webgl-logo.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/WebGL.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebGL.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebGL.data",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebGL.data",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebGL.wasm",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebGL.wasm",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebGL.framework.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebGL.framework.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/undefined/pages/home.html",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/undefined/pages/home.html",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/lib/libunrar.js.mem",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/lib/libunrar.js.mem",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/fullscreen-button.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/fullscreen-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T23:12:13.839Z",
+  "verifiedAt": "2026-11-17T23:12:23.514Z",
+  "verification": {
+    "external": 2,
+    "blocking": 2,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "YT Game Wrapper WebGL Template",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 100,
+      "height": 100
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

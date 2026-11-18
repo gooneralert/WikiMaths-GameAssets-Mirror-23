@@ -1,0 +1,49 @@
+{
+  "slug": "tetris",
+  "title": "Tetris",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/tetris/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/tetris/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/tet.webp",
+  "baseUrl": "https://truffled.lol/games/tetris/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/tetris/index.html",
+  "status": "partial",
+  "sizeBytes": 15345422,
+  "assetCount": 10,
+  "known404": [
+    "https://rawcdn.githack.com/WhoIsEv/relivedassets/e15b5ab7f7ed693fece78eeef35157454de9f77b/legacyflashgames/tetris2.swf"
+  ],
+  "failed": [
+    {
+      "url": "https://rawcdn.githack.com/WhoIsEv/relivedassets/e15b5ab7f7ed693fece78eeef35157454de9f77b/legacyflashgames/tetris2.swf",
+      "error": "HTTP 404 for https://rawcdn.githack.com/WhoIsEv/relivedassets/e15b5ab7f7ed693fece78eeef35157454de9f77b/legacyflashgames/tetris2.swf",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:24:05.190Z",
+  "verifiedAt": "2026-11-18T00:25:11.541Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

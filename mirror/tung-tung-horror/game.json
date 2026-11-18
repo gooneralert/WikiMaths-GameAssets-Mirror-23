@@ -1,0 +1,141 @@
+{
+  "slug": "tung-tung-horror",
+  "title": "Tung Tung Horror",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/tung.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/tung.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/tung.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/tung.html",
+  "entryUrl": "https://truffled.lol/gamefile/tung.html",
+  "status": "partial",
+  "sizeBytes": 42925697,
+  "assetCount": 28,
+  "known404": [
+    "https://afg.wgplayer.com/1games.io/js/wnlvUzqr01_UmhONvHscTg/88126564825/afg_bkg.jpg",
+    "https://afg.wgplayer.com/1games.io/js/wnlvUzqr01_UmhONvHscTg/88126564825/nologo.jpg",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/.br",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/tung-sahur-horror-v25051505.data.unityweb",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/tung-sahur-horror-v25051505.data.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/tung-sahur-horror-v25051505.data.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/tung-sahur-horror-v25051505.framework.js.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/tung-sahur-horror-v25051505.framework.js.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/tung-sahur-horror-v25051505.wasm.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/tung-sahur-horror-v25051505.wasm.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/tung-sahur-horror-v25051505.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/tung-sahur-horror-v25051505.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://afg.wgplayer.com/1games.io/js/wnlvUzqr01_UmhONvHscTg/88126564825/afg_bkg.jpg",
+      "error": "HTTP 404 for https://afg.wgplayer.com/1games.io/js/wnlvUzqr01_UmhONvHscTg/88126564825/afg_bkg.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://afg.wgplayer.com/1games.io/js/wnlvUzqr01_UmhONvHscTg/88126564825/nologo.jpg",
+      "error": "HTTP 404 for https://afg.wgplayer.com/1games.io/js/wnlvUzqr01_UmhONvHscTg/88126564825/nologo.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://st.wgplayer.com/com.br",
+      "error": "HTTP 403 for https://st.wgplayer.com/com.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/.br",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/.br",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/tung-sahur-horror-v25051505.data.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/tungtung/tung-sahur-horror-v25051505.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://dev.wgplayer.com/afg/v6/vignette.1.1.0.js?d=kiz10girls.com",
+      "error": "HTTP 401 for https://dev.wgplayer.com/afg/v6/vignette.1.1.0.js?d=kiz10girls.com",
+      "status": 401
+    },
+    {
+      "url": "https://dev.wgplayer.com/afg/v6/vignette.1.1.0.js?d=kiz10girls.com?g=true",
+      "error": "HTTP 401 for https://dev.wgplayer.com/afg/v6/vignette.1.1.0.js?d=kiz10girls.com?g=true",
+      "status": 401
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/Iterator.prototype.map",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T02:52:03.899Z",
+  "verifiedAt": "2026-11-18T02:53:11.256Z",
+  "verification": {
+    "external": 3,
+    "blocking": 1,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Tung Sahur Horror",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1112,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8607,
+    "rendered": true
+  }
+}

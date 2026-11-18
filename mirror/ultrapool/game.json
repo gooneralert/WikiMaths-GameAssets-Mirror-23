@@ -1,0 +1,105 @@
+{
+  "slug": "ultrapool",
+  "title": "Ultrapool",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/ultrapool.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/ultrapool.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/ultrapool.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/ultrapool.html",
+  "entryUrl": "https://truffled.lol/gamefile/ultrapool.html",
+  "status": "partial",
+  "sizeBytes": 263155770,
+  "assetCount": 38,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/index2.pck",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/index2.pck",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/index2.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/index2.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/godot.audio.position.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/godot.audio.position.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/godot.web.template_release.wasm32.nothreads.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/godot.web.template_release.wasm32.nothreads.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/godot.audio.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/godot.audio.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.audio.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.audio.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.audio.position.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.audio.position.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.side.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/ultrapoolwebport-nothreads@main/.side.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://api.trytalo.com/v1/socket-tickets",
+      "error": "HTTP 401 for https://api.trytalo.com/v1/socket-tickets",
+      "status": 401
+    },
+    {
+      "url": "https://api.trytalo.com/public/health",
+      "error": "No response body for https://api.trytalo.com/public/health",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-18T02:54:06.755Z",
+  "verifiedAt": "2026-11-18T02:55:13.602Z",
+  "verification": {
+    "external": 3,
+    "blocking": 2,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Ultrapool",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

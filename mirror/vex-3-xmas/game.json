@@ -1,0 +1,225 @@
+{
+  "slug": "vex-3-xmas",
+  "title": "Vex 3 Xmas",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/index.html",
+  "status": "partial",
+  "sizeBytes": 15324183,
+  "assetCount": 184,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/assets/rotate.png",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/_small.png",
+    "https://playobsidian.com/main.min.js",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.ogg",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.mp3",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.png",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/lagged.com.br",
+    "https://ext.minijuegosgratis.com/external-host/.js?",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/file.json",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.json",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.m4a",
+    "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.fnt",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+    "http://imasdk.googleapis.com/js/sdkloader/.js",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+    "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+    "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+    "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/assets/rotate.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/assets/rotate.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/_small.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/main.min.js",
+      "error": "HTTP 404 for https://playobsidian.com/main.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/lagged.com.br",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/lagged.com.br",
+      "status": 404
+    },
+    {
+      "url": "https://ext.minijuegosgratis.com/external-host/.js?",
+      "error": "HTTP 404 for https://ext.minijuegosgratis.com/external-host/.js?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/file.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/file.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.fnt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4312f97e-8ead-4d94-87fd-c93412488ff0/1/.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for http://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:21:39.831Z",
+  "verifiedAt": "2026-11-17T13:21:54.294Z",
+  "verification": {
+    "external": 5,
+    "blocking": 5,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Vex 3 Xmas",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1902,
+      "height": 940
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9998,
+    "rendered": true
+  }
+}

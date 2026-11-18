@@ -1,0 +1,351 @@
+{
+  "slug": "super-monkey-ball-1-and-2",
+  "title": "Super Monkey Ball 1 & 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/monk.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/monk.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/monkb.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/monk.html",
+  "entryUrl": "https://truffled.lol/gamefile/monk.html",
+  "status": "partial",
+  "sizeBytes": 3630840,
+  "assetCount": 65,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/085_banana_10.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/.zip",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/pack.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/012_banana_01.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/088_game_icon_mph.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/004_game_goal.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/000_icon_bombtimer.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/016_icon_bomb_hibi.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/001_icon_lv1234_j.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/019_icon_bomb_part_c.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/021_icon_bomb_part_e.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/020_icon_bomb_part_d.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/018_icon_bomb_part_b.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/017_icon_bomb_part_a.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/026_icon_bomb_part_j.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/024_icon_bomb_part_h.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/025_icon_bomb_part_i.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/022_icon_bomb_part_f.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/023_icon_bomb_part_g.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/005_asc_ball22x22.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/012_asc_ball26x38.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/007_asc_tama32x32.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/009_asc_ball20x20.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/013_asc_ball16x22.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/501_banana_icon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/503_monkey_frame.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/080_asc_tama72x64_new.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/006_asc_komo16x16.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/502_banana_frame.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/font/asc24_ascii.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/505_stage_frame.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/015_icon_ape_00.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/506_num_nml_saru.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/504_score_frame.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50d_num_nml_time.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/508_num_nml_score.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50a_num_nml_speed.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/509_speed_label.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/507_score_label.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50f_timer_frame.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50b_time_label.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50c_timer_ball.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/512_story_icon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50e_num_nml_time_small.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/513_challenge_advanced_icon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/514_challenge_beginner_icon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/515_challenge_expert_icon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/517_challenge_master_icon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/516_player_badge.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/src/mods/chain/chain.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/085_banana_10.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/085_banana_10.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/pack.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/pack.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/012_banana_01.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/012_banana_01.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/088_game_icon_mph.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/088_game_icon_mph.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/004_game_goal.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/004_game_goal.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/000_icon_bombtimer.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/000_icon_bombtimer.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/016_icon_bomb_hibi.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/016_icon_bomb_hibi.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/001_icon_lv1234_j.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/001_icon_lv1234_j.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/019_icon_bomb_part_c.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/019_icon_bomb_part_c.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/021_icon_bomb_part_e.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/021_icon_bomb_part_e.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/020_icon_bomb_part_d.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/020_icon_bomb_part_d.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/018_icon_bomb_part_b.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/018_icon_bomb_part_b.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/017_icon_bomb_part_a.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/017_icon_bomb_part_a.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/026_icon_bomb_part_j.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/026_icon_bomb_part_j.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/024_icon_bomb_part_h.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/024_icon_bomb_part_h.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/025_icon_bomb_part_i.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/025_icon_bomb_part_i.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/022_icon_bomb_part_f.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/022_icon_bomb_part_f.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/023_icon_bomb_part_g.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/023_icon_bomb_part_g.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/005_asc_ball22x22.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/005_asc_ball22x22.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/012_asc_ball26x38.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/012_asc_ball26x38.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/007_asc_tama32x32.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/007_asc_tama32x32.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/009_asc_ball20x20.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/009_asc_ball20x20.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/013_asc_ball16x22.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/013_asc_ball16x22.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/501_banana_icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/501_banana_icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/503_monkey_frame.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/503_monkey_frame.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/080_asc_tama72x64_new.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/080_asc_tama72x64_new.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/006_asc_komo16x16.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_nml/006_asc_komo16x16.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/502_banana_frame.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/502_banana_frame.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/font/asc24_ascii.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/font/asc24_ascii.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/505_stage_frame.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/505_stage_frame.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/015_icon_ape_00.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb1/bmp_com/015_icon_ape_00.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/506_num_nml_saru.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/506_num_nml_saru.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/504_score_frame.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/504_score_frame.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50d_num_nml_time.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50d_num_nml_time.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/508_num_nml_score.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/508_num_nml_score.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50a_num_nml_speed.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50a_num_nml_speed.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/509_speed_label.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/509_speed_label.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/507_score_label.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/507_score_label.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50f_timer_frame.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50f_timer_frame.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50b_time_label.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50b_time_label.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50c_timer_ball.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50c_timer_ball.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/512_story_icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/512_story_icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50e_num_nml_time_small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/50e_num_nml_time_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/513_challenge_advanced_icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/513_challenge_advanced_icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/514_challenge_beginner_icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/514_challenge_beginner_icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/515_challenge_expert_icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/515_challenge_expert_icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/517_challenge_master_icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/517_challenge_master_icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/516_player_badge.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/assets/hud/smb2/bmp_nml/516_player_badge.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/src/mods/chain/chain.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/WebMonkeyBall@main/dist/src/mods/chain/chain.png",
+      "status": 404
+    },
+    {
+      "url": "https://webmonkeyball-lobby.sndrec32exe.workers.dev/leaderboards/allowlist",
+      "error": "HTTP 500 for https://webmonkeyball-lobby.sndrec32exe.workers.dev/leaderboards/allowlist",
+      "status": 500
+    }
+  ],
+  "mirroredAt": "2026-11-17T23:49:39.624Z",
+  "verifiedAt": "2026-11-17T23:50:46.014Z",
+  "verification": {
+    "external": 2,
+    "blocking": 1,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "SMB1 Web Gameplay",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.6277,
+    "rendered": true
+  }
+}

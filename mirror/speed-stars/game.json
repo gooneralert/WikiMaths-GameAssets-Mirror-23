@@ -1,0 +1,88 @@
+{
+  "slug": "speed-stars",
+  "title": "Speed Stars",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/speed-stars/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/speed-stars/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/speed-stars/index.html",
+  "status": "partial",
+  "sizeBytes": 7417,
+  "assetCount": 2,
+  "known404": [
+    "https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/Build/webgl.loader.js",
+    "https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/TemplateData/style.css",
+    "https://rawcdn.githack.com/webgl.wasm",
+    "https://rawcdn.githack.com/webgl.framework.js",
+    "https://rawcdn.githack.com/webgl.data",
+    "https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/TemplateData/favicon.ico",
+    "https://rawcdn.githack.com/webgl.loader.js"
+  ],
+  "failed": [
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/Build/webgl.loader.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/Build/webgl.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/TemplateData/style.css",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/TemplateData/style.css",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/webgl.wasm",
+      "error": "HTTP 404 for https://rawcdn.githack.com/webgl.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/webgl.framework.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/webgl.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/webgl.data",
+      "error": "HTTP 404 for https://rawcdn.githack.com/webgl.data",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/TemplateData/favicon.ico",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/f80c14f1508260870d9b10f5acbf73fc4b77764e/speed-stars/TemplateData/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/webgl.loader.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/webgl.loader.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T07:12:31.637Z",
+  "verifiedAt": "2026-11-18T14:23:12.138Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | Speed Stars",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": false
+  },
+  "onlineOnly": true
+}

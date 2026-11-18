@@ -1,0 +1,15 @@
+{
+  "/gamefile/stickwar.html": "/stickwar.html",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/Build/WebGL.data.zip": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/Build/WebGL.data.zip",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/Build/WebGL.framework.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/Build/WebGL.framework.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/Build/WebGL.loader.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/Build/WebGL.loader.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/Build/WebGL.wasm.zip": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/Build/WebGL.wasm.zip",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/progress-bar-empty-dark.png": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/progress-bar-empty-dark.png",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/progress-bar-full-dark.png": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/progress-bar-full-dark.png",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/style.css": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/style.css",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/unity-logo-dark.png": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/TemplateData/unity-logo-dark.png",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/lib/jszip.min.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/lib/jszip.min.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/unarchiver.min.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/stick-war-legacy/unarchiver.min.js",
+  "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js": "/__external__/cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/ytgame.js",
+  "https://truffled.lol/gamefile/stickwar.html": "/stickwar.html"
+}
