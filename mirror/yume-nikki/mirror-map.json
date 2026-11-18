@@ -1,0 +1,16 @@
+{
+  "/gamefile/yume.html": "/yume.html",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.ini": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.ini",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.ldb": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.ldb",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.lmt": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.lmt",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/index.json": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/index.json",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/index.js": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/index.js",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/index.wasm": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/index.wasm",
+  "https://raw.githubusercontent.com/genizy/web-port/main/yume-nikki/games/default/RPG_RT.ini": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.ini",
+  "https://raw.githubusercontent.com/genizy/web-port/main/yume-nikki/games/default/RPG_RT.ldb": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.ldb",
+  "https://raw.githubusercontent.com/genizy/web-port/main/yume-nikki/games/default/RPG_RT.lmt": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/RPG_RT.lmt",
+  "https://raw.githubusercontent.com/genizy/web-port/main/yume-nikki/games/default/index.json": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/games/default/index.json",
+  "https://raw.githubusercontent.com/genizy/web-port/main/yume-nikki/index.js": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/index.js",
+  "https://raw.githubusercontent.com/genizy/web-port/main/yume-nikki/index.wasm": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/index.wasm",
+  "https://truffled.lol/gamefile/yume.html": "/yume.html"
+}

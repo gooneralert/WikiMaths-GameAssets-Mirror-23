@@ -1,0 +1,65 @@
+{
+  "slug": "yume-nikki",
+  "title": "Yume Nikki",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/yume.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/yume.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/yumi.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/yume.html",
+  "entryUrl": "https://truffled.lol/gamefile/yume.html",
+  "status": "partial",
+  "sizeBytes": 9503429,
+  "assetCount": 14,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/undefined/pages/home.html",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/undefined/pages/home.html",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/yume-nikki/.wav",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-18T05:45:04.025Z",
+  "verifiedAt": "2026-11-18T05:46:10.322Z",
+  "verification": {
+    "external": 4,
+    "blocking": 3,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "YUME NIKKI - EasyRPG Player",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.6668,
+    "rendered": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "zuma",
+  "title": "Zuma",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/zuma/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/zuma/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/zuma.webp",
+  "baseUrl": "https://truffled.lol/games/zuma/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/zuma/index.html",
+  "status": "partial",
+  "sizeBytes": 16116279,
+  "assetCount": 12,
+  "known404": [],
+  "failed": [
+    {
+      "url": "http://tools.heyzap.com/external/tools/v3.swf?as_version=3&slc_name=_s1794980815482_68888&library_version=3.3.2&cb=1794980815482_44160&swf_url=http%3A//zuma.localhost%3A8124/zuma.swf&rlc_name=_r1794980815482_99618&game_key=11d2afaf1cc1e00319098900e31f258f",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-18T05:47:04.818Z",
+  "verifiedAt": "2026-11-18T05:47:14.782Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

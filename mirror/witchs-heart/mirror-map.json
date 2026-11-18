@@ -1,0 +1,16 @@
+{
+  "/gamefile/witches.html": "/witches.html",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.ini": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.ini",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.ldb": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.ldb",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.lmt": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.lmt",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/index.json": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/index.json",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/index.js": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/index.js",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/index.wasm": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/index.wasm",
+  "https://raw.githubusercontent.com/genizy/web-port/main/witch-heart/games/default/RPG_RT.ini": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.ini",
+  "https://raw.githubusercontent.com/genizy/web-port/main/witch-heart/games/default/RPG_RT.ldb": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.ldb",
+  "https://raw.githubusercontent.com/genizy/web-port/main/witch-heart/games/default/RPG_RT.lmt": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/RPG_RT.lmt",
+  "https://raw.githubusercontent.com/genizy/web-port/main/witch-heart/games/default/index.json": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/games/default/index.json",
+  "https://raw.githubusercontent.com/genizy/web-port/main/witch-heart/index.js": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/index.js",
+  "https://raw.githubusercontent.com/genizy/web-port/main/witch-heart/index.wasm": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/index.wasm",
+  "https://truffled.lol/gamefile/witches.html": "/witches.html"
+}

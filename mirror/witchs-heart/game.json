@@ -1,0 +1,70 @@
+{
+  "slug": "witchs-heart",
+  "title": "Witch's Heart",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/witches.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/witches.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/witches.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/witches.html",
+  "entryUrl": "https://truffled.lol/gamefile/witches.html",
+  "status": "partial",
+  "sizeBytes": 9878770,
+  "assetCount": 14,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/undefined/pages/home.html",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/undefined/pages/home.html",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/HauntedMansion.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/HauntedMansion.mp3",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@main/witch-heart/.mp3",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-18T05:26:40.494Z",
+  "verifiedAt": "2026-11-18T05:26:51.536Z",
+  "verification": {
+    "external": 4,
+    "blocking": 3,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Witch's Heart - EasyRPG Player",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.6668,
+    "rendered": true
+  }
+}
