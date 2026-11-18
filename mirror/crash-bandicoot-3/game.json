@@ -1,0 +1,138 @@
+{
+  "slug": "crash-bandicoot-3",
+  "title": "Crash Bandicoot 3",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/crash3.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/crash3.html",
+  "entryUrl": "https://truffled.lol/gamefile/crash3.html",
+  "status": "partial",
+  "sizeBytes": 4812336,
+  "assetCount": 22,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part2",
+    "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part6",
+    "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part1",
+    "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part7",
+    "https://truffled.lol/gamefile/asd.js",
+    "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part4",
+    "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part3",
+    "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part5"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part2",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part2",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part6",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part6",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part1",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part1",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part7",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part7",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/asd.js",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/asd.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part5",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/schoolstuff1337/supplies@main/ps1/crash3/Crash%20Bandicoot%20-%20Warped%20(USA).iso.part5",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-16T14:34:39.712Z",
+  "verifiedAt": "2026-11-16T14:36:01.201Z",
+  "verification": {
+    "external": 7,
+    "blocking": 7,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9837,
+    "rendered": true
+  }
+}

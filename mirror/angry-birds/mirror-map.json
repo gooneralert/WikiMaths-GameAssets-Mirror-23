@@ -1,0 +1,22 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/gamefile/Angrybirds.html": "/Angrybirds.html",
+  "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.data": "/__external__/cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.data",
+  "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.js": "/__external__/cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.js",
+  "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.json": "/__external__/cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.json",
+  "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.wasm.code": "/__external__/cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.wasm.code",
+  "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.wasm.framework": "/__external__/cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/birds.wasm.framework",
+  "https://cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js": "/__external__/cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/fullscreen.png": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/fullscreen.png",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressEmpty.Dark.png": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressEmpty.Dark.png",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressEmpty.Light.png": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressEmpty.Light.png",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressFull.Dark.png": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressFull.Dark.png",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressFull.Light.png": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressFull.Light.png",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressLogo.Dark.png": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressLogo.Dark.png",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressLogo.Light.png": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/progressLogo.Light.png",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css",
+  "https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/webgl-logo.png": "/__external__/cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/webgl-logo.png",
+  "https://cdp.cloud.unity3d.com/v1/events": "/__external__/cdp.cloud.unity3d.com/v1/events",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/gamefile/Angrybirds.html": "/Angrybirds.html"
+}

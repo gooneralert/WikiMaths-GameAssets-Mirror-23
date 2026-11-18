@@ -1,0 +1,276 @@
+{
+  "slug": "crash-bandicoot-1",
+  "title": "Crash Bandicoot 1",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/crash1.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/crash1.html",
+  "entryUrl": "https://truffled.lol/gamefile/crash1.html",
+  "status": "partial",
+  "sizeBytes": 4819532,
+  "assetCount": 22,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part03",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part05",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part04",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part02",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part01",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part06",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part08",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part10",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part09",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part07",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part12",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part11",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part13",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part16",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part18",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part14",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part17",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part15",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part20",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part19",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part22",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part24",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part23",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part21",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part25",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part27",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part28",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part26",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part29",
+    "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip",
+    "https://truffled.lol/gamefile/asd.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part03",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part03",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part05",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part05",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part04",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part04",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part02",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part02",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part01",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part01",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part06",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part06",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part08",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part08",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part10",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part10",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part09",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part09",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part07",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part07",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part12",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part12",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part11",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part11",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part13",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part13",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part16",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part16",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part18",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part18",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part14",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part14",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part17",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part17",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part15",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part15",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part20",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part20",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part19",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part19",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part22",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part22",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part24",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part24",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part23",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part23",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part21",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part21",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part25",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part25",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part27",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part27",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part28",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part28",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part26",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part26",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part29",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip.part29",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/eazy-man/shHH@main/ps1/Crash%20Bandicoot%20(USA).zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/nipplejs.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/emulator.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/shaders.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/storage.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/gamepad.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/GameManager.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/compression.js",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/gamefile/asd.js",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/asd.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/socket.io.min.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/emu@master/.json",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-16T14:25:48.325Z",
+  "verifiedAt": "2026-11-16T14:27:09.620Z",
+  "verification": {
+    "external": 29,
+    "blocking": 29,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9837,
+    "rendered": true
+  }
+}

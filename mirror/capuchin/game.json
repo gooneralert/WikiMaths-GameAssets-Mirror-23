@@ -1,0 +1,69 @@
+{
+  "slug": "capuchin",
+  "title": "Capuchin",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/CapuchinBog/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/CapuchinBog/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/CapuchinBog/index.html",
+  "status": "partial",
+  "sizeBytes": 413278739,
+  "assetCount": 32,
+  "known404": [
+    "https://raw.githubusercontent.com/hi11sk40/CapuchinVersions/main/BonesTagCapuchin?token=GHSAT0AAAAAACEPWA6NDIKQF7HIDOQY6CQOZE43DBQ",
+    "https://truffled.lol/games/CapuchinBog/Build/CapuchinBog.data",
+    "https://truffled.lol/games/CapuchinBog/Build/CapuchinBog.wasm",
+    "https://truffled.lol/games/CapuchinBog/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://raw.githubusercontent.com/hi11sk40/CapuchinVersions/main/BonesTagCapuchin?token=GHSAT0AAAAAACEPWA6NDIKQF7HIDOQY6CQOZE43DBQ",
+      "error": "HTTP 404 for https://raw.githubusercontent.com/hi11sk40/CapuchinVersions/main/BonesTagCapuchin?token=GHSAT0AAAAAACEPWA6NDIKQF7HIDOQY6CQOZE43DBQ",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/CapuchinBog/Build/CapuchinBog.data",
+      "error": "HTTP 404 for https://truffled.lol/games/CapuchinBog/Build/CapuchinBog.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/CapuchinBog/Build/CapuchinBog.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/CapuchinBog/Build/CapuchinBog.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/CapuchinBog/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/CapuchinBog/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T06:26:57.336Z",
+  "verifiedAt": "2026-11-17T06:28:20.334Z",
+  "verification": {
+    "external": 2,
+    "blocking": 1,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Capuchin",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9352,
+    "rendered": true
+  }
+}

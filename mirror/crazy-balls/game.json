@@ -1,0 +1,130 @@
+{
+  "slug": "crazy-balls",
+  "title": "Crazy Balls",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/balls.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/balls.html",
+  "entryUrl": "https://truffled.lol/gamefile/balls.html",
+  "status": "partial",
+  "sizeBytes": 205237086,
+  "assetCount": 36,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/undefined/pages/home.html",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/levels_assets_all_c0fee66fd4e827f8587343bcdcc13f1f.bundle",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.zip",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.data",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.wasm",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/TemplateData/webgl-logo.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/TemplateData/fullscreen-button.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/lib/libunrar.js.mem"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/WebGL_16.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebGL_16.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebGL_16.data.unityweb?",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebGL_16.data.unityweb?",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebGL_16.framework.js.unityweb?",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebGL_16.framework.js.unityweb?",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/WebGL_16.wasm.unityweb?",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/WebGL_16.wasm.unityweb?",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/undefined/pages/home.html",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/undefined/pages/home.html",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/levels_assets_all_c0fee66fd4e827f8587343bcdcc13f1f.bundle",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/levels_assets_all_c0fee66fd4e827f8587343bcdcc13f1f.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/TemplateData/webgl-logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/TemplateData/webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/TemplateData/fullscreen-button.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/TemplateData/fullscreen-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/lib/libunrar.js.mem",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@main/going-balls/lib/libunrar.js.mem",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.statically.io/gh/bubbls/youtube-playables@main/going-balls/StreamingAssets/aa/WebGL/levels_assets_all_c0fee66fd4e827f8587343bcdcc13f1f.bundle",
+      "error": "response body stalled for 90s",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-16T14:46:35.947Z",
+  "verifiedAt": "2026-11-16T14:46:45.638Z",
+  "verification": {
+    "external": 4,
+    "blocking": 4,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "YT Game Wrapper WebGL Template",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 100,
+      "height": 100
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

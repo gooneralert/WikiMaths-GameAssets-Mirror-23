@@ -1,0 +1,856 @@
+{
+  "slug": "baseball-bros",
+  "title": "Baseball Bros",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/baseballbros/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/baseballbros/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/baseballbros/index.html",
+  "status": "partial",
+  "sizeBytes": 17599334,
+  "assetCount": 718,
+  "known404": [
+    "https://edge.atmtd.com/pub/vntsm/afihbs.js",
+    "https://baseballbros.io/sbros_364x180.png",
+    "https://truffled.lol/ss2.jpg",
+    "https://truffled.lol/ss1.jpg",
+    "https://truffled.lol/games/baseballbros/assets/audio/theme_select.mp3",
+    "https://truffled.lol/games/baseballbros/assets/audio/theme.mp3",
+    "https://truffled.lol/games/baseballbros/assets/audio/theme_arena.mp3",
+    "https://truffled.lol/games/baseballbros/assets/audio/announcer_slide.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/ball_hit.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/ball_hit_2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/bounce.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/bat_hit.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/catch.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/buzzer.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/chirp.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/countdown.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/crowd_boo.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/crowd_clapping.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/crowd_cpu_score.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/crowd_human_score.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/crowd_roar.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/firework_explode.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/foot1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/land.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/foot2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/jump.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/intro_ramp.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/organic_whoosh_07.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/organ.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/mitt.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/play_picked.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/pop.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/punch.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/slide.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/shoots.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/select.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/theme.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/smash.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/theme_arena.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/theme_inplay.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/tip.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_ball_one.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/touchdown.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/theme_select.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_ball_three.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_base_hit.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_ball_two.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_called_strike_three.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_double_play.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_error1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_drop1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_error2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_error3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_error4.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_fight.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_grand_slam.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_foul_ball.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_he_beat_the_tag.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_he_beat_the_throw.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_he_walked_him.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_he_got_him_looking.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_ground_ball.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_he_goes_down_swinging.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hes_out.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hes_charging_the_mound.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hes_staying_alive.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hithard1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter4.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hithard2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_hithard3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun4.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun5.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_inningover1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_inningover2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_it_drops.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_inningover3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_inside_the_park_homerun.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_out_at_the_plate.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_off_the_wall.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_out_at_first.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_pitch2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_pitch3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_pitch1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_runscored1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_popped_up.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_running3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_runscored3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_runscored2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_runscored4.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_safe1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_safe2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_startgame1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_startgame2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_startgame3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_startgame4.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_steal2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_steal1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_stolen1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_strike_two.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_strike_one.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_stolen2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout3.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_the_payoff.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout4.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout5.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_three_run_dinger.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_triple_play.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_walk1.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/vo_walk2.wav",
+    "https://truffled.lol/games/baseballbros/assets/audio/whistle.wav",
+    "https://truffled.lol/games/baseballbros/_MASK.jpg",
+    "https://truffled.lol/games/baseballbros/hxjson2.JSON",
+    "https://truffled.lol/games/baseballbros/library.json",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js"
+  ],
+  "failed": [
+    {
+      "url": "https://edge.atmtd.com/pub/vntsm/afihbs.js",
+      "error": "HTTP 404 for https://edge.atmtd.com/pub/vntsm/afihbs.js",
+      "status": 404
+    },
+    {
+      "url": "https://baseballbros.io/sbros_364x180.png",
+      "error": "HTTP 404 for https://baseballbros.io/sbros_364x180.png",
+      "status": 404
+    },
+    {
+      "url": "https://map.go.affec.tv/map/af/?gdpr=1&gdpr_consent=",
+      "error": "No response body for https://map.go.affec.tv/map/af/?gdpr=1&gdpr_consent=",
+      "status": 0
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/baseballbros.io/AdInPlay/a9_display_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/baseballbros.io/AdInPlay/a9_display_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/baseballbros.io/AdInPlay/a9_video_prices.json",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/baseballbros.io/AdInPlay/a9_video_prices.json",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/libs/aiptag/pub/SSK/baseballbros.io/cdn-ihb.33across.com/ihbloader.js",
+      "error": "HTTP 403 for https://api.adinplay.com/libs/aiptag/pub/SSK/baseballbros.io/cdn-ihb.33across.com/ihbloader.js",
+      "status": 403
+    },
+    {
+      "url": "https://truffled.lol/ss2.jpg",
+      "error": "HTTP 404 for https://truffled.lol/ss2.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/ss1.jpg",
+      "error": "HTTP 404 for https://truffled.lol/ss1.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/theme_select.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/theme_select.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/theme.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/theme.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/theme_arena.mp3",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/theme_arena.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/announcer_slide.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/announcer_slide.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/ball_hit.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/ball_hit.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/ball_hit_2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/ball_hit_2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/bounce.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/bounce.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/bat_hit.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/bat_hit.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/catch.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/catch.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/buzzer.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/buzzer.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/chirp.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/chirp.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/countdown.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/countdown.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/crowd_boo.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/crowd_boo.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/crowd_clapping.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/crowd_clapping.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/crowd_cpu_score.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/crowd_cpu_score.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/crowd_human_score.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/crowd_human_score.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/crowd_roar.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/crowd_roar.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/firework_explode.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/firework_explode.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/foot1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/foot1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/land.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/land.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/foot2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/foot2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/jump.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/jump.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/intro_ramp.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/intro_ramp.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/organic_whoosh_07.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/organic_whoosh_07.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/organ.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/organ.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/mitt.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/mitt.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/play_picked.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/play_picked.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/pop.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/pop.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/punch.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/punch.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/slide.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/slide.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/shoots.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/shoots.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/select.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/select.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/theme.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/theme.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/smash.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/smash.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/theme_arena.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/theme_arena.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/theme_inplay.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/theme_inplay.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/tip.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/tip.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_ball_one.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_ball_one.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/touchdown.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/touchdown.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/theme_select.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/theme_select.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_ball_three.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_ball_three.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_base_hit.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_base_hit.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_ball_two.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_ball_two.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_called_strike_three.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_called_strike_three.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_double_play.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_double_play.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_error1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_error1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_drop1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_drop1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_error2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_error2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_error3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_error3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_error4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_error4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_fight.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_fight.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_grand_slam.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_grand_slam.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_foul_ball.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_foul_ball.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_he_beat_the_tag.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_he_beat_the_tag.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_he_beat_the_throw.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_he_beat_the_throw.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_he_walked_him.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_he_walked_him.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_he_got_him_looking.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_he_got_him_looking.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_ground_ball.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_ground_ball.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_he_goes_down_swinging.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_he_goes_down_swinging.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hes_out.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hes_out.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hes_charging_the_mound.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hes_charging_the_mound.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hes_staying_alive.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hes_staying_alive.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hithard1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hithard1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hitbatter4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hithard2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hithard2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_homerun1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_hithard3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_hithard3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_homerun.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_homerun3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_homerun2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_homerun4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_homerun5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_homerun5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_inningover1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_inningover1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_inningover2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_inningover2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_it_drops.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_it_drops.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_inningover3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_inningover3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_inside_the_park_homerun.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_inside_the_park_homerun.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_out_at_the_plate.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_out_at_the_plate.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_off_the_wall.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_off_the_wall.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_out_at_first.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_out_at_first.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_pitch2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_pitch2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_pitch3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_pitch3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_pitch1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_pitch1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_runscored1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_runscored1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_popped_up.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_popped_up.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_running3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_running3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_runscored3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_runscored3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_runscored2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_runscored2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_runscored4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_runscored4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_safe1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_safe1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_safe2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_safe2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_startgame1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_startgame1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_startgame2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_startgame2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_startgame3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_startgame3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_startgame4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_startgame4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_steal2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_steal2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_steal1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_steal1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_stolen1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_stolen1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_strike_two.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_strike_two.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_strike_one.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_strike_one.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_stolen2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_stolen2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout3.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout3.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_the_payoff.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_the_payoff.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout4.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout4.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout5.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_strikeout5.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_three_run_dinger.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_three_run_dinger.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_triple_play.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_triple_play.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_walk1.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_walk1.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/vo_walk2.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/vo_walk2.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/assets/audio/whistle.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/assets/audio/whistle.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/_MASK.jpg",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/_MASK.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/hxjson2.JSON",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/hxjson2.JSON",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/baseballbros/library.json",
+      "error": "HTTP 404 for https://truffled.lol/games/baseballbros/library.json",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#du.postMessage(e.data.msg,",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/===e.data?.type&&this.#du.postMessage(e.data.msg,",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/ext.data",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/ext.data",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/Node.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/Node.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/events.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/events.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/debugging-standalone.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/prebid.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://api.adinplay.com/v4/live/aip/.js",
+      "error": "HTTP 403 for https://api.adinplay.com/v4/live/aip/.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-18T06:41:13.295Z",
+  "verifiedAt": "2026-11-18T06:42:34.957Z",
+  "verification": {
+    "external": 10,
+    "blocking": 1,
+    "ignoredExternal": 9,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 3925,
+    "title": "BASEBALL BROS! | Official Site",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 713
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0479,
+    "rendered": true
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "angry-birds",
+  "title": "Angry Birds",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/Angrybirds.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/Angrybirds.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/angry.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/Angrybirds.html",
+  "entryUrl": "https://truffled.lol/gamefile/Angrybirds.html",
+  "status": "partial",
+  "sizeBytes": 11070854,
+  "assetCount": 20,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/inflate.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/constants.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/inflate.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/messages.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/utils/strings.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/zstream.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary.bin.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/inftrees.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/decode.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary-browser.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dictionary.bin.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/streams.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/huffman.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/prefix.js",
+    "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/transform.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/constants.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/messages.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/utils/strings.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/zstream.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/inftrees.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/decode.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dictionary.bin.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/streams.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/huffman.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/prefix.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/transform.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/gertdoro/UnityExplorer@cffa09e09790018403c996d37adb6c4450e8f6c6/Runtime/birds/dec/transform.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T07:49:32.963Z",
+  "verifiedAt": "2026-11-18T14:21:05.808Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "",
+    "crossOriginIsolated": null,
+    "sharedArrayBuffer": "",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": null,
+    "rendered": false
+  },
+  "onlineOnly": true
+}

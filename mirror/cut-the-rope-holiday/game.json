@@ -1,0 +1,679 @@
+{
+  "slug": "cut-the-rope-holiday",
+  "title": "Cut The Rope Holiday",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/hol.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/hol.html",
+  "entryUrl": "https://truffled.lol/gamefile/hol.html",
+  "status": "partial",
+  "sizeBytes": 10336295,
+  "assetCount": 302,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/detectmobilebrowser.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/detectmobilebrowser.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/1024/ui/drawing1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/1024/ui/drawing1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/1024/ui/drawing3.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/1024/ui/drawing3.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/1024/ui/drawing2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/1024/ui/drawing2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/page/back.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/page/back.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.swf?",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.swf?",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.swf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.swf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/page/social_bg.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/images/page/social_bg.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/_debug.swf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/_debug.swf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/soundmanager2.swf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/soundmanager2.swf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/soundmanager2_flash9.swf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/soundmanager2_flash9.swf",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/small_font.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/small_font.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/big_font.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/big_font.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/font_numbers_big.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/font_numbers_big.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_candy_01.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_candy_01.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spider.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spider.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_star_disappear.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_star_disappear.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_auto.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_auto.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bubble_pop.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bubble_pop.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bubble_flight.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bubble_flight.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spikes_04.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spikes_04.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bubble_attached.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bubble_attached.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_01.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_01.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/hud_star.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/hud_star.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_02.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_02.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_star_idle.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_star_idle.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spikes_03.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spikes_03.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spikes_02.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spikes_02.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spikes_01.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_spikes_01.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/char_animations.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/char_animations.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/char_animations2.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/char_animations2.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/char_animations3.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/char_animations3.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_regulated.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_regulated.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_electrodes.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_electrodes.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_movable.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hook_movable.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_pump.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_pump.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/tutorial_signs.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/tutorial_signs.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bouncer_01.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bouncer_01.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hat.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_hat.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_drawing_hidden.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_drawing_hidden.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bouncer_02.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bouncer_02.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_01.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_01.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_02.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_02.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_04.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_04.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_03.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_03.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bee_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_bee_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_button.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_rotatable_spikes_button.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_pollen_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_pollen_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/char_supports.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/char_supports.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_vinil.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/obj_vinil.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_01_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_01_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_01_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_01_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_02_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_02_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_02_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_02_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_03_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_03_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_03_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_03_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_04_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_04_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_04_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_04_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_05_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_05_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_05_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_05_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_06_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_06_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_06_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_06_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_07_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_07_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_07_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_07_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_08_p1.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_08_p1.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_08_p2.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_08_p2.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_09_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_09_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_09_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_09_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_10_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_10_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_10_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_10_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_11_p1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_11_p1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_11_p2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_11_p2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_ie.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_ie.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time2.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time2.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time3.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time3.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time4.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time4.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time5.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time5.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time6.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/bgr_time6.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Caesar_animations_1_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Caesar_animations_1_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Caesar_animations_2_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Caesar_animations_2_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Caesar_animations_3_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Caesar_animations_3_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Caesar_animations_4_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Caesar_animations_4_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Painter_animations_2_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Painter_animations_2_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Painter_animations_1_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Painter_animations_1_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Painter_animations_3_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Painter_animations_3_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Painter_animations_4_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Painter_animations_4_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pharaoh_animations_2_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pharaoh_animations_2_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pharaoh_animations_1_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pharaoh_animations_1_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pharaoh_animations_4_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pharaoh_animations_4_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pharaoh_animations_3_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pharaoh_animations_3_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pirate_animations_1_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pirate_animations_1_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pirate_animations_2_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pirate_animations_2_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pirate_animations_4_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pirate_animations_4_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pirate_animations_3_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Pirate_animations_3_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Prehistoric_animations_1_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Prehistoric_animations_1_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Prehistoric_animations_2_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Prehistoric_animations_2_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Prehistoric_animations_3_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Prehistoric_animations_3_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Prehistoric_animations_4_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Prehistoric_animations_4_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Viking_animations_2_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Viking_animations_2_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Viking_animations_1_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Viking_animations_1_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Viking_animations_3_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Viking_animations_3_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Viking_animations_4_hd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/Viking_animations_4_hd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/time-stands.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/time-stands.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/drawing-bg.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/drawing-bg.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/box1_bgd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/box1_bgd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/boxmore_bgd.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/boxmore_bgd.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/levelbg1.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/levelbg1.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/loader-bg.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/loader-bg.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/loader-logo.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/loader-logo.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/:Modernizr.audio.ogg?",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/:Modernizr.audio.ogg?",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.webm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.webm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/css!css/nosupport.css?321",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/css!css/nosupport.css?321",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/images/page/tilebg.jpg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/images/page/tilebg.jpg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/images/page/loader-bubble.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/images/page/loader-bubble.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/images/page/loader-numbers.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/images/page/loader-numbers.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/images/page/loader-smallbubble.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/images/page/loader-smallbubble.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/box_lock.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/box_lock.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/box_omnom.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/box_omnom.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/star_result_small.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/star_result_small.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/perfect_mark.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/perfect_mark.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/leveltape_left.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/leveltape_left.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/leveltape_right.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/leveltape_right.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/_locked.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/_locked.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/shadow.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/ctr-holiday/scripts/shadow.png",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T06:33:28.541Z",
+  "verifiedAt": "2026-11-17T06:34:49.822Z",
+  "verification": {
+    "external": 6,
+    "blocking": 1,
+    "ignoredExternal": 5,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Cut the Rope: Holiday Gift",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1024,
+      "height": 576
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

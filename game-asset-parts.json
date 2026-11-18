@@ -1,0 +1,36 @@
+{
+  "mirror/sonic-4/Content.tar.gz": {
+    "size": 247450717,
+    "parts": [
+      {
+        "path": "mirror/sonic-4/Content.tar.gz.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-4/Content.tar.gz.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sonic-4/Content.tar.gz.part003",
+        "size": 67450717
+      }
+    ]
+  },
+  "mirror/sanic-ball/Build/8c6b39efba71729de57583b3cf8c1214.data": {
+    "size": 268375410,
+    "parts": [
+      {
+        "path": "mirror/sanic-ball/Build/8c6b39efba71729de57583b3cf8c1214.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sanic-ball/Build/8c6b39efba71729de57583b3cf8c1214.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/sanic-ball/Build/8c6b39efba71729de57583b3cf8c1214.data.part003",
+        "size": 88375410
+      }
+    ]
+  }
+}

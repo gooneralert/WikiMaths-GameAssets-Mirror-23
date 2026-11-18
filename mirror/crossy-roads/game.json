@@ -1,0 +1,1228 @@
+{
+  "slug": "crossy-roads",
+  "title": "Crossy Roads",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/crossy.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/crossy.html",
+  "entryUrl": "https://truffled.lol/gamefile/crossy.html",
+  "status": "partial",
+  "sizeBytes": 5626448,
+  "assetCount": 41,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/undefined/pages/home.html",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/,f.map?",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/BitmapText.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/anchors.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Rectangle.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Sprite.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Text.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/CrossyUI.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/DisplayObject.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-close.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/CrossyUI.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-close-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-windows.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-amazon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-app-store.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-google-play.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GoTo-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GoTo.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/trex-phone.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/trex.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/smallBack.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/smallBack-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/open-gift-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/open-gift.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder-yellow.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-wide.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-square-small.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell-close.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-keyboard.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/editundobrk-top-numbers.json",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/river.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/particles.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/audio/river.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-full.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-left.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-right.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-up.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-off.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-off-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up_toggle-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up_toggle.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/tap1.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/characterSelect.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/tap2.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/new_info.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/pause.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/characterSelectBlink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/pause.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/attention.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin-basic.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin-white.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/crossy-road-logo.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/adToCoin.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/duck.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-info.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinToChickenBlink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/adToCoinBlink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/robot.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/CoinToChicken.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-info-blink.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide-gray.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/cat.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-android.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-tryout.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/asset-loader.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/loading-flow.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/poki-icon.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-ios.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/poki-logo.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/free-gift.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/free-gift-orange.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-2.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide-gray.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-1.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/whale-2.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-whale.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/tween.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-3.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/three.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/EditUndoBrk.css",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8bitwonder.css",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/game.min.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinhop.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GameReward.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/rapidsdeath3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/TrainAlarm.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/rapidsdeath9.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinhop2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/TrainBell.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/birdflyaway.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/drown1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/drown2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scoretop.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/hop2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/hawk-screech-02.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainbell3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/eaglehit.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car-horn.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/lilysplash.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainpassshorter.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/insertcoin.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainpassnohorn.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/carhit.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/watersplash.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/carsquish.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainsplat.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump4.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GetCoin79wav.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/watersplashlow.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_5.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_7.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_8.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/grenade1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_6.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop4.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robotexplode.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothopshort.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothopshort2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat4.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robotloop.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck10.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck6.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck5.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck8.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck9.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck7.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck11.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/chickendeath2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck4.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/chickendeath.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack5.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/bannerhit3-g.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/counting-of-money-short.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/insert-coin.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack4.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/SlotMachineInsert.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev4.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev1.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/coininsert3.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/casinomachine.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/clickball.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/prizewinner.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/UnlockPlain.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/playslotsmachine.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/emptyingthepiggybank2.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/openbox.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/Earn_Points.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/audio.zip",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/booktap.mp4",
+    "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/PrizeWheel.mp4"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/undefined/pages/home.html",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/undefined/pages/home.html",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/,f.map?",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/,f.map?",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/BitmapText.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/BitmapText.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/anchors.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/anchors.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Rectangle.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Rectangle.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Sprite.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Sprite.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Text.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Text.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/CrossyUI.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/CrossyUI.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/DisplayObject.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/DisplayObject.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-close.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-close.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/CrossyUI.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/CrossyUI.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-close-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-close-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-windows.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-windows.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-amazon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-amazon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-app-store.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-app-store.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-google-play.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-google-play.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GoTo-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GoTo-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GoTo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GoTo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/trex-phone.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/trex-phone.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/trex.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/trex.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/smallBack.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/smallBack.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/smallBack-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/smallBack-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/open-gift-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/open-gift-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/open-gift.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/open-gift.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder-yellow.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder-yellow.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-wide.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-wide.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-square-small.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-square-small.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell-close.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell-close.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-keyboard.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-keyboard.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/focus-upsell.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/editundobrk-top-numbers.json",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/editundobrk-top-numbers.json",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/river.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/river.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/particles.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/particles.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/audio/river.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/audio/river.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-full.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-full.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-left.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-left.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-right.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-right.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-up.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/keyboard-up.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-off.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-off.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-off-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-off-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mute-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up_toggle-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up_toggle-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up_toggle.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up_toggle.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/arrow-up.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/tap1.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/tap1.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/characterSelect.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/characterSelect.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/tap2.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/tap2.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/new_info.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/new_info.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/pause.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/pause.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/characterSelectBlink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/characterSelectBlink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/pause.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/pause.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/attention.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/attention.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin-basic.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin-basic.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin-white.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin-white.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/crossy-road-logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/crossy-road-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/adToCoin.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/adToCoin.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/duck.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/duck.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-info.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-info.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinToChickenBlink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinToChickenBlink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/adToCoinBlink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/adToCoinBlink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/robot.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/robot.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/CoinToChicken.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/CoinToChicken.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-info-blink.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-info-blink.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide-gray.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/purchase-wide-gray.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/cat.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/cat.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-android.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-android.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-tryout.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/button-tryout.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/asset-loader.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/asset-loader.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/loading-flow.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/loading-flow.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/poki-icon.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/poki-icon.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-ios.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/upsell-ios.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/poki-logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/poki-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/free-gift.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/free-gift.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/free-gift-orange.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/free-gift-orange.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-2.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-2.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide-gray.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/play-wide-gray.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-1.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-1.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/whale-1.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/whale-1.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/whale-3.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/whale-3.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/whale-2.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/whale-2.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-whale.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-whale.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/tween.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/tween.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-3.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/sprites/hipster-3.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/plain-audio/splashintro.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/plain-audio/splashintro.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/three.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/three.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8-bit-wonder.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/EditUndoBrk.css",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/EditUndoBrk.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8bitwonder.css",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/fonts/8bitwonder.css",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/game.min.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scripts/game.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinhop.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinhop.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GameReward.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GameReward.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/rapidsdeath3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/rapidsdeath3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/TrainAlarm.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/TrainAlarm.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/rapidsdeath9.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/rapidsdeath9.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinhop2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coinhop2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/TrainBell.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/TrainBell.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/birdflyaway.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/birdflyaway.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/drown1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/drown1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/drown2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/drown2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/TrainBell2.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/TrainBell2.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scoretop.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/scoretop.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/hop2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/hop2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/hawk-screech-02.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/hawk-screech-02.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainbell3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainbell3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/eaglehit.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/eaglehit.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car-horn.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car-horn.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/lilysplash.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/lilysplash.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainpassshorter.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainpassshorter.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/insertcoin.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/insertcoin.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/car3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainpassnohorn.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainpassnohorn.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump2.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump2.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/carhit.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/carhit.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/watersplash.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/watersplash.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/carsquish.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/carsquish.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainsplat.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/trainsplat.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump4.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/logjump4.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GetCoin79wav.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/GetCoin79wav.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/carsquish3.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/carsquish3.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/watersplashlow.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/watersplashlow.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/coin2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_3.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_3.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_9.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_9.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_5.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_5.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_7.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_7.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_4.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_4.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_8.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_8.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/grenade1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/grenade1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/Pulses_Electric_Spark_02.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/Pulses_Electric_Spark_02.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_6.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/Pop_6.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop4.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop4.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robotexplode.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robotexplode.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothopshort.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothopshort.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothopshort2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothopshort2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robothop3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat4.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat4.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robotloop.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/robot/robotloop.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/cat/cat1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck12.mp4",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck12.mp4",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck10.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck10.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck6.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck6.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck5.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck5.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck8.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck8.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck9.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck9.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck7.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck7.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck11.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck11.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/chickendeath2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/chickendeath2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck4.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/buck4.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/chickendeath.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/chicken/chickendeath.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack5.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack5.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/bannerhit3-g.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/bannerhit3-g.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/counting-of-money-short.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/counting-of-money-short.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/insert-coin.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/insert-coin.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack4.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/mallard/quack4.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/SlotMachineInsert.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/SlotMachineInsert.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev4.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev4.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev1.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/InsertingCoinIntoMachinev1.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/coininsert3.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/coininsert3.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/casinomachine.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/casinomachine.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/clickball.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/clickball.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/prizewinner.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/prizewinner.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/UnlockPlain.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/UnlockPlain.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/playslotsmachine.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/playslotsmachine.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/emptyingthepiggybank2.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/emptyingthepiggybank2.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/openbox.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/openbox.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/Earn_Points.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/Earn_Points.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/audio.zip",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/audio.zip",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/booktap.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/gift/booktap.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/PrizeWheel.mp4",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/youtube-playables@latest/crossy-road/scripts/prize/PrizeWheel.mp4",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T06:31:11.817Z",
+  "verifiedAt": "2026-11-17T06:31:22.277Z",
+  "verification": {
+    "external": 1,
+    "blocking": 1,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Crossy Road",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

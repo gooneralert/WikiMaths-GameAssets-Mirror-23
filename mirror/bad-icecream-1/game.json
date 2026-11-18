@@ -1,0 +1,204 @@
+{
+  "slug": "bad-icecream-1",
+  "title": "Bad Icecream 1",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/badice1.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/badice1.html",
+  "entryUrl": "https://truffled.lol/gamefile/badice1.html",
+  "status": "partial",
+  "sizeBytes": 6719790,
+  "assetCount": 46,
+  "known404": [
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/lng.txt",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/lng.txt",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/nitrome_small.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/nitrome_small.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/edge.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/edge.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/home.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/home.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/home_down.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/home_down.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/pause.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/pause.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/pause_down.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/pause_down.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/poki_large.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/poki_large.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/poki_small.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/poki_small.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/nitrome_full.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/nitrome_full.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/assets/builtins/playerglobal.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/assets/builtins/playerglobal.json",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/assets/ads/AGI.swf",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/js/assets/ads/AGI.swf",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/.png",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/dpad.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/dpad.png",
+      "status": 403
+    },
+    {
+      "url": "https://game-cdn.poki.com/scripts/_down.png",
+      "error": "HTTP 403 for https://game-cdn.poki.com/scripts/_down.png",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki.com/prebid/events.js",
+      "error": "HTTP 403 for https://a.poki.com/prebid/events.js",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki.com/prebid/bidmanager.js",
+      "error": "HTTP 403 for https://a.poki.com/prebid/bidmanager.js",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki.com/prebid/prebid.js",
+      "error": "HTTP 403 for https://a.poki.com/prebid/prebid.js",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki.com/prebid/trk.js",
+      "error": "HTTP 403 for https://a.poki.com/prebid/trk.js",
+      "status": 403
+    },
+    {
+      "url": "https://a.poki.com/prebid/userId.digitrustid.data",
+      "error": "HTTP 403 for https://a.poki.com/prebid/userId.digitrustid.data",
+      "status": 403
+    },
+    {
+      "url": "https://js.brealtime.com/outstream/1.30.0/),c=JSON.stringify(!0===n.json?c:n.json))),o.onreadystatechange=function(){4===o.readyState&&setTimeout(t,0)},o.onload=t,o.onerror=e,o.onprogress=function(){},o.onabort=function(){s=!0},o.ontimeout=e,o.open(d,u,!p,n.username,n.password),p||(o.withCredentials=!!n.withCredentials),!p&&0%3Cn.timeout&&(l=setTimeout(function(){if(!s){s=!0,o.abort(",
+      "error": "HTTP 403 for https://js.brealtime.com/outstream/1.30.0/),c=JSON.stringify(!0===n.json?c:n.json))),o.onreadystatechange=function(){4===o.readyState&&setTimeout(t,0)},o.onload=t,o.onerror=e,o.onprogress=function(){},o.onabort=function(){s=!0},o.ontimeout=e,o.open(d,u,!p,n.username,n.password),p||(o.withCredentials=!!n.withCredentials),!p&&0%3Cn.timeout&&(l=setTimeout(function(){if(!s){s=!0,o.abort(",
+      "status": 403
+    },
+    {
+      "url": "https://js.brealtime.com/outstream/1.30.0/vtt.js",
+      "error": "HTTP 403 for https://js.brealtime.com/outstream/1.30.0/vtt.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://js.brealtime.com/outstream/1.30.0/video.js",
+      "error": "HTTP 403 for https://js.brealtime.com/outstream/1.30.0/video.js",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/touchControllerConfig.json",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/assets@main/bad-ice-cream/touchControllerConfig.json",
+      "status": 403
+    },
+    {
+      "url": "https://imasdk.googleapis.comsa/js/sdkloader/ima3.js",
+      "error": "fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-18T06:33:31.826Z",
+  "verifiedAt": "2026-11-18T06:34:38.323Z",
+  "verification": {
+    "external": 7,
+    "blocking": 1,
+    "ignoredExternal": 6,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Bad Ice Cream",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 713,
+      "height": 713
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}
